@@ -34,5 +34,6 @@ sudo cp emroseclub.php /var/www/html/
 sudo cp empix.txt /var/www/html/
 sudo cp link_list.txt /var/www/html/
 sudo cp index.html /var/www/html/
+sudo cp solarized-dark.css /var/www/html/
 
 cd ..
