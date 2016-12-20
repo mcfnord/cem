@@ -30,10 +30,5 @@ done < "/home/ec2-user/cem/tmp/sources.txt"
 rm /home/ec2-user/cem/tmp/sources.txt
 
 cd ../src
-sudo cp emroseclub.php /var/www/html/
-sudo cp empix.txt /var/www/html/
-sudo cp link_list.txt /var/www/html/
-sudo cp index.html /var/www/html/
-sudo cp solarized-dark.css /var/www/html/
-
+sudo cp emroseclub.php empix.txt link_list.txt index.html solarized-dark.css /var/www/html/
 cd ..
