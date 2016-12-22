@@ -1,5 +1,29 @@
-### <center>Salesforce.com Senior Technical Writer</center>
-### <center>Answeraire in response to Questionaire</center>
+## Three writing samples
+
+Samples, samples, samples! 
+
+### One
+
+- **SAMPLE:** [Get started with Azure Blob storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
+- **MY ROLE:** This was a collaborative effort with non-writers. They knew what areas they wished to cover, what audience they had in mind, and how much time the tutorial would take. I tailored the code snippets, steps, and details to be clear and helpful. (Some sections have been added since the first publication of this document.)  
+- **EDITED MYSELF?:** I may have informally involved my officemate, who also edits, but officially I played the writer and editor roles in this project.
+
+### Two
+
+- **SAMPLE:**
+- **MY ROLE:**
+- **EDITED MYSELF?:**
+
+### Three
+
+- **SAMPLE:**
+- **MY ROLE:**
+- **EDITED MYSELF?:**
+
+
+## Answeraire in response to Questionaire
+
+
 
 ![](img/firstfive.png)
 
@@ -75,8 +99,6 @@ make timlines of product improvements, color-coded and easy to follow.
 The company was saved, and my documentation skills, which I got to apply in a myriad of 
 ways, played a pivotal role in the re-engineering and acquisition processes.
 
-### keep the party rolling
-
 ![](img/next2.png)
 
 I documented the REST-level API of the Windows Azure storage system. I learned about it 
@@ -97,14 +119,17 @@ interface claimed to provide. [Setting Timeouts for Blob Service
 Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations) 
 is the comprehensive documentation I wrote next.
 
+## TECHNOLOGIES AND ME
+
+Let's dive in!
 
 ### XML authoring tools like Oxygen or Arbortext Editor
 
-  - **Used daily?:** No!
+  - **Used daily?:** No.
   - **Self-rating:** 6
   - **Comments:** I don't use this stuff daily, but still rate myself a 7, because I 
 speak XML, and because I've worked closely with DocStudio, the XML-based content 
-management behind MSDN. I've also used AuthorIT, which tags chunks.
+management behind MSDN. I've also used AuthorIT, which tags chunks. I believe in technology that pulls its weight.  
 
 ### Image editing/creation software
 
@@ -116,12 +141,9 @@ example, I used Visio:
       
     ![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
 
-The diagram is part of this page:
-
 I also create animated gifs as a hobby:
 
-I also use ffmpeg. Success with most image handling is about good judgment and 
-craftsmanship rather than tools.
+Yeah, I use ffmpeg. So. I'm kind of a big deal.
   
 ### HTML
 
@@ -142,6 +164,6 @@ it. [John's GitHub](https://github.com/mcfnord/)
 
 ![](img/final.png)
 
-  8. I like writing, getting the scoop, and delivering the news.
+I like writing, getting the scoop, and delivering the news.
 
-  9. My current "job" is cleaning the house, animating gifs, and messing around on AWS.
+My current "job" is cleaning the house, animating gifs, and messing around on AWS.
