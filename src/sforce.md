@@ -63,7 +63,7 @@ How can I add documentation-specific flags to bugs? Specs, requirements, and pro
 are vaporware. While I'm often working with these clues to build out a skeleton of 
 user-specific or developer-oriented task lists, I write about apps that run. Those 
 pre-product sources suggest explanations of features, special cases, and caveats that 
-might help a user use the software. I'll give them everything that could possibly help. 
+might help a user use the software. I'll pass along everything that could possibly help. 
 Reading and repeating are large parts of this job.
 
 Check out my answer to #1, where I published from markdown into both HTML and PDF, using 
@@ -115,9 +115,11 @@ how many bytes were transferred. I put the .EXE on a server and went home. In th
 morning, I learned I wasn't failing, the .NET layer was. The dev released a blog 
 explanation at 11pm, and new release of SDK bits the next day. With the feature finally 
 working, I could write about it down to its nuances, by triggering all the features the 
-interface claimed to provide. [Setting Timeouts for Blob Service 
-Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations) 
-is the comprehensive documentation I wrote next.
+interface claimed to provide. 
+
+[Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
+
+ is the comprehensive documentation I wrote next.
 
 ## TECHNOLOGIES AND ME
 
@@ -139,7 +141,7 @@ management behind MSDN. I've also used AuthorIT, which tags chunks. I believe in
 coolest software. I can also provide great images using rather average tools. In this 
 example, I used Visio:
       
-    ![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
+![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
 
 I also create animated gifs as a hobby:
 
