@@ -12,8 +12,8 @@ cd ..
 
 while IFS= read -r file
 do
-sed 's/img\//http\:\/\/blop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
-sed 's/doc\//http\:\/\/blop.s3-us-west-2.amazonaws.com\/doc\//g' > tmp/$file
+sed 's/(img\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
+sed 's/(doc\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/doc\//g' > tmp/$file
 done < "/home/ec2-user/cem/sources.txt"
 
 rm /home/ec2-user/cem/sources.txt
