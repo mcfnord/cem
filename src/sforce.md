@@ -234,7 +234,7 @@ asynchronously with servers. HTML5 goes in directions I can't really list.
 How much HTML trouble is 
 actually HTML? Usually it's browser differences, plug-in 
 quirks, or some other non-HTML cause.
-[This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php).
+[This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php) using many tricky features of HTML.
 
 ### Source control software
 
