@@ -28,10 +28,12 @@ project.
 
 ### Three
 
-- **SAMPLE:** [Roadmap](http://tucc.us/docs/roadmap_blur.png) 
-- **MY ROLE:** Worked with 
-technical staff to plan engineering roadmap. This is blurry by request. This is marketing 
-communications showing the assets of a ten million dollar company during its solvent 
+- **SAMPLE:** [Engineering Roadmap](http://tucc.us/docs/roadmap_blur.png) 
+- **MY ROLE:** 
+(This is blurry by request.)
+Worked with 
+technical staff to plan engineering roadmap. 
+This marketing information features the assets of a ten million dollar company during its solvent 
 bankruptcy. 
 - **EDITED MYSELF?:** Yeah.
 
