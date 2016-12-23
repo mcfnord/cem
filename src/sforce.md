@@ -50,10 +50,6 @@ use. I wrote this by using the heck out of the Mage.exe tool.
 
 ## Answeraire in response to Questionaire
 
-
-
-![](img/firstfive.png)
-
 I've written for SaaS and Web applications. One system in 
 particular gave non-technical users a powerful platform for 
 learning marketing costs of their inbound call enterprises, 
@@ -106,7 +102,7 @@ flags to bugs? How can I log bullet points of what I want to
 confirm in the finished product? Specs, requirements, and 
 prototypes are vaporware. While I'm often working with these 
 clues to build out a skeleton of user-specific or 
-developer-oriented task lists, I write about apps that run. 
+developer-oriented tasks, I still write about apps that run. 
 Those pre-product sources suggest explanations of features, 
 special cases, and caveats that might help a user use the 
 software. I'll pass along everything written in these 
@@ -130,7 +126,7 @@ paragraphs with some custom paragraphs of our own. I still
 remember this when I get these emails from Azure. And it's a 
 good critique of single-sourcing: Trying to reach diverse 
 audiences with chunks of tagged content can be a pain, 
-especially when audiences differ significantly.
+especially when audiences differ significantly. 
 
 I was hired as part of a turnaround team to save a company 
 from collapse. There were about 200 employees. The company 
@@ -143,12 +139,13 @@ surfacing every function of the enterprise. Eventually I
 filled a wall with maps of the stealth network, databases, 
 scripts, and code repositories that drove the enterprise. 
 Engineers scrutinized my wall of systems and plans. 
-Prospective buyers examined assets using large prints I 
-prepared of the data flows and other assets. I video taped 
+Prospective buyers examined the enterprise using large prints I 
+prepared of the data flows and intellectual assets. I video taped 
 some technical talks and dramatically compressed them so the 
-India teams could watch. I solicited tribal knowledge from 
-the India teams, and translated very dense reports rich with 
-vernacular into easy guidance. At one point the leadership 
+India teams could watch. One day on the wiki, I found detailed tribal knowledge 
+collected in India, but thick with vernacular. I turned it into
+easy guidance. I re-wrote their entire technical wiki. 
+At one point the leadership 
 worked with staff to evaluate the hiring priorities and 
 needs. I asked them to use Post-its to add career details 
 and hiring criteria for people we associated with company 
@@ -156,11 +153,10 @@ expansion tasks. I integrated meeting feedback into a clear
 hiring plan. I got to make timlines of product improvements, 
 color-coded and easy to follow.
 
-The company was saved, and my documentation skills, which I 
+The company was saved by a buyer, at ten million dollars.
+My documentation skills, which I 
 got to apply in a myriad of ways, played a pivotal role in 
 the re-engineering and acquisition processes.
-
-![](img/next2.png)
 
 I documented the REST-level API of the Windows Azure storage 
 system. I learned about it from existing documentation, plus 
@@ -174,7 +170,7 @@ logs some events. When something just didn't make sense, I
 had experts I could ask.
 
 I remember feeling really frustrated with a new Azure 
-storage feature, a simple file-to-cloud API. I had the 
+storage feature, a simple copy-file-to-cloud API. I had the 
 newest SDK, but my file never fully wrote to the cloud. Some 
 small ones did, but larger ones didn't. The experts said I'd 
 get an exception if it failed. They asked if I was ignoring 
@@ -183,9 +179,10 @@ switching to public storage buckets, and making a simple
 command line report of how many bytes were transferred. I 
 put the .EXE on a server and went home. In the morning, I 
 learned I wasn't failing, the .NET layer was. The dev 
-[released a blog explanation at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
-and new release of SDK 
-bits the next day. With the feature finally working, I could 
+[released an explanation blog post at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
+and the SDK bits were revised the next day. 
+
+With the feature finally working, I could 
 write about it down to its nuances, by triggering all the 
 features the interface claimed to provide. Here's what I 
 wrote next:
@@ -207,19 +204,20 @@ rate myself competently, because I speak XML, and because
 I've worked closely with DocStudio, the XML-based content 
 management behind MSDN. I've also used AuthorIT, which tags 
 chunks.  I've done a lot of non-documentation XML, and a lot 
-of documentation. At Microsoft I've done XML-based 
-documentation on MSDN many times.
+of documentation.  
 
 ### Image editing/creation software
 
   - **Used daily?:** Yes.
   - **Self-rating:** 7
-  - **Comments:** Let's get something straight: I can create 
+  - **Comments:** I can create 
 a miserable image using the coolest software. I can also 
-provide great images using rather average tools. In this 
+create great images using rather average tools. In this 
 example, I used Visio:
       
 ![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
+
+That diagram is part of [this reference topic](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-blob), which I significantly re-wrote and amended.   
 
 I also [create animated gifs](http://ec2-35-165-168-112.us-west-2.compute.amazonaws.com/an_color.html) as a hobby.
 
@@ -232,10 +230,11 @@ And I use [ffmpeg](https://ffmpeg.org/). So. I'm kind of a big deal.
   - **Comments:** Yeah, I use HTML daily. I learned HTML 
 before there was CSS. Now HTML can include JavaScript 
 libraries that navigate the DOM and round-trips 
-asynchronously with servers. How much HTML trouble is 
+asynchronously with servers. HTML5 goes in directions I can't really list.
+How much HTML trouble is 
 actually HTML? Usually it's browser differences, plug-in 
-quirks, or some other non-HTML cause. I use PHP to write 
-tricks in HTML to run projects on multiple domains.
+quirks, or some other non-HTML cause.
+[This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php).
 
 ### Source control software
 
@@ -244,7 +243,8 @@ tricks in HTML to run projects on multiple domains.
   - **Comments:** I use git and GitHub daily. I've made 
 branches, pushed and pulled with it. [John's GitHub](https://github.com/mcfnord/)
 
-![](img/final.png)
+
+## Bring it on home
 
 I like writing, getting the scoop, and delivering the news. In this case the 
 news might be the full description of what a user must know and do to make your offering 
@@ -255,7 +255,8 @@ designs for improvements. I like how writing can clarify just how successful we 
 simplifying user tasks. 
 Writing can separate the substance from the vapors, let the chips fall where they may. 
 
-I wrote this on [my own publication 
-platform](https://github.com/mcfnord/cem/blob/master/pub.sh). Here's [the Markdown source 
-for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md).
-
+I wrote all this on 
+[my own publication platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
+You can see 
+[the Markdown source for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md).
+ 
