@@ -183,7 +183,8 @@ switching to public storage buckets, and making a simple
 command line report of how many bytes were transferred. I 
 put the .EXE on a server and went home. In the morning, I 
 learned I wasn't failing, the .NET layer was. The dev 
-released a blog explanation at 11pm, and new release of SDK 
+[released a blog explanation at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
+and new release of SDK 
 bits the next day. With the feature finally working, I could 
 write about it down to its nuances, by triggering all the 
 features the interface claimed to provide. Here's what I 
@@ -191,9 +192,11 @@ wrote next:
 
 [Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
 
+Little article, big win.
+
 ## TECHNOLOGIES AND ME
 
-Let's dive in!
+What do I know? Let's dive in!
 
 ### XML authoring tools like Oxygen or Arbortext Editor
 
@@ -218,9 +221,9 @@ example, I used Visio:
       
 ![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
 
-I also create animated gifs as a hobby:
+I also [create animated gifs](http://ec2-35-165-168-112.us-west-2.compute.amazonaws.com/an_color.html) as a hobby.
 
-And I use ffmpeg. So. I'm kind of a big deal.
+And I use [ffmpeg](https://ffmpeg.org/). So. I'm kind of a big deal.
   
 ### HTML
 
