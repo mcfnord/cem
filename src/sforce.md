@@ -1,32 +1,49 @@
 ## Three writing samples
 
-Samples, samples, samples! 
+I've chosen these three examples of my work. See more by visiting [my online 
+resume'](http://tucc.us/resume).
+
 
 ### One
 
-- **SAMPLE:** [Get started with Azure Blob 
-storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
-- **MY ROLE:** This was a collaborative effort with 
-non-writers. They knew what areas they wished to cover, what 
-audience they had in mind, and how much time the tutorial 
-would take. I tailored the code snippets, steps, and details 
-to be clear and helpful. (Some sections have been added 
-since the first publication of this document.)  - **EDITED 
-MYSELF?:** I may have informally involved my officemate, who 
-also edits, but officially I played the writer and editor 
-roles in this project.
+- **SAMPLE:** [Get started with Azure Blob storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
+- **MY ROLE:** This was a collaborative effort with two non-writers. They knew what areas 
+they wished to cover, what audience they had in mind, and how much time the tutorial 
+would take. I tailored the code snippets, steps, and details to be clear and helpful. I 
+prevented publication of errors, and actually I remember actual fighting-like-dogs events 
+around this document, because it was the brainchild of an unusually revered Microsoft cat 
+who is now credited with making Azure relevant. I am really embarassed that the diagram 
+is a .jpg. I used .png in a related example, which looks much better. People deserve 
+better than .jpg for diagrams. I'll also say there's new writing in some of this that 
+wasn't in my original. 
+- **EDITED MYSELF?:** I may have informally involved my 
+officemate, who also edits, but officially I played the writer and editor roles in this 
+project.
 
 ### Two
 
-- **SAMPLE:**
-- **MY ROLE:**
-- **EDITED MYSELF?:**
+- **SAMPLE:** [Human Interface Guide](http://tucc.us/docs/hig.pdf)
+- **MY ROLE:** Constructed publication from diverse source materials and interviews.
+- **EDITED MYSELF?:** 100%
 
 ### Three
 
-- **SAMPLE:**
-- **MY ROLE:**
-- **EDITED MYSELF?:**
+- **SAMPLE:** [Roadmap](http://tucc.us/docs/roadmap_blur.png) 
+- **MY ROLE:** Worked with 
+technical staff to plan engineering roadmap. This is blurry by request. This is marketing 
+communications showing the assets of a ten million dollar company during its solvent 
+bankruptcy. 
+- **EDITED MYSELF?:** Yeah.
+
+### Bonus sample!
+
+- **SAMPLE:** [Walkthrough: Manually Deploying a ClickOnce 
+Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx) 
+- **MY ROLE:** (I felt bad about showing you that blurry sample.) This is 100% my work. I'm 
+including it because it's a very tricky topic. Nobody could use it. Then I wrote this and 
+people were more successful with this technology. It's still a very tricky technology to 
+use. I wrote this by using the heck out of the Mage.exe tool. 
+- **EDITED MYSELF?:** I had the help of a very skilled editor on this.
 
 
 ## Answeraire in response to Questionaire
@@ -136,7 +153,7 @@ and hiring criteria for people we associated with company
 expansion tasks. I integrated meeting feedback into a clear 
 hiring plan. I got to make timlines of product improvements, 
 color-coded and easy to follow.
-     
+
 The company was saved, and my documentation skills, which I 
 got to apply in a myriad of ways, played a pivotal role in 
 the re-engineering and acquisition processes.
@@ -220,21 +237,23 @@ tricks in HTML to run projects on multiple domains.
   - **Used daily?:** Yes.
   - **Self-rating:** 7
   - **Comments:** I use git and GitHub daily. I've made 
-branches, pushed and pulled with it. [John's 
-GitHub](https://github.com/mcfnord/)
+branches, pushed and pulled with it. [John's GitHub](https://github.com/mcfnord/)
 
 ![](img/final.png)
 
-I like writing, getting the scoop, and delivering the news. 
-In this case the news might be the full description of what 
-a user must know and do to make your offering valuable to 
-them. A technical writer is the user's last line of defense. 
-Maybe the UI is only halfway to where we want it. Telling 
-the user now what they can do now is fun for me. Showing 
-everyone what it *really* takes to use a software product 
-can help drive the designs for improvements. I like how 
-writing can clarify just how successful we are at 
-simplifying user tasks.
-Writing forms a record that sometimes never existed before. 
-Writing can separate the substance from the vapors, let the 
-chips fall where they may.
+I like writing, getting the scoop, and delivering the news. In this case the 
+news might be the full description of what a user must know and do to make your offering 
+valuable to them. A technical writer is the user's last line of defense. Maybe the UI is 
+only halfway to where we want it. Telling the user now what they can do now is fun for 
+me. Showing everyone what it *really* takes to use a software product can help drive the 
+designs for improvements. I like how writing can clarify just how successful we are at 
+simplifying user tasks. Writing forms a record that sometimes never existed before. 
+Writing can separate the substance from the vapors, let the chips fall where they may. 
+
+I like writing, getting the scoop, and delivering the news. Good writing can separate the 
+substance from the vapors, let the chips fall where they may.
+
+I wrote this on [my own publication 
+platform](https://github.com/mcfnord/cem/blob/master/pub.sh). Here's [the Markdown source 
+for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md).
+
