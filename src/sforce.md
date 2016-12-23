@@ -1,24 +1,31 @@
 ## Three writing samples
 
-Samples, samples, samples! 
+I've chosen these three examples of my work. See more by visiting [my online resume'](http://tucc.us/resume).
+
 
 ### One
 
 - **SAMPLE:** [Get started with Azure Blob storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
-- **MY ROLE:** This was a collaborative effort with non-writers. They knew what areas they wished to cover, what audience they had in mind, and how much time the tutorial would take. I tailored the code snippets, steps, and details to be clear and helpful. (Some sections have been added since the first publication of this document.)  
+- **MY ROLE:** This was a collaborative effort with two non-writers. They knew what areas they wished to cover, what audience they had in mind, and how much time the tutorial would take. I tailored the code snippets, steps, and details to be clear and helpful. I prevented publication of errors, and actually I remember actual fighting-like-dogs events around this document, because it was the brainchild of an unusually revered Microsoft cat who is now credited with making Azure relevant. I am really embarassed that the diagram is a .jpg. I used .png in a related example, which looks much better. People deserve better than .jpg for diagrams. I'll also say there's new writing in some of this that wasn't in my original.
 - **EDITED MYSELF?:** I may have informally involved my officemate, who also edits, but officially I played the writer and editor roles in this project.
 
 ### Two
 
-- **SAMPLE:**
-- **MY ROLE:**
-- **EDITED MYSELF?:**
+- **SAMPLE:** [Human Interface Guide](http://tucc.us/docs/hig.pdf)
+- **MY ROLE:** Constructed publication from diverse source materials and interviews.
+- **EDITED MYSELF?:** 100%
 
 ### Three
 
-- **SAMPLE:**
-- **MY ROLE:**
-- **EDITED MYSELF?:**
+- **SAMPLE:** [Roadmap](http://tucc.us/docs/roadmap_blur.png)
+- **MY ROLE:** Worked with technical staff to plan engineering roadmap. This is blurry by request. This is marketing communications showing the assets of a ten million dollar company during its solvent bankruptcy. 
+- **EDITED MYSELF?:** Yeah.
+
+### Bonus sample!
+
+- **SAMPLE:** [Walkthrough: Manually Deploying a ClickOnce Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx)
+- **MY ROLE:** (I felt bad about showing you that blurry sample.) This is 100% my work. I'm including it because it's a very tricky topic. Nobody could use it. Then I wrote this and people were more successful with this technology. It's still a very tricky technology to use. I wrote this by using the heck out of the Mage.exe tool.
+- **EDITED MYSELF?:** I had the help of a very skilled editor on this. 
 
 
 ## Answeraire in response to Questionaire
@@ -169,3 +176,8 @@ it. [John's GitHub](https://github.com/mcfnord/)
 I like writing, getting the scoop, and delivering the news.
 
 My current "job" is cleaning the house, animating gifs, and messing around on AWS.
+
+
+I wrote this on my own publication platform. Here's the source:
+I use s3 storage for the graphics and larger files:
+
