@@ -249,11 +249,8 @@ valuable to them. A technical writer is the user's last line of defense. Maybe t
 only halfway to where we want it. Telling the user now what they can do now is fun for 
 me. Showing everyone what it *really* takes to use a software product can help drive the 
 designs for improvements. I like how writing can clarify just how successful we are at 
-simplifying user tasks. Writing forms a record that sometimes never existed before. 
+simplifying user tasks. 
 Writing can separate the substance from the vapors, let the chips fall where they may. 
-
-I like writing, getting the scoop, and delivering the news. Good writing can separate the 
-substance from the vapors, let the chips fall where they may.
 
 I wrote this on [my own publication 
 platform](https://github.com/mcfnord/cem/blob/master/pub.sh). Here's [the Markdown source 
