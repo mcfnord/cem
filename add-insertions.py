@@ -33,7 +33,7 @@ for line in sys.stdin:
         f =  open(filename, "r")
 	parser.feed(f.read())
     else:
-        print line
+        print line,
 #    parser.feed(line)
 # parser.feed('foo bar bat <diV class="foo"> foopants </DIV> <div class="bar"> no dont show me</div>')
 

@@ -254,8 +254,13 @@ designs for improvements. I like how writing can clarify just how successful we 
 simplifying user tasks. 
 Writing can separate the substance from the vapors, let the chips fall where they may. 
 
-I wrote all this on 
-[my own publication platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
-You can see 
-[the Markdown source for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md).
+I wrote all this on [my own publication 
+platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
+You can see [the Markdown source for the file you've just 
+read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). 
+I've added [a feature to single-source from my own 
+content](https://github.com/mcfnord/cem/blob/master/add-insertions.py)
+ with this syntax:
+
+> insert: sourcefile classname
  
