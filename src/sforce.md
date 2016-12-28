@@ -4,29 +4,27 @@ I've chosen these three examples of my work. See more by visiting [my online
 resume'](http://tucc.us/resume).
 
 
-### One
+### Sample One
 
 - **SAMPLE:** [Get started with Azure Blob storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
 - **MY ROLE:** This was a collaborative effort with two non-writers. They knew what areas 
 they wished to cover, what audience they had in mind, and how much time the tutorial 
-would take. I tailored the code snippets, steps, and details to be clear and helpful. I 
+should take. I tailored the code snippets, steps, and details to be clear and helpful. I 
 prevented publication of errors, and actually I remember actual fighting-like-dogs events 
 around this document, because it was the brainchild of an unusually revered Microsoft cat 
 who is now credited with making Azure relevant. I am really embarassed that the diagram 
 is a .jpg. I used .png in a related example, which looks much better. People deserve 
-better than .jpg for diagrams. I'll also say there's new writing in some of this that 
+better than .jpg for diagrams. Do note there's new writing in some of this that 
 wasn't in my original. 
-- **EDITED MYSELF?:** I may have informally involved my 
-officemate, who also edits, but officially I played the writer and editor roles in this 
-project.
+- **EDITED MYSELF?:** Yes.
 
-### Two
+### Sample Two
 
 - **SAMPLE:** [Human Interface Guide](http://tucc.us/docs/hig.pdf)
 - **MY ROLE:** Constructed publication from diverse source materials and interviews.
-- **EDITED MYSELF?:** 100%
+- **EDITED MYSELF?:** Yes.
 
-### Three
+## Sample Three
 
 - **SAMPLE:** [Engineering Roadmap](http://tucc.us/docs/roadmap_blur.png) 
 - **MY ROLE:** 
@@ -35,7 +33,7 @@ Worked with
 technical staff to plan engineering roadmap. 
 This marketing information features the assets of a ten million dollar company during its solvent 
 bankruptcy. 
-- **EDITED MYSELF?:** Yeah.
+- **EDITED MYSELF?:** Yes.
 
 ### Bonus sample!
 
@@ -45,7 +43,7 @@ Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx)
 including it because it's a very tricky topic. Nobody could use it. Then I wrote this and 
 people were more successful with this technology. It's still a very tricky technology to 
 use. I wrote this by using the heck out of the Mage.exe tool. 
-- **EDITED MYSELF?:** I had the help of a very skilled editor on this.
+- **EDITED MYSELF?:** I had the help of a skilled editor.
 
 
 ## Answeraire in response to Questionaire
@@ -57,15 +55,15 @@ recording calls securely, routing calls based on the area
 code of the caller, and other clever, useful stuff. The 
 browser-based UI for this tool was garbage. A team answered 
 calls all day about the browser app's snafus and quirks. I 
-was given very broad authority to upgrade the app's 
+was given broad authority to upgrade the app's 
 documentation. I designed a Markdown-based platform that let 
 me publish easily to both PDF and a browse-able hierarchy of 
 HTML. I made sure my design let anyone get a URL to a 
 specific page and section in the content. The final 
 publication might have been 300 pages, including newbie 
 walkthroughs, nitty-gritty details, magic tricks, and 
-developer APIs. I voraciously studied app features and 
-failings, using bug reports, historical design docs, source 
+developer API. I methodically  studied app features and 
+failings, using bug reports, design docs, source 
 code, and logs of incoming email support incidents. When I 
 was done, the team taking customer calls could send back a 
 URL! They didn't have to hold the caller's hand, because my 
@@ -76,11 +74,11 @@ investigation to bridge the gap between what the user wants
 and how this kooky UI can do it.
 
 Perhaps Web-based software can be more opaque than 
-traditional software. If I know only that my user has a 
+traditional software. If I know that my user has a 
 browser on the internet, then I can reach them there! Since 
 I'm not shipping content, but only links to content, I can 
 push more to readers, get feedback more often, and fix 
-errors in a snap.  Web-based software does have some 
+errors in a snap. So Web-based software does have some 
 advantages for writers and publishers.
 
 That telephone software had many CRM features. Businesses 
@@ -93,21 +91,22 @@ Clever! Valuable!
 My typical process favors a finished product. ;) I've 
 ingested (*burp*) specs, requirements, and prototypes by the 
 tens of thousands of pages. I read them all with a 
-highlighter. But those are mere suggestions of what the user 
-might get some day. Sounds like fodder for a skeleton 
-outline, but what good is that? I want to talk about what 
+highlighter uncapped. But those are mere suggestions of what the user 
+might get some day. 
+I want to talk about what 
 works. Where can I get the daily dev build, and log of 
 check-ins and diffs? How can I add documentation-specific 
-flags to bugs? How can I log bullet points of what I want to 
+flags to bugs? How can I log details of what I want to 
 confirm in the finished product? Specs, requirements, and 
 prototypes are vaporware. While I'm often working with these 
-clues to build out a skeleton of user-specific or 
-developer-oriented tasks, I still write about apps that run. 
-Those pre-product sources suggest explanations of features, 
-special cases, and caveats that might help a user use the 
-software. I'll pass along everything written in these 
-documents that could possibly help the user succeed. Reading 
-and repeating are large parts of the job.
+clues to build out a skeleton of topics using titles. A good title can evoke details and clues from everyone.
+Sometimes I wish I wrote titles for a living. Alas, details matter. 
+
+Any pre-product source suggest explanations of features, 
+special cases, and caveats that might help anyone use the finished product.
+I'll pass along everything written in these 
+documents that could possibly help. Reading 
+and repeating are large parts of the job. But whenever possible, I want to build guidance using running code.
 
 At a company called Qpass (now Amdocs) I single-sourced 
 using AuthorIT, a professional publishing package. A more 
