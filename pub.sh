@@ -15,7 +15,7 @@ sed 's/(doc\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/doc\//g' | \
         python add-insertions.py > tmp/$file
 done < "sources.txt"
 
-rm /home/ec2-user/cem/sources.txt
+rm sources.txt
 
 cd tmp
 mv ref/* .
