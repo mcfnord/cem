@@ -6,8 +6,6 @@ mkdir tmp/ref
 
 cd src
 find . | grep '\.md' | sed 's/\.\///g' > ../sources.txt
-# ls -w 1 src/*.md > sources.txt
-# ls -w 1 src/ref/*.md >> sources.txt
 cd ..
 
 while IFS= read -r file
@@ -15,7 +13,7 @@ do
 sed 's/(img\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
 sed 's/(doc\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/doc\//g' | \
         python add-insertions.py > tmp/$file
-done < "/home/ec2-user/cem/sources.txt"
+done < "sources.txt"
 
 rm /home/ec2-user/cem/sources.txt
 
@@ -26,9 +24,11 @@ while IFS= read -r file
 do
 docker run -v `pwd`:/source jagregory/pandoc -f markdown -t html-raw_html --standalone --css=solarized-dark.css $file.md > $file.html
 sudo cp $file.html /var/www/html/
-done < "/home/ec2-user/cem/tmp/sources.txt"
+done < "sources.txt"
 
-rm /home/ec2-user/cem/tmp/sources.txt
+# there are two different sources.txt files, one's in tmp/sources.txt, and they differ in content!
+
+rm sources.txt
 
 cd ../src
 sudo cp emroseclub.php empix.txt link_list.txt index.html solarized-dark.css /var/www/html/
