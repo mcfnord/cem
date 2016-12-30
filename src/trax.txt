@@ -12,7 +12,6 @@ http://blop.s3-us-west-2.amazonaws.com/doc/vms/0-12-04T19_38_07Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/0-12-15T06_01_03Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/0-12-28T20_03_58Z-emily.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/1-01-10T06_16_13Z-chloe.mp3
-http://blop.s3-us-west-2.amazonaws.com/doc/vms/1-01-10T06_17_33Z-emily.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/1-01-19T06_30_03Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/1-01-25T06_13_50Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/1-02-01T05_06_52Z-chloe.mp3
@@ -28,7 +27,6 @@ http://blop.s3-us-west-2.amazonaws.com/doc/vms/2-12-17T16_24_16Z-darin.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/2-12-17T21_30_11Z-emily.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/2-12-21T01_37_26Z-darin.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-01-02T03_30_06Z-emily.mp3
-http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-02-16T19_40_17Z-emily.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-04-20T19_07_34Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-04-kate.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-06-13T17_15_26Z-emily.mp3
@@ -52,7 +50,6 @@ http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-10-07T05_45_56Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-10-08T04_35_57Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-10-15T03_50_34Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-10-31T04_58_18Z-chloe.mp3
-http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-11-01T18_05_20Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-11-08T04_37_51Z-melissa.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-11-14T03_40_27Z-chloe.mp3
 http://blop.s3-us-west-2.amazonaws.com/doc/vms/3-11-22T23_48_16Z-darin.mp3
