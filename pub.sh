@@ -31,5 +31,5 @@ done < "sources.txt"
 rm sources.txt
 
 cd ../src
-sudo cp emroseclub.php empix.txt link_list.txt index.html solarized-dark.css /var/www/html/
+sudo cp emroseclub.php empix.txt link_list.txt trax.txt index.html solarized-dark.css /var/www/html/
 cd ..
