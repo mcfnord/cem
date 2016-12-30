@@ -12,10 +12,8 @@ they wished to cover, what audience they had in mind, and how much time the tuto
 should take. I tailored the code snippets, steps, and details to be clear and helpful. I 
 prevented publication of errors, and actually I remember actual fighting-like-dogs events 
 around this document, because it was the brainchild of an unusually revered Microsoft cat 
-who is now credited with making Azure relevant. I am really embarassed that the diagram 
-is a .jpg. I used .png in a related example, which looks much better. People deserve 
-better than .jpg for diagrams. Do note there's new writing in some of this that 
-wasn't in my original. 
+who is now credited with making Azure relevant. (Do note there's new writing in this document that 
+wasn't in my original.)
 - **EDITED MYSELF?:** Yes.
 
 ### Sample Two
@@ -28,17 +26,16 @@ wasn't in my original.
 
 - **SAMPLE:** [Engineering Roadmap](http://tucc.us/docs/roadmap_blur.png) 
 - **MY ROLE:** 
-(This is blurry by request.)
+(This is blurry at owner's request.)
 Worked with 
 technical staff to plan engineering roadmap. 
-This marketing information features the assets of a ten million dollar company during its solvent 
+This marketing information features the assets of a ten million dollar company during its successful, solvent 
 bankruptcy. 
 - **EDITED MYSELF?:** Yes.
 
 ### Bonus sample!
 
-- **SAMPLE:** [Walkthrough: Manually Deploying a ClickOnce 
-Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx) 
+- **SAMPLE:** [Walkthrough: Manually Deploying a ClickOnce Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx) 
 - **MY ROLE:** (I felt bad about showing you that blurry sample.) This is 100% my work. I'm 
 including it because it's a very tricky topic. Nobody could use it. Then I wrote this and 
 people were more successful with this technology. It's still a very tricky technology to 
@@ -71,7 +68,7 @@ docs did that. And that customer, with a browseable
 hierarchy and PDF, might never need to call back. I couldn't 
 fix the horrible UI. Instead, I used publishing tools and 
 investigation to bridge the gap between what the user wants 
-and how this kooky UI can do it.
+and how this kooky UI can do it. 
 
 Perhaps Web-based software can be more opaque than 
 traditional software. If I know that my user has a 
@@ -84,7 +81,7 @@ advantages for writers and publishers.
 That telephone software had many CRM features. Businesses 
 want to know who calls, and who calls once vs. twenty times. 
 Some flavors of the tracking technology determined 
-first-time caller demographics as the call rings, or told 
+first-time caller demographics as the call rang, or told 
 you exactly which search terms preceded the call. Tricky! 
 Clever! Valuable!
 
@@ -102,11 +99,10 @@ prototypes are vaporware. While I'm often working with these
 clues to build out a skeleton of topics using titles. A good title can evoke details and clues from everyone.
 Sometimes I wish I wrote titles for a living. Alas, details matter. 
 
-Any pre-product source suggest explanations of features, 
-special cases, and caveats that might help anyone use the finished product.
-I'll pass along everything written in these 
-documents that could possibly help. Reading 
-and repeating are large parts of the job. But whenever possible, I want to build guidance using running code.
+Any pre-product source suggest explanations of features, special cases, and caveats that might help 
+anyone use the finished product. I'll pass along everything written in these documents that could 
+possibly help. Reading and repeating are large parts of the job. But whenever possible, I want to build 
+guidance using running code. I certainly have to *finish* it using running code.
 
 At a company called Qpass (now Amdocs) I single-sourced 
 using AuthorIT, a professional publishing package. A more 
@@ -150,9 +146,7 @@ needs. I asked them to use Post-its to add career details
 and hiring criteria for people we associated with company 
 expansion tasks. I integrated meeting feedback into a clear 
 hiring plan. I got to make timlines of product improvements, 
-color-coded and easy to follow.
-
-The company was saved by a buyer, at ten million dollars.
+color-coded and easy to follow. The company was saved by a buyer, at ten million dollars.
 My documentation skills, which I 
 got to apply in a myriad of ways, played a pivotal role in 
 the re-engineering and acquisition processes.
@@ -209,16 +203,20 @@ of documentation.
 
   - **Used daily?:** Yes.
   - **Self-rating:** 7
-  - **Comments:** I can create 
+  - **Comments:** There are many high-end image tools, but I rarely use them.
+I can create 
 a miserable image using the coolest software. I can also 
 create great images using rather average tools. In this 
 example, I used Visio:
       
 ![](http://i.msdn.microsoft.com/dynimg/IC588554.png)
 
-That diagram is part of [this reference topic](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-blob), which I significantly re-wrote and amended.   
+That diagram is part of 
+[this reference topic](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-blob), 
+which I significantly re-wrote and amended.
 
-I also [create animated gifs](http://ec2-35-165-168-112.us-west-2.compute.amazonaws.com/an_color.html) as a hobby.
+I also [create animated gifs](http://ec2-35-165-168-112.us-west-2.compute.amazonaws.com/an_color.html) 
+as a hobby.
 
 And I use [ffmpeg](https://ffmpeg.org/). So. I'm kind of a big deal.
   
@@ -226,14 +224,12 @@ And I use [ffmpeg](https://ffmpeg.org/). So. I'm kind of a big deal.
 
   - **Used daily?:** Yes.
   - **Self-rating:** 8
-  - **Comments:** Yeah, I use HTML daily. I learned HTML 
-before there was CSS. Now HTML can include JavaScript 
-libraries that navigate the DOM and round-trips 
-asynchronously with servers. HTML5 goes in directions I can't really list.
-How much HTML trouble is 
-actually HTML? Usually it's browser differences, plug-in 
-quirks, or some other non-HTML cause.
-[This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php) using many tricky features of HTML.
+  - **Comments:** Yeah, I use HTML daily. I learned HTML before there was CSS. Now HTML can include 
+JavaScript libraries that navigate the DOM and round-trips asynchronously with servers. HTML5 goes in 
+directions I can't really list. 
+[This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php) 
+using many tricky features of 
+HTML.
 
 ### Source control software
 
