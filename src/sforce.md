@@ -8,10 +8,12 @@ resume'](http://tucc.us/resume).
 - **SAMPLE:** [Get started with Azure Blob storage](https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs) 
 - **MY ROLE:** This was a collaborative effort with two non-writers. They knew what areas 
 they wished to cover, what audience they had in mind, and how much time the tutorial 
-should take. I tailored the code snippets, steps, and details to be clear and helpful. I 
-prevented publication of errors, and actually I remember actual fighting-like-dogs events 
-around this document, because it was the brainchild of an unusually revered Microsoft cat 
-who is now credited with making Azure relevant. (Do note there's new writing in this document that 
+should take. I tailored the code snippets, steps, and details to be clear and helpful (and accurate).
+I remember actual fighting-like-dogs events 
+around this document, as it was a symbolic part of a re-invention of documentation for the Microsoft cloud initiated by a VP. I mediated some disagreements and engaged in a few.
+We shipped a document and new doc framework that has stood up over some time!
+
+(Do note there's new writing in this document that 
 wasn't in my original.)
 - **EDITED MYSELF?:** Yes.
 
@@ -44,79 +46,54 @@ use. I wrote this by using the heck out of the Mage.exe tool.
 
 ## Answeraire in response to Questionaire
 
-I've written for SaaS and Web applications. One system in particular gave non-technical users a powerful 
-platform for learning marketing costs of their inbound call enterprises, recording calls securely, 
-routing calls based on the area code of the caller, and other clever, useful stuff. The browser-based UI 
-for this tool was garbage. A team answered calls all day about the browser app's snafus and quirks. I 
-was given broad authority to upgrade the app's documentation. I designed a Markdown-based platform that 
-let me publish easily to both PDF and a browse-able hierarchy of HTML. I made sure my design let anyone 
-get a URL to a specific page and section in the content. The final publication might have been 300 
-pages, including newbie walkthroughs, nitty-gritty details, magic tricks, and developer API. I 
-methodically studied app features and failings, using bug reports, design docs, source code, and logs of 
-incoming email support incidents. When I was done, the team taking customer calls could send back a URL! 
-They didn't have to hold the caller's hand, because my docs did that. And that customer, with a 
-browseable hierarchy and PDF, might never need to call back. I couldn't fix the horrible UI. Instead, I 
-used publishing tools and investigation to bridge the gap between what the user wants and how this kooky 
-UI can do it.
+I've organized my answers to your questions into something like an essay.
+
+I've written for SaaS and Web applications. 
 
 Perhaps Web-based software can be more opaque than traditional software. If I know that my user has a 
 browser on the internet, then I can reach them there! Since I'm not shipping content, but only links to 
 content, I can push more to readers, get feedback more often, and fix errors in a snap. So Web-based 
 software does have some advantages for writers and publishers.
 
+Any pre-product source suggest explanations of features, special cases, and caveats that might help 
+anyone use the finished product. As the writer, I'll pass along everything written in source documents that could 
+possibly help. Sometimes I'll erase old documents because they're fully reflected (more accurately and clearly) in new ones.
+Reading and repeating are large parts of the job. Culling can be, too. 
+
+Whenever possible, I want to build 
+guidance using running code. I certainly have to *finish* it using running code.
+
+### Telephone Tricks
+
+You've asked about CRM experiences. One project I worked with in Seattle had clever techniques for 
+learning more about customers and prospective customers.
+
+The web-based software provided a powerful 
+platform for learning marketing costs of inbound call enterprises, recording calls securely, 
+routing calls based on the area code of the caller, and other clever, useful stuff. 
 That telephone software had many CRM features. Businesses want to know who calls, and who calls once vs. 
 twenty times. Some flavors of the tracking technology determined first-time caller demographics as the 
 call rang, or told you exactly which search terms preceded the call. Tricky! Clever! Valuable!
 
-My typical process favors a finished product. ;) I've ingested (*burp*) specs, requirements, and 
-prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. But those are 
-mere suggestions of what the user might get some day. I want to talk about what works. Where can I get 
-the daily dev build, and log of check-ins and diffs? How can I add documentation-specific flags to bugs? 
-How can I log details of what I want to confirm in the finished product? Specs, requirements, and 
-prototypes are vaporware. While I'm often working with these clues to build out a skeleton of topics 
-using titles. A good title can evoke details and clues from everyone. Sometimes I wish I wrote titles 
-for a living. Alas, details matter.
+The browser-based UI 
+for this tool was garbage, unfortunately. A team answered calls all day about the browser app's snafus and quirks. I 
+was given broad authority to upgrade the app's documentation. I designed a Markdown-based platform that 
+let me publish easily to both PDF and a browse-able hierarchy of HTML. I made sure my design let anyone 
+get a URL to a specific page and section in the content. The final publication might have been 300+ 
+pages, including newbie walkthroughs, nitty-gritty details, magic tricks, and developer APIs. I 
+methodically studied app features and failings, using bug reports, design docs, source code, and logs of 
+incoming email support incidents. When I was done, the team taking customer calls could send back a URL! 
+They didn't have to hold the caller's hand, because my docs did that. And that customer, with a 
+browseable hierarchy and PDF, might never need to call back. Or when they do, they'll have a much more complicated set of objectives for the software.
+Looking good in print can help users and developers, and can also help make external partners more comfortable about the maturity of your platform.
 
-Any pre-product source suggest explanations of features, special cases, and caveats that might help 
-anyone use the finished product. I'll pass along everything written in these documents that could 
-possibly help. Reading and repeating are large parts of the job. But whenever possible, I want to build 
-guidance using running code. I certainly have to *finish* it using running code.
-
-At a company called Qpass (now Amdocs) I single-sourced using AuthorIT, a professional publishing 
-package. A more unusual instance where I single-sourced involves Microsoft's Azure cloud platform. I 
-worked in a small group to rewrite all the emails Azure sends to users about critical account events. 
-This task was unique because the tool that emailed users was a Microsoft-wide tool, serving huge 
-audiences with important billing, access, and other event details. Many of the paragraphs about credit 
-cards and access control were used by multiple organizations and products! We had to modify the text 
-enough to help our customers, without throwing other customers into confusion about, say, their Office 
-subscription. We ended up mixing the shared paragraphs with some custom paragraphs of our own. I still 
-remember this when I get these emails from Azure. And it's a good critique of single-sourcing: Trying to 
-reach diverse audiences with chunks of tagged content can be a pain, especially when audiences differ 
-significantly.
-
-I was hired as part of a turnaround team to save a company from collapse. There were about 200 
-employees. The company collected price data without getting noticed. The staff included hackers whose 
-code was poor and opaque. As I documented their systems, 23 were laid off. I reviewed all returned 
-company computers for critical information, and found some. The whole turnaround involved centralizing 
-and surfacing every function of the enterprise. Eventually I filled a wall with maps of the stealth 
-network, databases, scripts, and code repositories that drove the enterprise. Engineers scrutinized my 
-wall of systems and plans. Prospective buyers examined the enterprise using large prints I prepared of 
-the data flows and intellectual assets. I video taped some technical talks and dramatically compressed 
-them so the India teams could watch. One day on the wiki, I found detailed tribal knowledge collected in 
-India, but thick with vernacular. I turned it into easy guidance. I re-wrote their entire technical 
-wiki. At one point the leadership worked with staff to evaluate the hiring priorities and needs. I asked 
-them to use Post-its to add career details and hiring criteria for people we associated with company 
-expansion tasks. I integrated meeting feedback into a clear hiring plan. I got to make timlines of 
-product improvements, color-coded and easy to follow. The company was saved by a buyer, at ten million 
-dollars. My documentation skills, which I got to apply in a myriad of ways, played a pivotal role in the 
-re-engineering and acquisition processes.
-
-I documented the REST-level API of the Windows Azure storage system. I learned about it from existing 
+I documented [the REST-level API of the Windows Azure storage system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). 
+I learned about it from existing 
 documentation, plus clues about features that hadn't been documented yet. External and internal blogs 
 offered some clues. I learned about these features by using them. Sometimes that meant using an app like 
 Fiddler, or using a framework like the .NET SDK for Azure storage, and tracking the HTTPS traffic using 
 Fiddler again. Other times I had to know where Azure logs some events. When something just didn't make 
-sense, I had experts I could ask.
+sense, I had experts I could ask. Or experts who could ask other experts.
 
 I remember feeling really frustrated with a new Azure storage feature, a simple copy-file-to-cloud API. 
 I had the newest SDK, but my file never fully wrote to the cloud. Some small ones did, but larger ones 
@@ -132,7 +109,61 @@ features the interface claimed to provide. Here's what I wrote next:
 
 [Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
 
-Little article, big win.
+### Heroics in Technical Writing
+
+I was hired as part of a turnaround team to save a company from collapse. There were about 200 
+employees. The company collected price data without getting noticed. 
+The staff included hackers whose 
+code was poor and opaque. As I documented their systems, 23 were laid off. I reviewed all returned 
+company computers for critical information, and found some. The whole turnaround involved centralizing 
+and surfacing every function of the enterprise. Eventually I filled a wall with maps of the stealth 
+network, databases, scripts, and code repositories that drove the enterprise. Engineers scrutinized my 
+wall of systems and plans. Prospective buyers examined the enterprise using large-format technical 
+diagrams and roadmaps I developed. 
+I video taped some technical talks and dramatically compressed 
+them so the India teams could watch. One day on the wiki, I found detailed tribal knowledge collected in 
+India, but thick with vernacular. I turned it into easy guidance. I re-wrote their entire technical 
+wiki, structuring it into browsable information for the first time.
+
+After the layoffs, the company entered bankrupcy! Apparently the founder had misappropriated seed 
+capital from his first start-up, and the aggrieved party had gained access to our payroll account! 
+This is an unusual level of uncertainty for a 9-5 job. But... the only people left were those whose 
+hearts were in it. Once the heat stopped working in our Pioneer Square brick office, at a 
+particularly cold time of year. Having a scrum in our winter coats was a fun diversion to me. It just 
+enthused me, as the whole job did, precisely because the chaos was obvious, but so was our grit. I 
+liked using capturing, writing, publishing tools and techniques to have such an obvious impact, 
+during nothing short of a crisis.
+
+At one point the leadership worked with staff to evaluate the hiring priorities and needs. I asked 
+them to use Post-its to add career details and hiring criteria for people we associated with company 
+expansion tasks. I integrated meeting feedback into a clear hiring plan. I got to make timlines of 
+product improvements, color-coded and easy to follow. The company was saved by a buyer, at ten million 
+dollars. My documentation skills, which I got to apply in a myriad of ways, played a pivotal role in the 
+re-engineering and acquisition processes.
+
+
+### More Stuff I believe
+
+My typical process favors a finished product. ;) I've ingested (*burp*) specs, requirements, and 
+prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. But those are 
+mere suggestions of what the user might get some day. I want to talk about what works. Where can I get 
+the daily dev build, and log of check-ins and diffs? How can I add documentation-specific flags to bugs? 
+How can I log details of what I want to confirm in the finished product? Specs, requirements, and 
+prototypes are vaporware. I often work with these clues to build a skeleton of topic titles.
+A good title can evoke details and clues from everyone. Sometimes I wish I wrote titles 
+for a living. Alas, details matter. Accuracy matters. 
+
+At a company called Qpass (now Amdocs) I single-sourced using AuthorIT, a professional publishing 
+package. A more unusual instance where I single-sourced involves Microsoft's Azure cloud platform. I 
+worked in a small group to rewrite all the emails Azure sends to users about critical account events. 
+This task was unique because the tool that emailed users was a Microsoft-wide tool, serving huge 
+audiences with important billing, access, and other event details. Many of the paragraphs about credit 
+cards and access control were used by multiple organizations and products! We had to modify the text 
+enough to help our customers, without throwing other customers into confusion about, say, their Office 
+subscription. We ended up mixing the shared paragraphs with some custom paragraphs of our own. I still 
+remember this when I get these emails from Azure. And it's a good critique of single-sourcing: Trying to 
+reach diverse audiences with chunks of tagged content can be a pain, especially when audiences differ 
+significantly.
 
 ## What does John Know, Really?
 
