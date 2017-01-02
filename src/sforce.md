@@ -1,7 +1,6 @@
 ## Three writing samples
 
-I've chosen these three examples of my work. See more by visiting [my online 
-resume'](http://tucc.us/resume).
+I've chosen these three examples of my work. See more by visiting [my online resume'](http://tucc.us/resume).
 
 ### Sample One: Cloud Storage Paloosa
 
@@ -123,16 +122,13 @@ I had the newest SDK, but my file never fully wrote to the cloud. Some small one
 didn't. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions from 
 their code. I simplified my repro case, by switching to public storage buckets, and making a simple 
 command line report of how many bytes were transferred. I put the .EXE on a server and went home. In the 
-morning, I learned I wasn't failing, the .NET layer was. The dev [released an explanation blog post at 
-11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
+morning, I learned I wasn't failing, the .NET layer was. The dev 
+[released an explanation blog post at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
 and the SDK bits were revised the next day.
 
-With the feature finally working, I could write about it down to its nuances, by triggering all the 
-features the interface claimed to provide. Here's what I wrote next:
+With the feature finally working, I could [write about it down to its nuances](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations), by triggering all the 
+features the interface claimed to provide. 
 
-[Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
-
-Little article, big win.
 
 ## What does John Know, Really?
 
@@ -143,12 +139,10 @@ What do I know? Let's dive in!
   - **Used daily?:** No.
   - **Self-rating:** 6
   - **Comments:** I don't use this stuff daily, but still 
-rate myself competently, because I speak XML, and because 
-I've worked closely with DocStudio, the XML-based content 
-management behind MSDN. I've also used AuthorIT, which tags 
-chunks.  I've done a lot of non-documentation XML, and a lot 
-of documentation. And I've implemented chunk insertion in this platform, where I'm writing to you now.
-You can learn more about this platform by following the links at the end of this page.
+rate myself competently, because I've written in the XML-based DocStudio content 
+model, which powers MSDN. I've also used AuthorIT, which tags 
+chunks.  I've also implemented chunk insertion in this platform, where I'm writing to you now.
+I've linked to that source code at the end of this document.
 
 ### Image editing/creation software
 
@@ -204,13 +198,9 @@ Writing can separate the substance from the vapors, let the chips fall where the
 
 ## Markdown publishing tool
 
-I wrote all this on [my own publication 
-platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
-You can see [the Markdown source for the file you've just 
-read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). 
-Single-sourcing your cup of tea? I've added [a feature to single-source from DIV tag attributes in my
-markdown source](https://github.com/mcfnord/cem/blob/master/add-insertions.py)
- with this syntax:
+I wrote all this on [my own publication platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
+You can see [the Markdown source for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). I've added [single-sourcing with a simple syntax](https://github.com/mcfnord/cem/blob/master/add-insertions.py): 
 
-> insert: sourcefile classname
+> insert: sourcefile.md this-chunk
  
+In another file, called sourcefile.md, I hopefully have a DIV section with an id attribute set to this-chunk.
