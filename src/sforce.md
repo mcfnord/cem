@@ -1,7 +1,11 @@
+# He's John and He's For Sale!
+
+Please enjoy this collection  of Wisdom Pearls and Other Tidbits from my stellar career in the 
+programmer-writer field.
+
 ## Three writing samples
 
-I've chosen these three examples of my work. See more by visiting [my online 
-resume'](http://tucc.us/resume).
+I've chosen these three examples of my work. See more by visiting [my online resume'](http://tucc.us/resume).
 
 ### Sample One: Cloud Storage Paloosa
 
@@ -11,9 +15,7 @@ they wished to cover, what audience they had in mind, and how much time the tuto
 should take. I tailored the code snippets, steps, and details to be clear and helpful (and accurate).
 I remember actual fighting-like-dogs events 
 around this document, as it was a symbolic part of a re-invention of documentation for the Microsoft cloud initiated by a VP. I mediated some disagreements and engaged in a few.
-We shipped a document and new doc framework that has stood up over some time!
-
-(Do note there's new writing in this document that 
+We shipped a document and new doc framework that has stood up over some time! (Do note there's new writing in this document that 
 wasn't in my original.)
 - **EDITED MYSELF?:** Yes.
 
@@ -46,82 +48,81 @@ use. I wrote this by using the heck out of the Mage.exe tool.
 
 ## Answeraire in response to Questionaire
 
-I've organized my answers to your questions into something like an essay.
-
-I've written for SaaS and Web applications. 
-
 Perhaps Web-based software can be more opaque than traditional software. If I know that my user has a 
 browser on the internet, then I can reach them there! Since I'm not shipping content, but only links to 
-content, I can push more to readers, get feedback more often, and fix errors in a snap. So Web-based 
-software does have some advantages for writers and publishers.
+content, I can push more often to readers, get feedback more often, and fix errors in a snap. I can even 
+learn a bit about an readers using server logs and other tracking tools. So Web-based software does have 
+some advantages for writers and publishers.
 
-Any pre-product source suggest explanations of features, special cases, and caveats that might help 
-anyone use the finished product. As the writer, I'll pass along everything written in source documents that could 
-possibly help. Sometimes I'll erase old documents because they're fully reflected (more accurately and clearly) in new ones.
-Reading and repeating are large parts of the job. Culling can be, too. 
-
-Whenever possible, I want to build 
-guidance using running code. I certainly have to *finish* it using running code.
+People often ask me how I can use specifications, Statements of Work, design documents, and other 
+sources materials. Any pre-product source suggest explanations of features, special cases, and caveats 
+that might help anyone use the finished product. As the writer, I'll pass along everything written in 
+source documents that could possibly help. Sometimes I'll erase old documents because they're fully 
+reflected (more accurately and clearly) in new ones. Reading and repeating are large parts of the job. 
+Culling can be, too. But whenever possible, I want to build guidance using running code. I certainly 
+have to *finish* it using running code.
 
 ### Telephone Tricks
 
 You've asked about CRM experiences. One project I worked with in Seattle had clever techniques for 
-learning more about customers and prospective customers.
+learning more about customers and prospective customers. The web-based software provided a powerful 
+platform for learning marketing costs of inbound call enterprises, recording calls securely, routing 
+calls based on the area code of the caller, and other clever, useful stuff. That telephone software had 
+many CRM features. Businesses want to know who calls, and who calls once vs. twenty times. Some flavors 
+of the tracking technology determined first-time caller demographics as the call rang, or told you 
+exactly which search terms preceded the call. Tricky! Clever! Valuable!
 
-The web-based software provided a powerful 
-platform for learning marketing costs of inbound call enterprises, recording calls securely, 
-routing calls based on the area code of the caller, and other clever, useful stuff. 
-That telephone software had many CRM features. Businesses want to know who calls, and who calls once vs. 
-twenty times. Some flavors of the tracking technology determined first-time caller demographics as the 
-call rang, or told you exactly which search terms preceded the call. Tricky! Clever! Valuable!
+The browser-based UI for this tool was garbage, unfortunately. A team answered calls all day about the 
+browser app's snafus and quirks. I was given broad authority to upgrade the app's documentation. I 
+designed a Markdown-based platform that let me publish easily to both PDF and a browse-able hierarchy of 
+HTML. I made sure my design let anyone get a URL to a specific page and section in the content. The 
+final publication might have been 300+ pages, including newbie walkthroughs, nitty-gritty details, magic 
+tricks, and developer APIs. I methodically studied app features and failings, using bug reports, design 
+docs, source code, and logs of incoming email support incidents. When I was done, the team taking 
+customer calls could send back a URL! They didn't have to hold the caller's hand, because my docs did 
+that. And that customer, with a browseable hierarchy and PDF, might never need to call back. Or when 
+they do, they'll have a much more complicated set of objectives for the software. Looking good in print 
+can help users and developers, and can also help make external partners more comfortable about the 
+maturity of your platform.
 
-The browser-based UI 
-for this tool was garbage, unfortunately. A team answered calls all day about the browser app's snafus and quirks. I 
-was given broad authority to upgrade the app's documentation. I designed a Markdown-based platform that 
-let me publish easily to both PDF and a browse-able hierarchy of HTML. I made sure my design let anyone 
-get a URL to a specific page and section in the content. The final publication might have been 300+ 
-pages, including newbie walkthroughs, nitty-gritty details, magic tricks, and developer APIs. I 
-methodically studied app features and failings, using bug reports, design docs, source code, and logs of 
-incoming email support incidents. When I was done, the team taking customer calls could send back a URL! 
-They didn't have to hold the caller's hand, because my docs did that. And that customer, with a 
-browseable hierarchy and PDF, might never need to call back. Or when they do, they'll have a much more complicated set of objectives for the software.
-Looking good in print can help users and developers, and can also help make external partners more comfortable about the maturity of your platform.
+### Cloudy Conditions
 
-I documented [the REST-level API of the Windows Azure storage system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). 
-I learned about it from existing 
-documentation, plus clues about features that hadn't been documented yet. External and internal blogs 
-offered some clues. I learned about these features by using them. Sometimes that meant using an app like 
-Fiddler, or using a framework like the .NET SDK for Azure storage, and tracking the HTTPS traffic using 
-Fiddler again. Other times I had to know where Azure logs some events. When something just didn't make 
-sense, I had experts I could ask. Or experts who could ask other experts.
+I documented [the REST-level API of the Windows Azure storage 
+system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). I 
+learned about it from existing documentation, plus clues about features that hadn't been documented yet. 
+External and internal blogs offered some clues. I learned about these features by using them. Sometimes 
+that meant using an app like Fiddler, or using a framework like the .NET SDK for Azure storage, and 
+tracking the HTTPS traffic using Fiddler again. Other times I had to know where Azure logs some events. 
+When something just didn't make sense, I had experts I could ask. Or experts who could ask other 
+experts.
 
-I remember feeling really frustrated with a new Azure storage feature, a simple copy-file-to-cloud API. 
+I remember feeling really frustrated with a new Azure cloud storage feature, a simple copy-file-to-cloud API. 
 I had the newest SDK, but my file never fully wrote to the cloud. Some small ones did, but larger ones 
 didn't. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions from 
 their code. I simplified my repro case, by switching to public storage buckets, and making a simple 
 command line report of how many bytes were transferred. I put the .EXE on a server and went home. In the 
-morning, I learned I wasn't failing, the .NET layer was. The dev [released an explanation blog post at 
-11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
+morning, I learned I wasn't failing, the .NET layer was. The dev 
+[released an explanation blog post at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
 and the SDK bits were revised the next day.
 
-With the feature finally working, I could write about it down to its nuances, by triggering all the 
-features the interface claimed to provide. Here's what I wrote next:
+With the feature finally working, I could [write about it down to its nuances](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations), by triggering all the 
+features the interface claimed to provide. 
 
 [Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
+
+Anticlimactic? Perhaps. Say what helps the user. Don't say more.
 
 ### Heroics in Technical Writing
 
 I was hired as part of a turnaround team to save a company from collapse. There were about 200 
-employees. The company collected price data without getting noticed. 
-The staff included hackers whose 
+employees. The company collected price data without getting noticed. The staff included hackers whose 
 code was poor and opaque. As I documented their systems, 23 were laid off. I reviewed all returned 
 company computers for critical information, and found some. The whole turnaround involved centralizing 
 and surfacing every function of the enterprise. Eventually I filled a wall with maps of the stealth 
 network, databases, scripts, and code repositories that drove the enterprise. Engineers scrutinized my 
 wall of systems and plans. Prospective buyers examined the enterprise using large-format technical 
-diagrams and roadmaps I developed. 
-I video taped some technical talks and dramatically compressed 
-them so the India teams could watch. One day on the wiki, I found detailed tribal knowledge collected in 
+diagrams and roadmaps I developed. I video taped some technical talks and dramatically compressed them 
+so the India teams could watch. One day on the wiki, I found detailed tribal knowledge collected in 
 India, but thick with vernacular. I turned it into easy guidance. I re-wrote their entire technical 
 wiki, structuring it into browsable information for the first time.
 
@@ -132,12 +133,12 @@ hearts were in it. Once the heat stopped working in our Pioneer Square brick off
 particularly cold time of year. Having a scrum in our winter coats was a fun diversion to me. It just 
 enthused me, as the whole job did, precisely because the chaos was obvious, but so was our grit. I 
 liked using capturing, writing, publishing tools and techniques to have such an obvious impact, 
-during nothing short of a crisis.
+during a *bona fide* crisis.
 
 At one point the leadership worked with staff to evaluate the hiring priorities and needs. I asked 
 them to use Post-its to add career details and hiring criteria for people we associated with company 
 expansion tasks. I integrated meeting feedback into a clear hiring plan. I got to make timlines of 
-product improvements, color-coded and easy to follow. The company was saved by a buyer, at ten million 
+product improvements, color-coded and easy to follow. The company was saved by a buyer,for ten million 
 dollars. My documentation skills, which I got to apply in a myriad of ways, played a pivotal role in the 
 re-engineering and acquisition processes.
 
@@ -165,6 +166,7 @@ remember this when I get these emails from Azure. And it's a good critique of si
 reach diverse audiences with chunks of tagged content can be a pain, especially when audiences differ 
 significantly.
 
+
 ## What does John Know, Really?
 
 What do I know? Let's dive in!
@@ -174,12 +176,10 @@ What do I know? Let's dive in!
   - **Used daily?:** No.
   - **Self-rating:** 6
   - **Comments:** I don't use this stuff daily, but still 
-rate myself competently, because I speak XML, and because 
-I've worked closely with DocStudio, the XML-based content 
-management behind MSDN. I've also used AuthorIT, which tags 
-chunks.  I've done a lot of non-documentation XML, and a lot 
-of documentation. And I've implemented chunk insertion in this platform, where I'm writing to you now.
-You can learn more about this platform by following the links at the end of this page.
+rate myself competently, because I've written in the XML-based DocStudio content 
+model, which powers MSDN. I've also used AuthorIT, which tags 
+chunks.  I've also implemented chunk insertion in this platform, where I'm writing to you now.
+I've linked to that source code at the end of this document.
 
 ### Image editing/creation software
 
@@ -235,13 +235,9 @@ Writing can separate the substance from the vapors, let the chips fall where the
 
 ## Markdown publishing tool
 
-I wrote all this on [my own publication 
-platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
-You can see [the Markdown source for the file you've just 
-read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). 
-Single-sourcing your cup of tea? I've added [a feature to single-source from DIV tag attributes in my
-markdown source](https://github.com/mcfnord/cem/blob/master/add-insertions.py)
- with this syntax:
+I wrote all this on [my own publication platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
+You can see [the Markdown source for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). I've added [single-sourcing with a simple syntax](https://github.com/mcfnord/cem/blob/master/add-insertions.py): 
 
-> insert: sourcefile classname
+> insert: sourcefile.md this-chunk
  
+In another file, called sourcefile.md, I hopefully have a DIV section with an id attribute set to this-chunk.
