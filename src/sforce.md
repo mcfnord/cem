@@ -48,7 +48,7 @@ use. I wrote this by using the heck out of the Mage.exe tool.
 
 ## Answeraire in response to Questionaire
 
-Perhaps Web-based software can be more opaque than traditional software. If I know that my user has a 
+Perhaps Web-based software can be more opaque than traditional software. But if I know that my user has a 
 browser on the internet, then I can reach them there! Since I'm not shipping content, but only links to 
 content, I can push more often to readers, get feedback more often, and fix errors in a snap. I can even 
 learn a bit about an readers using server logs and other tracking tools. So Web-based software does have 
