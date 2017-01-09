@@ -1,6 +1,6 @@
-# He's John and He's For Sale!
+# John Dempsey writes
 
-Please enjoy this collection  of Wisdom Pearls and Other Tidbits from my stellar career in the 
+Please enjoy this collection of Wisdom Pearls and Other Tidbits from my stellar career in the 
 programmer-writer field.
 
 ## Three writing samples
@@ -88,8 +88,8 @@ maturity of your platform.
 
 This one time, I documented [the REST-level API of the Windows Azure storage 
 system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). I 
-learned about it from existing documentation, plus clues about features that hadn't been documented yet. 
-External and internal blogs offered some clues. I learned about these features by using them. Sometimes 
+learned about it from whatever I could find. I spied on the insanely technical internal design alias.  
+External and internal blogs offered some clues. I watched all the Microsoft technical evangelist video productions. I learned about these features by using them. Sometimes 
 that meant using an app like Fiddler, or using a framework like the .NET SDK for Azure storage, and 
 tracking the HTTPS traffic using Fiddler again. Other times I had to know where Azure logs some events. 
 When something just didn't make sense, I had experts I could ask. Or experts who could ask other 
@@ -99,9 +99,7 @@ So, this one day, I remember feeling really frustrated with a new Azure cloud st
 I had the newest SDK, but my file never fully wrote to the cloud. Some small ones did, but larger ones 
 didn't. 
 
-With most of this cloud coding, things don't work at first, it's just hard to figure out, so I really wrestled with making it work, but it didn't work. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions from 
-their code. I simplified my repro case, by switching to public storage buckets, and making a simple 
-command line report of how many bytes were transferred. I put the .EXE on a server and went home. 
+With most of this low-level cloud coding, things don't work at first. Things fail cuz some detail is just wrong. I really wrestled with making it work, but it didn't work. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions. I simplified my repro case, by switching to public storage buckets, and making a simple command line report of how many bytes were transferred. I put the .EXE on a server and went home. I was a sad tomato. :(
 
 In the 
 morning, I learned I wasn't failing, the .NET layer was. The dev 
@@ -113,7 +111,7 @@ features the interface claimed to provide.
 
 [Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
 
-Anticlimactic? Perhaps. Say what helps the user. Don't say more.
+I got a lot more responsive assistance from the dev staff from then on. I went on to be a [Brad Calder](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/11-calder.pdf) fanboy.
 
 ### Heroics in Technical Writing
 
