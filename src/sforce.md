@@ -5,7 +5,7 @@ programmer-writer field.
 
 ## Three writing samples
 
-I've chosen these three examples of my work. See more by visiting [my online resume'](http://tucc.us/resume).
+I've chosen these three examples of my work. (If you want, check out [more examples](http://tucc.us/resume).)
 
 ### Sample One: Cloud Storage Paloosa
 
@@ -15,17 +15,16 @@ they wished to cover, what audience they had in mind, and how much time the tuto
 should take. I tailored the code snippets, steps, and details to be clear and helpful (and accurate).
 I remember actual fighting-like-dogs events 
 around this document, as it was a symbolic part of a re-invention of documentation for the Microsoft cloud initiated by a VP. I mediated some disagreements and engaged in a few.
-We shipped a document and new doc framework that has stood up over some time! (Do note there's new writing in this document that 
-wasn't in my original.)
+We shipped a document and new doc framework that has stood up over some time!
 - **EDITED MYSELF?:** Yes.
 
-### Sample Two: What Humans Want From Machines
+### Sample Two: Helping Humans through Cognitive Science
 
 - **SAMPLE:** [Human Interface Guide](http://tucc.us/docs/hig.pdf)
 - **MY ROLE:** Constructed publication from diverse source materials and interviews.
 - **EDITED MYSELF?:** Yes.
 
-### Sample Three: Company Vision
+### Sample Three: Company (Blurred) Vision
 
 - **SAMPLE:** [Engineering Roadmap](http://tucc.us/docs/roadmap_blur.png) 
 - **MY ROLE:** 
@@ -33,17 +32,17 @@ wasn't in my original.)
 Worked with 
 technical staff to plan engineering roadmap. 
 This marketing information features the assets of a ten million dollar company during its successful, solvent 
-bankruptcy. 
-- **EDITED MYSELF?:** Yes.
+bankruptcy. (If you want, skip to *Heroics in Technical Writing*) 
+- **EDITED MYSELF?:** Yes, bro.
 
-### Bonus sample: Tedium is Troublesome
+### Bonus sample: The Hard Stuff
 
 - **SAMPLE:** [Walkthrough: Manually Deploying a ClickOnce Application](https://msdn.microsoft.com/en-us/library/xc3tc5xx%28VS.100%29.aspx) 
 - **MY ROLE:** (I felt bad about showing you that blurry sample.) This is 100% my work. I'm 
 including it because it's a very tricky topic. Nobody could use it. Then I wrote this and 
 people were more successful with this technology. It's still a very tricky technology to 
 use. I wrote this by using the heck out of the Mage.exe tool. 
-- **EDITED MYSELF?:** I had the help of a skilled editor.
+- **EDITED MYSELF?:** Nope. Had a great editor.
 
 
 ## Answeraire in response to Questionaire
@@ -87,7 +86,7 @@ maturity of your platform.
 
 ### Cloudy Conditions
 
-I documented [the REST-level API of the Windows Azure storage 
+This one time, I documented [the REST-level API of the Windows Azure storage 
 system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). I 
 learned about it from existing documentation, plus clues about features that hadn't been documented yet. 
 External and internal blogs offered some clues. I learned about these features by using them. Sometimes 
@@ -96,17 +95,21 @@ tracking the HTTPS traffic using Fiddler again. Other times I had to know where 
 When something just didn't make sense, I had experts I could ask. Or experts who could ask other 
 experts.
 
-I remember feeling really frustrated with a new Azure cloud storage feature, a simple copy-file-to-cloud API. 
+So, this one day, I remember feeling really frustrated with a new Azure cloud storage feature, a simple copy-file-to-cloud API. 
 I had the newest SDK, but my file never fully wrote to the cloud. Some small ones did, but larger ones 
-didn't. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions from 
+didn't. 
+
+With most of this cloud coding, things don't work at first, it's just hard to figure out, so I really wrestled with making it work, but it didn't work. The experts said I'd get an exception if it failed. They asked if I was ignoring exceptions from 
 their code. I simplified my repro case, by switching to public storage buckets, and making a simple 
-command line report of how many bytes were transferred. I put the .EXE on a server and went home. In the 
+command line report of how many bytes were transferred. I put the .EXE on a server and went home. 
+
+In the 
 morning, I learned I wasn't failing, the .NET layer was. The dev 
 [released an explanation blog post at 11pm](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/09/27/blob-download-bug-in-windows-azure-sdk-1-5/), 
 and the SDK bits were revised the next day.
 
 With the feature finally working, I could [write about it down to its nuances](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations), by triggering all the 
-features the interface claimed to provide. 
+features the interface claimed to provide.  
 
 [Setting Timeouts for Blob Service Operations](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/Setting-Timeouts-for-Blob-Service-Operations)
 
@@ -114,10 +117,12 @@ Anticlimactic? Perhaps. Say what helps the user. Don't say more.
 
 ### Heroics in Technical Writing
 
-I was hired as part of a turnaround team to save a company from collapse. There were about 200 
-employees. The company collected price data without getting noticed. The staff included hackers whose 
+I was hired as part of a turnaround team to save a company from collapse. It was pretty small, just
+40 people here and 120 in India. The company collected price data without getting noticed. The staff included hackers whose 
 code was poor and opaque. As I documented their systems, 23 were laid off. I reviewed all returned 
-company computers for critical information, and found some. The whole turnaround involved centralizing 
+company computers for critical information, and found some. Real adventure. 
+
+The whole turnaround involved centralizing 
 and surfacing every function of the enterprise. Eventually I filled a wall with maps of the stealth 
 network, databases, scripts, and code repositories that drove the enterprise. Engineers scrutinized my 
 wall of systems and plans. Prospective buyers examined the enterprise using large-format technical 
@@ -143,16 +148,15 @@ dollars. My documentation skills, which I got to apply in a myriad of ways, play
 re-engineering and acquisition processes.
 
 
-### More Stuff I believe
+### Stuff I Believe
 
-My typical process favors a finished product. ;) I've ingested (*burp*) specs, requirements, and 
-prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. But those are 
+I've ingested (*burp*) specs, requirements, and 
+prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. All those treasured troves are  
 mere suggestions of what the user might get some day. I want to talk about what works. Where can I get 
 the daily dev build, and log of check-ins and diffs? How can I add documentation-specific flags to bugs? 
 How can I log details of what I want to confirm in the finished product? Specs, requirements, and 
-prototypes are vaporware. I often work with these clues to build a skeleton of topic titles.
-A good title can evoke details and clues from everyone. Sometimes I wish I wrote titles 
-for a living. Alas, details matter. Accuracy matters. 
+prototypes are vaporware. I work with every source to build a skeleton of topic titles.
+And yeah, sure, a good title can evoke details and clues from everyone, kickstarting plenty. 
 
 At a company called Qpass (now Amdocs) I single-sourced using AuthorIT, a professional publishing 
 package. A more unusual instance where I single-sourced involves Microsoft's Azure cloud platform. I 
@@ -162,9 +166,9 @@ audiences with important billing, access, and other event details. Many of the p
 cards and access control were used by multiple organizations and products! We had to modify the text 
 enough to help our customers, without throwing other customers into confusion about, say, their Office 
 subscription. We ended up mixing the shared paragraphs with some custom paragraphs of our own. I still 
-remember this when I get these emails from Azure. And it's a good critique of single-sourcing: Trying to 
-reach diverse audiences with chunks of tagged content can be a pain, especially when audiences differ 
-significantly.
+remember this when I get these emails from Azure.
+
+I've implemented single-sourcing in the platform I've made to publish this document. (If you want, skip to *Markdown publishing tool*.)
 
 
 ## What does John Know, Really?
@@ -233,7 +237,7 @@ simplifying user tasks.
 Writing can separate the substance from the vapors, let the chips fall where they may. 
 
 
-## Markdown publishing tool
+# Markdown publishing tool
 
 I wrote all this on [my own publication platform](https://github.com/mcfnord/cem/blob/master/pub.sh). 
 You can see [the Markdown source for the file you've just read](https://github.com/mcfnord/cem/blob/master/src/sforce.md). I've added [single-sourcing with a simple syntax](https://github.com/mcfnord/cem/blob/master/add-insertions.py): 
