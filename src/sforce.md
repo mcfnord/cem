@@ -208,18 +208,17 @@ And I use [ffmpeg](https://ffmpeg.org/). So. I'm kind of a big deal.
   - **Used daily?:** Yes.
   - **Self-rating:** 8
   - **Comments:** Yeah, I use HTML daily. I learned HTML before there was CSS. Now HTML can include 
-JavaScript libraries that navigate the DOM and round-trips asynchronously with servers. HTML5 goes in 
+JavaScript libraries that navigate the DOM and round-trips asynchronously with servers, or even provide platforms like Angular. HTML5 goes in 
 directions I can't really list. 
 [This code, in PHP, implements a link forwarding tool](https://github.com/mcfnord/cem/blob/master/em-is-us/makelink.php) 
-using many tricky features of 
-HTML.
+using many tricky features of HTML.
 
 ### Source control software
 
   - **Used daily?:** Yes.
   - **Self-rating:** 7
   - **Comments:** I use git and GitHub daily. I've made 
-branches, pushed and pulled with it. [John's GitHub](https://github.com/mcfnord/)
+branches and tags, pushed and pulled with it. [John's GitHub](https://github.com/mcfnord/)
 
 
 ## Bring it on home
