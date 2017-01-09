@@ -88,8 +88,7 @@ maturity of your platform.
 
 This one time, I documented [the REST-level API of the Windows Azure storage 
 system](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-container). I 
-learned about it from whatever I could find. I spied on the insanely technical internal design alias.  
-External and internal blogs offered some clues. I watched all the Microsoft technical evangelist video productions. I learned about these features by using them. Sometimes 
+learned about it from whatever I could find. I spied on the insanely technical internal design alias. External and internal blogs offered some clues. I watched all the Microsoft technical evangelist video productions. I learned about these features by using them. Sometimes 
 that meant using an app like Fiddler, or using a framework like the .NET SDK for Azure storage, and 
 tracking the HTTPS traffic using Fiddler again. Other times I had to know where Azure logs some events. 
 When something just didn't make sense, I had experts I could ask. Or experts who could ask other 
