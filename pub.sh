@@ -30,6 +30,6 @@ done < "sources.txt"
 
 rm sources.txt
 
-cd ../src
-sudo cp robots.txt makelink.php emroseclub.php empix.txt link_list.txt trax.txt index.html solarized-dark.css /var/www/html/
+cd ../src/root-files
+sudo cp * /var/www/html/
 cd ..
