@@ -22,17 +22,17 @@ if(file_exists ( $local_dir ))  # does dest exist on this server?
 	}
 	else
 	{
-		mkdir( $local_dir ) ;   # dir doesn't exist so we make it
+		mkdir( '_/' . $local_dir ) ;   # dir doesn't exist so we make it
 
 		# and put the dest url redirector in it in its simplest form.
 		$payload = "<HTML><HEAD><META HTTP-EQUIV='REFRESH' CONTENT='1;URL=" . $_GET['ugly_url'] . "'></HEAD></HTML>" ;
 
 		#create a default index.php file in that dir
-		$index_script = $local_dir . "/index.php" ;
+		$index_script = $local_dir . "/_/index.php" ;
 		file_put_contents($index_script, $payload);
-		
+
 		# and return the popular url
-		echo 'http://em-is.us/' . $local_dir ;
+		echo 'http://em-is.us/_/' . $local_dir ;
 		return ;
 	}
 ?>
