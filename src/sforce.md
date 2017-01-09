@@ -145,15 +145,15 @@ dollars. My documentation skills, which I got to apply in a myriad of ways, play
 re-engineering and acquisition processes.
 
 
-### Stuff I Believe
+### Show Me
 
 I've ingested (*burp*) specs, requirements, and 
-prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. All those treasured troves are  
-mere suggestions of what the user might get some day. I want to talk about what works. Where can I get 
+prototypes by the tens of thousands of pages. I read them all with a highlighter uncapped. All those treasured troves are mere suggestions of what the user might get some day. I want to talk about what works. Where can I get 
 the daily dev build, and log of check-ins and diffs? How can I add documentation-specific flags to bugs? 
 How can I log details of what I want to confirm in the finished product? Specs, requirements, and 
 prototypes are vaporware. I work with every source to build a skeleton of topic titles.
 And yeah, sure, a good title can evoke details and clues from everyone, kickstarting plenty. 
+
 
 At a company called Qpass (now Amdocs) I single-sourced using AuthorIT, a professional publishing 
 package. A more unusual instance where I single-sourced involves Microsoft's Azure cloud platform. I 
@@ -168,7 +168,7 @@ remember this when I get these emails from Azure.
 I've implemented single-sourcing in the platform I've made to publish this document. (If you want, skip to *Markdown publishing tool*.)
 
 
-## What does John Know, Really?
+## What's John Know?  
 
 What do I know? Let's dive in!
 
