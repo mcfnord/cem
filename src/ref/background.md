@@ -130,6 +130,7 @@ Slams on Susan
 
 -   One visit from Jaclin vs. 45 from Charlotte. Aw who cares, right?
 
+<div id='jenny'>
 Jennifer Murphy Sex Scandal
 ===========================
 
@@ -210,6 +211,7 @@ Murphys most certainly is...
 ***F***amily
 
 *L*aw!
+</div>
 
 Stalker
 -------
