@@ -10,7 +10,7 @@ class MyHTMLParser(HTMLParser):
         global gstrClassname
         if tag == 'div': # is apparently lower-ized caseically speaking
             for attr in attrs:
-                if attr[0] == 'class':
+                if attr[0] == 'id':
                     if attr[1] == gstrClassname: # name that class
                         gfImporting = True
 

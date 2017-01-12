@@ -4,6 +4,12 @@ set -x
 mkdir tmp/src
 mkdir tmp/ref
 
+# clear out the target where we'll assemble all the .md files
+cd tmp
+rm *.md
+cd ..
+
+# grab all the .md files somewhere off src
 cd src
 find . | grep '\.md' | sed 's/\.\///g' > ../sources.txt
 cd ..
