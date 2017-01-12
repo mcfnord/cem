@@ -1,67 +1,9 @@
-West Region Regional Contractor: UnitedHealthcare Military & 
-Veterans
-    www.uhcmilitarywest.com
-    1-877-988-WEST (1-877-988-9378) Mom: secret: DoB: 
-November 7, 1981 address: 220 Tacoma Ave. S, #1503 secret: 
-telephone: 760-390-6748 secret: ssn: 536-13-2539 
-http://www.tricare.mil/Forms/FeesPayments/West.aspx secret: 
-murpher191qg userrname i thjink
-	www.uhcmilitarywest.com send a claim to:
-	tricare west region
-	attn: claims department
-	pobox 7064
-	camden, sc 29020-7064 united health care knows an 
-emily murphy, but does not match her d.o.b., which could 
-explain the $8k billing failure.
-	ok, the first billing failure is probably for 
-service of 11/17/2013, for a cost of $8,814.40 Rural Metro 
+**Donna:** Rural Metro 
 which is an ambulance company here in town.  The date is May 
 14 , 2014 which is the day Emily was taken out of the 
 apartment and went to darin's.  I don't think the company 
 ever got the info about her insurance,
-	1-855-853-9470 REV MD partners- speak with Augusta
-		Fax# 877-372-3744
-	Act# 1012617027 .
-	they say tricare won't take it if it's later than 
-may 14, 2015,
-		and it is... so basically emily's estate 
-owes the cash amount
-			the ambulance company had donna's 
-address on file, so perhaps donna was notified earlier, or 
-perhaps not. water under the bridge, baby. --- PROBATE I may 
-have testified that I was at 60% of usual exposure during 
-2011 and 2012, but the data here only shows a reduction in 
-2012.
-	This is the same data as we've published to Heather 
-and Susan, so I could prove it in Bates numbers if that 
-helps. Why? Because she believes Darin and perhaps Heather 
-will never stop trying to ruin my life. So maybe I should 
-disappear from their lives. But I think she's open to 
-believing a comprehensive case can help protect me. THE 
-REASON you should build a relationship with Jan is because 
-HER testimony can very accurately describe my thinking 
-around the most major decisions. THE OTHER reason is that 
-she also attended the Darin Freakout meeting. THE FINAL 
-reason is perhaps that she hosted Emily and Chloe and I many 
-times, for a day or overnight, and Jan considered Emily like 
-a sister, and Chloe her niece. Jan was among Emily's 
-greatest advocates in the last year of her life. She knows 
-how my plan to care for them became a box of monster smears, 
-schemes... Jan stays away from people like Darin, and thinks 
-I should, too. OUR witnesses: clear dossieres for Carlos
-	OK WHERE'S OUR LIST. hmmm, should be in email? even 
-broken email?
-		can't get witness lists. but i know:
-			jason dempsey
-			jan dempsey
-			jeris ockfen
-			patricia roberts-dempsey
-			herb dempsey THEIR witnesses: same 
-info, but harder? --- TELL CARLOS (CAN WE DRAFT THESE IN THE 
-BROKEN EMAIL APP?) in background.docx new: Post Testamony 
-accuracy: A few deposition items that didn't come through 
-loudly or specifically enough:
-	Addemdum to Prohibition of adults:
+
 	Jason Dempsey, Paula Everdell, Jeanine Dempsey, Jim 
 Dempsey, Curtis Brown.
 		All on this list have no criminal record.
@@ -71,18 +13,13 @@ Dempsey, Curtis Brown.
 		Donna
 	Mairs has prohibited all from attending visits, 
 asked over 10 times, allowing only two exceptions so far.
-		Take this power from Donna Mairs and vest it 
-in the court * My 2012 is the 60% year, no apparent change 
-year-from-year * In addition to my Adler training, I 
-received 4 hours of custodian role training from Hope 
-Sparks. OF COURSE THE TRANSCRIPT WILL HELP ME FURTHER FINISH 
-THIS LIST. * My property in Seattle is adjacent to Seattle 
-Prepatory Academy, address, map? --- into background.docx 
+
+My property in Seattle is adjacent to Seattle Prepatory Academy
+
 carlos has instructed me to get $100k in life insurance, 
 naming chloe as benefactor.
-	and to revise my will to specify a trust. first get 
-the life insurance har har har!
-	who sells that? schwab? ask them when i see them. 
+	and to revise my will to specify a trust.
+
 Every entry in this list corresponds to dated evidence.  The 
 code after each date describes the John-Chloe contact, and 
 the source. list: 2009-8-15 B7 2009-9-26 B7 2010-6-19 B7 
@@ -125,37 +62,9 @@ Sources: list:
 	4. Twitter Photo
 	5. Google Plus Post
 	6. Facebook
-	7. Digital Photographs with date intact, CD-ROM DISK 
-A1 ==== DATED EVENTS john dempsey would also like a 
-recumbant workstation that kicks this much ass.
-	john dempsey should purchase a chair. THE FORMULA 
-SAYS GROW, but not at the expense of any existing 
-workstation.
-	drive an additional DVI 24", as I also do have a 
-dual frame, which I wouldn't need in this station
-		BUT WILL NEED WITH RECUMBANCY if recumbancy 
-is the next objective...!
-	then i'd get in the chair that cradles my head.
-		AND BUILD FROM IT. could i even tilt
-	DO I EVEN NEED TO? THE RIGHT CHAIR would make 
-traditional desks tilt for me.
-	my thumbs need me NOW THIS IS PROBABLY THE FINEST 
-SIT-UP WORKSTATION I'VE EVER HAD, AND I SHOULDN'T TEAR *IT* 
-UP TO MAKE THE RECUMBANCY. BUT A CRADLED HEAD IN A FULL ERGO 
-CHAIR...
-	RELIES ON THE CHAIR AND
-	THE ASSURANCE THE DEVICES CAN ADJUST I BELIEVE IT'S 
-VERY POSSIBLE.
-	the chair takes me from here, all the way back, 
-easily.
-	chairs may be great, but i cant shop for them at 
-work, cuz firewall. chair will always put weight on my neck. 
-probably
-	flat great, chair dubious. to make the powerful, 
-painless progress. I'm not sure if this works. how good can 
-i get this? cuz it sorta works. Bring it forward and see. 
------ THESE ARE THE KINDS OF WORDS CARLOS SAYS I OUGHT TO 
-USE. study them. don't brag about being smart. Testimony to 
+	7. Digital Photographs with date intact
+
+Testimony to 
 the Superior Court: As you know, Emily and I applied to an 
 expressive arts school and a Montessori one, but Donna 
 discarded these options . Chloe is naturally expressive, and 
@@ -173,133 +82,22 @@ in play with her that we have evolved over her life. We are
  loyal to each other and Emily. I hope in the future to be 
 accepted by Chloe's biological family as I was for 26 years, 
 but it's not a critical goal. I also hope to continue very 
-actively in Chloe's life. John Dempsey === testimony WHAT I 
-MIGHT DO NOW (AFTER WORK. MUST WORK.):
-	PAY FOR MY P.O. BOX?!
-	get inject!!!!!!!!! --- most urgent!
-	Today after work I should: buy pants? eat? can't get 
-an injection, and that's off schedule!
-	Gotta dig through my papers, and get the mail, and 
-dig through that, before i can:
-	schedule a tooth cleaning?
-	get a mazssage?
-	GET GLASSES
-	get inject
-	build a shade over this eyespace Who cares about 
-TIME I set a GOAL of SUBSTANCE.
-	and i better fucking go... when the going goes. cuz 
-in 10 business days i deliver a WHOLE DRAFT!? THIS MEANS I 
-DIG NOW INTO EACH AND EVERY SECTION...
-	AND DIG UNTIL I FINISH *OR* REACH AN ASK POINT
-		and queue up my asks this week mother fucker
-	THIS WEEK MOTHER FUCKER NOW MOTHER FUCKER NOW, QUEUE 
-MY ASKS! QUEUE MY ASKS ON EVERY SINGLE TOPIC FUCKER. NOW. 
-THIS WEEK. WORK, NOT TIME.
-	ASKS AREN'T QUEUED. well, what's left? that requires 
-asks? Just Most Secure Shit. Right? I need pants. And I 
-don't give any fucks. Maybe I don't give a fuck. But fucks 
-are needed. If fucks are not available, fuck them. 
-================== LiveJournal:
-	Some photos are lost due to link breakage over time.
-	Some non-HTML inline tags disappear, making a few 
-sentences seem to miss a word here or there, where a 
-non-HTML inline tag was used. Twitter:
-	Part A: Tweets as text in one pubilcation. Note 
-"PIC" flags to photos (in Part B)
-	Part B: Photos that I shared on my timeline. 
-Facebook:
-	dataset downloaded 10-25-2015 provided photos across 
-all albums, but with no datestamps
-	A data extraction of Wall messages failed with this 
+actively in Chloe's life.
+
+A data extraction of Wall messages failed with this 
 error: "There was an error loading the data for this page. 
 We are sorry for the inconvenience and are working to fix 
 the problem."
-	It was therefore necessary to paste whole-year 
-browser renderings into a single document.
-	It was not realistic to open the See More tags on 
-this volume of messages. Google Plus:
-	Preparing this meant visually finding the See More 
-tags, and opening them. I failed to see and open a few.
-	but the renderer also just cuts off lines 
-occasionally, cutting the tops or bottoms of lines. These 
-are usually the first or last lines in the message. Tumblr:
-	In entirity. === README ORCA clues. BECU DEBIT 
-RECORDS Emily's own set of photos stored in microsoft cloud 
-My phone and texts, emily's phone and texts Dad's pics 
-Curtis pics ===== PENDING SOURCES 
-http://www.hcidata.info/cgi-bin/calendar.cgi?year=2014&sun-mon=&GJ=&ok=Generate+the+Calendar&.cgifields=GJ&.cgifields= 
-sun-mon
-	THAT'S WHERE I GOT THE CALENDARS, IN CASE I NEED TO 
-MAKE MORE. and i think i want 2009. i was there! we were 
-there together! adequate prints until I NEED TO EXTRACT 
+
+ORCA clues. 
+
+I NEED TO EXTRACT 
 EVERY LJ POST THAT IS MORE RECENT THAN THIS CUTOFF DATE: 
 2011-10-07 16:34: 50 I GOT THE STUFF BEFORE THAT.
-			PRINT THAT SHIT. RENDER FOR ME, EVEN 
-IF I SEND HER RAW FAXES SHE CAN READ (NOT DIGITIZED). There 
-is a bit more about my life that impacts EMC. The criminal 
-case against me, in which I was fully exhonorated, was the 
-work of very unethical people in Tacoma. It was quite 
-gratifying to see them testify in my case, sounding only 
-ridiculous and dishonest. They oppose me in a custody case 
-for my deceased partner's child. That case is set for trial 
-in December. Mid-November I have a deposition, and in time 
-leading up I occasionally have urgent projects. I am 
-strongly positioned in the custody matter, just as I was in 
-the criminal one, but one must go through the process... The 
-biggest impact is an absence early December of about one 
-week. I will also manage your tasks and my own and try to 
-meet all deadlines. I'm pretty alright about that stuff in 
-general. But don't be surprised if I disappear a day or two 
-here or there. Hey, new job means work. Ha.
-	Yeah, even if I don't work in October, I need to 
-work NOW. stick it out even just for the money. meaning it's 
-not killing me to just sit here and make pee. and the money 
-is the money.
-	oh yeah and i derived an off-the-clock model last 
-friday but this ain't even that. AND TURN OFF THE NOISE. 
-well i say fuck it. fuck this bullshit.
-	yeah, i'm fucking it alright. I want a vacation, I 
-even need one. I also need this job to succeed. And I need 
-that pretty urgently. get a divorce WEEK DAILY from the 
-DRAMA with one simple choice only the power to push. not the 
-power to pull. which means my phone is off. and i find some 
-other power to push! and never pull. like lj post via email. 
-like tweeting. like queueing to my friends. I'M GONNA BE 
-HERE A LONG TIME. I HAVE TO BE HERE NOW. bring the court a 
-man who glows. how could i text yuna? i cannot. but if i 
-find a way, then i can! now i owe a lot of people a lot of 
-money. and i soothe that shit. just simply keep it under 
-control. and it's no crisis. when i sit here with proper 
-focus and proper limits. so goodbye outside world. for 20 
-days anyway, i'm here to glow. and work makes me glow when i 
-work out later. in the flood of information.
-	well talk to yuna about recipient shit. wish it 
-queued. i will be here many months. i have Nor do I want 
-that intermediate fake distraction that's really just lazy 
-bullshit. NOT ON THE CLOCK. CUZ I'M A BETTER PERSON WHEN I 
-FOCUS AND STAY FOCUSED A WHILE EACH DAY. the experience 
-makes me cherish my free time.
-	AND PEOPLE WHO CHERISH ARE THE BEST PEOPLE. 
-isolation of work computer from dallying is a great 
-standard. oh yeah om. oh yah the gentlest control of the 
-aural space starting with kindle fire
-	YEAH mister fire lives with me at home
- listn, i'm gonna need the power. well, i'm gonna need the 
-SUCCESS.
- this place makes my hands work continuous transforming 
-means the crank must turn
-	and overall, i want better everything go ahead, 
-clean up that shit. YES I CAN JUST LIVE HERE, OR SELL LABOR 
-FOR CHLOE, EVEN off the clock. and very comfortable at doing 
-it.
-	BUT THAT'S NOT WHAT I DO HERE, MOST OF THE TIME. 
-most? like, over half the time? or a third of the time? a 
-third is more likely true than a half! why? i'm not charging 
-them!!!! meh. One thing that sucked about being in jaiL: NO 
-LEXAPRO, VERY BAD HEADACHE.
-	where is the list of everything else that sucked in 
-jail? Darin prohibited Pat herb from internment
-	PATRICIA PUT THIS IN YOUR TESTIMONY. i should 
+
+Darin prohibited Pat herb from internment
+
+PATRICIA PUT THIS IN YOUR TESTIMONY. i should 
 publish this into the Witness file. CS, I want to hype this 
 deposition. I know I can show up like I never saw her 
 before... I can do that... But... What I like to do is 
@@ -310,26 +108,9 @@ she wished to burn sage to cleans after Heather spoke. I'm
 more afflicted with knowing a ridiculous wench lied through 
 her teeth to set me up, saying 4 of 5, capable of... I'd 
 like to know if she's feeling better. I'd like to ask about 
-her lies, the ones I watched her tell. You know? Please 
-understand that I need to have some peace with this person I 
-will be answering, and with her it's nearly impossible. Is 
-it sound to see a deposition as only an effort to make me 
-say something stupid, or contradict a prior claim? Which 
-documents should I review? all of those filled by and for 
-me? Finally, which three adjectives describe great depotees? 
-Conversational, humble, succinct, clear, honest. It's just 
-for the transcript, so cautious word choices. Something like 
-that? On LJ content: The newlines in the original do not 
-appear in this rendering. This mashes paragraphs into a 
-single paragraph. Started keying days at work in 
-c:\not_work\not_job.txt
-	those keys need to stay consistent as i code items. 
-Look at the specific clue from Chloe's teacher: . Now look 
-at what I wrote in my journal: . -- DATE-CONTACT SOURCES: 
-Marirla abd Darin photostreams... Any dated photo such as 
-DAD ACTUALLY HAS. And maybe I have dates embedded in many 
-images... maybe just need to look. LETTER TO SUSAN 
-ACCOMPANYING JOURNAL DUMP I NEED TO EXTRACT EVERY LJ POST 
+her lies, the ones I watched her tell. You know? 
+
+I NEED TO EXTRACT EVERY LJ POST 
 THAT IS MORE RECENT THAN THIS CUTOFF DATE: 2011-10-07 
 16:34:50 I GOT THE STUFF BEFORE THAT. MAP IN EXCEL LIKE 
 THIS:
@@ -341,7 +122,9 @@ TIMELINE with bullet points with exict and inexact dates
 would boil down to some confirmation that Chloe, if she has 
 a legal father, gets whatever fathers provide instead of the 
 state. If she remains with the mairs, which is likely, then 
-they would establish medical insurance. OK, the military 
+they would establish medical insurance. 
+
+OK, the military 
 dependents medical insurance she is entitled to receive 
 could be strong. I do not know. If it's strong, why is she 
 taking the dshs medical? Why can't she be placed on military 
@@ -353,81 +136,54 @@ who Donna would like to take Chloe when Donna and Richard
 die. No real news I guess. J In 2012 Darin visited me twice 
 in Seattle with his new wife and kids, one also with 
 Alexandria, Asked me to come to Tacoma and be her last 
-boyfriend. For witness-specifric: Joyce knows Heather called 
-Kyle and said I'm a child molester early on. 
+boyfriend. 
+
+Joyce knows Heather called Kyle and said I'm a child molester early on. 
 c:\temp\chloe\yes is PDFs worth spit.
-	and i seek one, the GAL Preliminary Report. NOT IN 
-THERE. DAD SENT IT TO ME ONCE. == The voice mails have some 
-time gaps between them which may be trimmed just for 
-continuity purposes and to avoid painful silence gaps in a 
-courtroom setting, but that is a style critique on my part 
-more than anything else. If there is a way to authenticate 
-on the videos and the voice mails the date of the filming or 
-of the voice mail that is going to be needed for evidentiary 
-purposes. I will leave that up to you to put in the 
-evidence. Something along the lines of a chiron in the lower 
-left or right hand corner of the video with a date in order 
-to give context and further authenticity. ==== tasks from 
-carlos Finally, Alece wrote to Joni. I don't know if I've 
-provided the *draft* of the letter she sent, but knowing I 
-have this draft letter, I've attached it, as it also 
-carefully documents key details. I've also inserted my 
-RESPONSE to these details under Joni's name on the Witness 
-List, because there were errors in the Cox draft. If Alece 
-fetched her own final version, including the visit reports 
-she chose, that would be more decisive, but perhaps not by 
-much, It's to Joni some day after November 19th, 2014. 
-===================================== You cannot take the 
-wierd out of John Dempsey. Make peace with it and assure me 
-you'll let John Dempsey have his own speech trial, 
-outrageous in so many ways. I am, to myself and some others, 
-an artist of events. Words, sure. These are events. I must 
-be true to myself, and my game. In the end I am much more 
-Elonis than you would wish. That surley rogue had bad 
-judgement and a point: it's not a right if you don't claim 
-it. I have a life history of controversial speech, but never 
-violence, nor the threat of it. The threat of violence is a 
-failure to tters, and I doubt you'll want to share them. AND 
-I think the videos we just delivered might make Susan 
-re-evaluate the importance of those year-by-year timelines 
-and scenarios. Asking how I felt toward Emily is only 
-marginally relevant to the de facto matter. No, other than 
-being duely and truly adorned with her blessings, my 
-relationship with Emily is not germane to the court's 
-decision. I'm sure Emily would see it as a sideshow, and 
-what part of evaluating me places a stress test on those 
-details? Susan asked if I left Emily while she was dying, 
-early in 2012 it might have been. I explained that I did 
-not, but instead confirmed face-to-face with the doctor that 
-she was not actively dying. I think Susan would have a point 
-there: If you'd leave her when she's dying, you're probably 
-a creep. I think you'll prefer not publishing these details 
-now, but keep in mind that we have these additional 
-resources (easily authenticated communications over many 
-years) that tell more of the story to Susan if she finds it 
-germane to continue examining. I think these documents, 
-while intimate and perhaps controversial, tell as much or 
-more *positive* than otherwise about the relationships. 
-===================================== * Supoena Joni Irvin's 
-written notes. I watched her make them. Somewhere I've 
-written at length about Fuck Joni Irvin: 
-http://tucc.us/xx/ba.docx * Supoena Joni's emails about the 
-case, to and from her. * Supoena Camille Johnston's email 
-contacts regarding Chloe. Or all of CPS's. I don't believe 
-those transcripts of telephone and face-to-face interviews 
-constitute all the activity that occurred. * There are other 
-sources, details from Emily's medical records, but really 
-hey bro we got this story. Had I been hurting Emily, hospice 
-would have acted quickly. Hospice is yet another party to 
-substantiate Emily's adoption wishes the quality of my care, 
-and Emily's voluntary choice to remain residing with me and 
-Chloe there. If anyone wants to argue otherwise, the Hospice 
-records (from teh social worker, and the nurse) would tell 
-many tales about the situation. I got great marks sometimes, 
-lower ones others, but they kept track, and kept track of 
-Darin, too. * Vicky McKinlay, a woman who knows Chloe well, 
-said to me once, "I've been supoenaed before,"
-	I think her testimony would be favorable. She 
+
+You cannot take the wierd out of John 
+Dempsey. Make peace with it and assure me you'll let John Dempsey have his own 
+speech trial, outrageous in so many ways. I am, to myself and some others, an 
+artist of events. Words, sure. These are events. I must be true to myself, and 
+my game. In the end I am much more Elonis than you would wish. That surley 
+rogue had bad judgement and a point: it's not a right if you don't claim it. I 
+have a life history of controversial speech, but never violence, nor the threat 
+of it. The threat of violence is a failure to tters, and I doubt you'll want to 
+share them. AND I think the videos we just delivered might make Susan 
+re-evaluate the importance of those year-by-year timelines and scenarios. 
+Asking how I felt toward Emily is only marginally relevant to the de facto 
+matter. No, other than being duely and truly adorned with her blessings, my 
+relationship with Emily is not germane to the court's decision. I'm sure Emily 
+would see it as a sideshow, and what part of evaluating me places a stress test 
+on those details? 
+
+Susan asked if I left Emily while she was dying, early in 
+2012 it might have been. I explained that I did not, but instead confirmed 
+face-to-face with the doctor that she was not actively dying. I think Susan 
+would have a point there: If you'd leave her when she's dying, you're probably 
+a creep. I think you'll prefer not publishing these details now, but keep in 
+mind that we have these additional resources (easily authenticated 
+communications over many years) that tell more of the story to Susan if she 
+finds it germane to continue examining. I think these documents, while intimate 
+and perhaps controversial, tell as much or more *positive* than otherwise about 
+the relationships. ===================================== * Supoena Joni Irvin's 
+written notes. I watched her make them. Somewhere I've written at length about 
+Fuck Joni Irvin: http://tucc.us/xx/ba.docx * Supoena Joni's emails about the 
+case, to and from her. * Supoena Camille Johnston's email contacts regarding 
+Chloe. Or all of CPS's. I don't believe those transcripts of telephone and 
+face-to-face interviews constitute all the activity that occurred. * There are 
+other sources, details from Emily's medical records, but really hey bro we got 
+this story. Had I been hurting Emily, hospice would have acted quickly. Hospice 
+is yet another party to substantiate Emily's adoption wishes the quality of my 
+care, and Emily's voluntary choice to remain residing with me and Chloe there. 
+If anyone wants to argue otherwise, the Hospice records (from teh social 
+worker, and the nurse) would tell many tales about the situation. I got great 
+marks sometimes, lower ones others, but they kept track, and kept track of 
+Darin, too. 
+
+* Vicky McKinlay, a woman who knows Chloe well, said to me once, 
+"I've been supoenaed before,"
+She 
 certainly knew Chloe, but how well could she know me? Other 
 than the many
 	positive things she said to me. She said at some 
@@ -449,16 +205,15 @@ just
 Pierce County isn't doing more than unsupervised visits in 
 my
 	home every few days.
-	In other words, Vicky doesn't make or break any of 
-these, and could introduce smelly testimony. * Mariah is a 
+
+Mariah is a 
 care-giver with Advanced Health Care. She'd be a fine 
 witness of Darin's behavior, which she heavily monitored and 
 criticized. I know at this point we need physical witnesses, 
 but I think Mariah loved Emily and me and saw some bullshit 
 that probably stands out in her mind to this day. 
-========================iding Darin Murphy from here out, I 
-like everyone in the family, and have life- long 
-relationships with many of them. I am committed to keeping 
+
+I am committed to keeping 
 Chloe in Donna's life and i am able to coordinate with the 
 extended family to keep Chloe connected to the people who 
 loved Emily. In practical terms this means car trips, bus 
@@ -475,17 +230,11 @@ Emily's aunts an uncles, nieces and nephews. Chloe also
 knows mine. === I TELL KENNEDY Shit that fucking matters: 
 The registered Nurse Assistant did not say Chloe was naked 
 in my lap.
-	I THINK THAT'S IN THE PSYCHOSEX. THAT'S A DIFFERENT 
-PASS TO MICHAEL LATER. The City of Tacoma has 5 personnel 
-files. You have to ask for each individually if you want its 
-contents. Of course we can ask of their prior employee, Mr. 
-Murphy. Or I can approach his 2nd wife, who I've seen 
-recently in Spanaway at her house. I think we should stick 
-to cost-effective investigations, with depositions at the 
-high end of expense. I suppose that favors supoenas. Doesn't 
-it favor more cost-effective investigations like this? === 
-EVEN FURTHER DOWN THE ROAD LETTER TO SOSA Mead is the new 
-therapist at Hope Sparks. Unlimited postcards. order 
+
+Mead is the new 
+Therapist at Hope Sparks. 
+
+Unlimited postcards. order 
 authorizes swimming order authorizes visiting my home in 
 SeaTac order authorizing chloe sitting on my damn lap ORDER 
 DAY TRIPS TO SEATTLE order authorizes telephone calls, even 
@@ -2019,10 +1768,6 @@ who swam all last summer with me while her mom cheered from the shore, loses mor
 the past, loses more of the reassuring comfort I've always provided, loses the continuity her mother and i fought for
 , and i still fight for.
 
-Today I shopped for child suspenders.
-
-Do not let their underperformance harm her relationship with me.
-
 I used to take Emily and Chloe to contact dance, where we all interacted through climbing, dancing, swinging, and 
 spinning around with each other. It was among our favorite things to do. The new rules might be utterly clear in 
 extremist circles, but they clearly frustrate Chloe, who demands the simple comfort she understood since before she 
@@ -2056,37 +1801,6 @@ reports.
 
 Repeated failures by Donna Mairs to accomodate swimming apparently makes wading impossible. Why does it seem like the 
 change punishes Chloe and me most of all?
-
-I await the conclusion of your investigation. I write with information that might help you. One thing I realized when 
-I accepted Emily's invitation to move to Tacoma to help her die and to raise Chloe is that I could not do it alone. 
-So starting in November, and throughout the entire crisis, I called all of my friends. You say a friend of mine has 
-given you information about me. If they aren't on this list, they aren't my friend:
-
-Harry Silva
-William Houts
-Howard Dempsey
-Jan Dempsey and Tom Sampson
-Jason Dempsey
-Jeanine Kawal (Dempsey)
-James and Janice Dempsey
-Jeris Ockfen
-Nir Sadovnik
-Patricia and Herb Dempsey
-Rachel Scott
-Walter Wittel
-Michael Cleaver
-Diedre O'Neil
-Eric Wesley
-George Soler
-Carolee and Jerome Johnson
-
-My concern all along has been that you have been contacted by Joy Laydbak. I haven't seen her in three years, and she 
-has a long, colorful history of making false claims to CPS. In June or July, she included me in a declaration regarding the 
-custody of her child, who she currently has limited access to as the result of a trial in King County. But maybe she 
-didn't call CPS. Maybe you called someone. Maybe you would like to call the people I actually kept in close contact 
-with during this ordeal. If you want to, there they are.
-
-Please let me know if there are any ways I can expedite your evaluation of the allegation that I intend a life of sexual violence against Chloe Murphy.
 
 Also, I have reviewed the closed cases, and learned what you meant when you asked if I "jump on and bite" Chloe. She 
 was referring to a disciplinary act we called "time-in" which contained her and asserted authority. Containment could 
@@ -2151,47 +1865,8 @@ clear pattern of dropping the ball. I'm always available to work with you.
 
 Regards,
 
-John Dempsey
-206-384-5335
-
-not observing, just supervising, a cop role.
-
-controlling and prescribing behavior rather than observing.
-
-i question her purpose.
-
-We request reports. Each report is reviewed by 5 experienced educators and a retired police officer. All have 
-extensive training in writing observation reports.
-
-your employee at this time. But we see a clear problem that she's supervising, not observing. She's controlling and 
-prescribing behavior rather than observing effectively. 
-
-==
-
-I have positive appraisals of 3 supervisors. Five career educators review all reports. All Five have concerns about 
-one supervisor. Two of them have observed her work during a visit, and compared it to what they observed. This report 
-misses valuable statements and events.  I'm realizing it is because Chloe produced them. The policing aspect of your 
-service gets done but the more valuable details are not there. I am the target of smears in family court.  I have not 
-been charged with any crime. Try to imagine how the fixation with laps and omission of emotional clues feels to me 
-and my family. Your employment of this distant, bored woman who only appears focused on policing is inappropriate. 
-
 Em Chloe and I regularly sang in a Seattle group. All of this is  gone from chloes life and she is incredibly suited 
-to this kind of expression.  Em would weep at what's going on. 
-
-==
-
-I've read your declaration. Further explanation has been provided, including the video itself. But what's more 
-interesting to me is that you know Carolee and Jerome Johnson! I've attached a letter from Carolee about me and Chloe.
-
-Grant gildas and bridges are art therapy programs and chloe has done incredible in art therapy.  It's sick that she 
-has been removed completely from this Methodoly of healing and grief. Instead she gins up fake child Porn abuse as 
-donna constructs memories with an unknown and creepy tgerapist
-
-Do you have any idea how much work I put into preparation for this "fragile time"? 
-
-Write her a note that Carolee can hand-deliver.
-
-====
+to this kind of expression.
 
 I can't wait for your investigation. I know you got a report from Katy Johnson about an allegation of a video of 
 Chloe dressing. I brought this video to the court, and showed it to the G.A.L. who found no sexual content in it. How 
@@ -2200,12 +1875,6 @@ come you haven't asked to see the video?
 I figured out what you were referring to regarding "jumping on" and "biting" Chloe. It is not "jumping on" but rather 
 holding her, and it's not "biting" but just growling, for the purpose of asserting dominance when a power struggle is 
 in process. Emily and I call this "time in" and it works.
-
-And my "friend" who has information? I think I know who that is, and I haven't seen her in many years.
-
-if you don't ask to see the video in question that you aren't working. How much more transparent could I get?
-
-====
 
 I have completed the information release forms I received via US Mail on Monday, except for one document. I currently 
 reside with my brother and his daughter Epona, who is 13. I will need to prepare another authorization form for her.
@@ -2230,40 +1899,12 @@ Emily and I met with Sylvia, she said she had discovered literally no clues sugg
 Presumably anything in the medical examination would be a clue. Emily told me there was no "physical exam" because 
 the interview with the nurse did not indicate any cause for one.
 
-I am still preparing the 20 page intake for you. I will by necessity outline the long history of emotional, sexual, 
-and physical abuse in Emily's family. I feel frustrated that you're looking around for any kind of sexual abuse on my 
-part, but I understand it's still very early and I still have not mapped clearly where the actual bodies are buried 
-in Donna's family history. Ultimately you will determine that I and my family have zero history of abuse and Donna 
+Donna 
 and her family have a pattern of abuse spanning at least 4 generations, which I will describe. I am not spiteful or 
 petty, and have deep empathy for Donna Mairs,  but there are substantial reasons Emily chose me to raise Chloe, based 
 on intimate knowledge of her mother. But for now I must prepare these 20 pages!
 
-Also, my new address is:
-
-Thank you and regards,
-
-John Dempsey
-
-206-384-5335
-
-Phone Number: 	(760) 941-9859
-Line Type: 	Land Line from california... maybe his other line
-
-Hi Kyle.
-
-When you come to Tacoma, I want you to spend time with Chloe and me. I know you think I'm terrible because you read 
-so in detailed smears. (My family calls the case "years vs. smears".) There will eventually be 50 hours of detailed 
-visit reports. That can't compete with the scary lies and innuendo mounted against me... commissioner Johnson saw 
-through it. You failed to call in to that first hearing.
-
-Chloe must be told. We'll tell her together. You have every right to remove her from my life, but you should 
-understand the cruelty of your choice. I'd like to send you the visit reports prepared so far. And I insist we meet. 
-You are not saving the day.  But you have every right to crush the only dad relationship Chloe has.  She must be told
-.  We should tell her together. 
-
-=== WRITE TO KYLE
-
-POTENTIAL NEW Declaration of Jason Dempsey:
+Jason Dempsey:
 
 On October 26th, 2013, during a family trip to Olympia, Emily relayed to Jason that she was excited to know John would care for Chloe after she was gone.
 
@@ -2276,53 +1917,8 @@ Chloe chose John as much as John chose Chloe.
 
 ===
 
-POTENTIAL NEW Declaration of Jeris Ockfen:
-
-I am John's mother. I am a retired schoolteacher with a Master's degree in young child education. Emily, Chloe, and John visited me 
-and my husband about 8 times per year over 5 years. I always observed John and Emily to have a friendly 
-relationship. I observed Chloe to look to John as her dad. In that role John provided healthy, supportive, firm guidance.
-
-John volunteered in my kindergarten classroom when he was young. He is engaging and observant, and children enjoyed 
-learning from him. With Chloe, he encouraged her curiousity while enforcing boundaries.
-
-===
-
-POTENTIAL NEW Declaration of Bettina Wegleitner:
-
-I am a trained and former C.N.A. I am now training to be a doctor's assistant. I am also Emily Murphy's best friend since 
-childhood. I have four children.
-
-Emily spoke of her relationship with John over many years. She said John and Chloe were very close and love each other like a father and daughter.
-
-I visited Emily at least ten times at the apartment where she resided with John and Chloe. 
-I would bring take-out food, or take them to the restaurant nearby.
-When she became paralyzed, I would provide Emily with a full shower.
-
-Up until mid-April, Emily could speak clearly and freely. She told me both her parents told her she was not competent, 
-which annoyed her. 
-
-She demonstrated the 
-same awareness and perceptive humor I observed growing up with her.
-
-I saw John work hard for Emily during her health decline, both before and 
-during her hospice care. John prepared a safe home for her while her mobility and stability declined. 
-Eventually Emily became paralyzed, and required constant monitoring. John provided this care. 
-He prepared medicine on a schedule through the day, logged medication intake, crushed tablets, and administered medicine in Jell-O to avoid choking. 
-John worked with hospice staff to change Emily's briefs (diapers) and maintain her cleanliness. 
-
-At no time did I suspect that John was abusing Emily. 
-To the contrary, Emily said she was happy living with John and Chloe in the apartment, and she appeared to be happy. 
-John's effort to care for Emily was very sincere. I always saw humor, affection and friendship between John and Emily. 
-I believe John provided a comfortable home to Emily and Chloe as long as he could. 
-
-====
-
-POTENTIAL NEW Declaration of Allison:
-
 allison: forbade by parents to visit Donna and Darin Murphy home after witnessing "no rules" behavior, sex parties, lsd parties, drinking parties, 
 other inappropriate activities.
-
-===
 
 POTENTIAL NEW Declaration of Melissa Massay:
 
@@ -2333,40 +1929,13 @@ Chloe Murphy always attended with him.
 
 John enrolled Chloe in the Camp Sparkle day camp July 21-25 at Meridith Matthews YMCA in Tacoma
 
-===
-
-POTENTIAL NEW Declaration of Lisa Duke:
-
-===
-
-POTENTIAL NEW Declaration of martin Bullard, Ph.D.:
-
-I observed John's provide healthy interactions with children that have serious emotional challenges.  John employed an 
-enthusiastic and engaging style that encouraged even disruptive kids to choose positive and fun alliterative to 
-acting out. I never witnessed John treat a child abusively.
-
-===
-
-POTENTIAL NEW Declaration of William Houts:
+--
 
 During a party, William saw donna fucking a man other than Darin, her husband at the time.
 
-===
+Bettina's dad: Darin was absent as a parental figure when his daughters were young.
 
-POTENTIAL NEW Declaration of Bettinas dad:
-
-Darin was absent as a parental figure when his daughters were young.
-
-===
-
-POTENTIAL NEW Declaration of Pat the social worker:
-
-Emily confirmed many times she wants John to adopt Chloe.
-
-
-===
-
-"Don't quote Chloe. She's 7." -- Carlos M. Sosa, III
+--
 
 "When I first got to grandmas I had nightmares.  When I am old enough to choose where I live I will live with you in Seattle."
 
@@ -2375,10 +1944,6 @@ Story In sand sculptures: "the queen died and the castle fell on the king and th
 "You should get a job like Daniel (a child play psychotherapist) so you can help other kids. "
 
 ==== STATEMENTS OF CHLOE MURPHY
-
-Response to Donna and Richard:
-
-==
 
 You now have strong evidence that I've never sexually abused Chloe or any child. Out of necessity, with a wisp of new 
 details in their quiver, the intervenors pivot to a brand new thesis: That I'm violent or threatening. I know my life 
@@ -2412,86 +1977,13 @@ a single detail. I watched them cry as children, feeling ashamed and helpless me
 severely critical interaction based on a single detail of imperfection or error. I watched them abuse their daughters
 . And I watched what this behavior did to their daughters' self-esteem. Emily insisted this pattern stop with Chloe.
 
-The court cannot let this technique sway it from the wise path, in which a preponderance of evidence speaks much 
-louder than any one specific detail.
-
-I hope the court, based on the preponderance of evidence, determine what I meant, and look past all the "buzzword" 
-aspects of this unfortunate choice of words.
-
-There is a much larger set of objectives. I ask the court to review the last words Chloe said to me, as documented in 
-the Visit Report:
-
-I hope in time my words can take a back seat to her own, as this is her case.
-
-If, in the end, the court trusts me less, my deepest apologies are to Emily and Chloe, because my deepest promises are to them.
-
 The iconography of conflict.
-
-My words caused fear and fright. I only feel sadness and remorse for that.
-
-What did I mean? I meant I am the hero in this conflict, against impossible odds.
-
-But that's not the only interpretation, and for that I'm incredibly sorry.
-
-I have nothing but regard for the institution of the Superior Court, its agents and everyone here.
-
-We have courts so people can resolve conflicts without violence. 
-
-I have never fired a gun, and hope to never do so. I have never hit anyone, and hope to never do so. I have no 
-impulse to do so.
-
-I was in downtown Manhattan during the 9/11 terrorist attacks. I have nothing but spite for people who seek to 
-resolve conflicts with violence.
-
-I have maintained myself gracefully, politely, kindly, and cooperatively with the interveners and all agents of this 
-court.
 
 Do we agree? Often not. And the words do fly like bullets in a court room: Innuendo, slander, voice inflection to 
 cause alarm.
-
-I ask the court to review my 150+ pages of visit reporting, where I did not do an unkind thing, during the hardest 
-year of my life. I did, indeed, mean to say in my Facebook post that I am a hero facing incredible odds. Losing Emily 
-was the hardest event of my life. I have great passion, as do all parties, but I have never thought there rests a 
-solution in violence. I have always followed the expectations and requests of this court, to the letter. I have 
-sought to show my regard to the county where I was born and raised.
 
 People come and toss "daggers" in a court. The process is 
 very adversarial. To a newcomer like me, that can feel like quite a fight. But it's not literally a fight, and that's 
 the point: The court exists to prevent violence while resolving conflict. I stand in defense of this principle, not 
 against it! It is freedom's greatest promise in a just land.
-
-I have never harmed anyone. I do not believe in harming people. I do believe in 
-solving conflicts using reason. It *feels* like combat, and my hope and intention is to continue engaging in that 
-rhetorical combat to provide the merits of my case. But interpersonally, with complete sincerity, I'd like to give 
-each of you a hug. 
-
-If my words on Facebook frightened you, I hope you hear these words now. And I ask you to pass 
-this declaration to anyone else you know felt afraid, so they also know what's in my heart.
-
-I wish for all people to enjoy long life in the company of those they love. 
-I also got your request for mental health records. I am currently in a grief and loss program. I'm doing alright 
-overall. I hope you can imagine how hard this has been for me. 
-
-=== MY DUMB CAPTION
-
-I can offer fifty bucks for "fifty bucks worth"
-	and manage one relationship at a time, learning from the experience. I accrue the product. I can hire it from all these people.
-And I just manage the messages.
-	I CAN UNPLUG AND WORK.
-I CAN MANAGE DRAFTS IN PUBLIC.
-	I COULD PUBLISH AS A WORD DOC, ASK IF THEY HAVE MICROSOFT WORD, COLLECT DRAFTS.
-hit them harder then they can imagine with tools like that.
-	and it's such a manageable task.
-DOING WHAT I ASPIRE TAKES DISCIPLINE. FOR EXAMPLE, OFFLINE IS POWER.
-	8pm offline is powerful.
-and voluntary task prevails first.
-
-Frank Ellman, Legal Writer/Editor, 661-247-7099, frankellman10@gmail.com
-Doug Schwartz  860-961-4224 experience creating interrogatories.
-	organized, hierarchical manner.  
-	follow up questions based on answers. 
-	You mentioned the opposing party is being devious.  Such individuals are easy to trip up because their lies will inevitably become highlighted by the adversarial process.
-	Please contact me and we can discuss how I might help.
-CALL HIM, REFER HIM TO TUCC.US/jobs THEM BOTH!
-
 
