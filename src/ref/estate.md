@@ -161,25 +161,7 @@ Susan asked if I left Emily while she was dying, early in
 2012 it might have been. I explained that I did not, but instead confirmed 
 face-to-face with the doctor that she was not actively dying. I think Susan 
 would have a point there: If you'd leave her when she's dying, you're probably 
-a creep. I think you'll prefer not publishing these details now, but keep in 
-mind that we have these additional resources (easily authenticated 
-communications over many years) that tell more of the story to Susan if she 
-finds it germane to continue examining. I think these documents, while intimate 
-and perhaps controversial, tell as much or more *positive* than otherwise about 
-the relationships. ===================================== * Supoena Joni Irvin's 
-written notes. I watched her make them. Somewhere I've written at length about 
-Fuck Joni Irvin: http://tucc.us/xx/ba.docx * Supoena Joni's emails about the 
-case, to and from her. * Supoena Camille Johnston's email contacts regarding 
-Chloe. Or all of CPS's. I don't believe those transcripts of telephone and 
-face-to-face interviews constitute all the activity that occurred. * There are 
-other sources, details from Emily's medical records, but really hey bro we got 
-this story. Had I been hurting Emily, hospice would have acted quickly. Hospice 
-is yet another party to substantiate Emily's adoption wishes the quality of my 
-care, and Emily's voluntary choice to remain residing with me and Chloe there. 
-If anyone wants to argue otherwise, the Hospice records (from teh social 
-worker, and the nurse) would tell many tales about the situation. I got great 
-marks sometimes, lower ones others, but they kept track, and kept track of 
-Darin, too. 
+a creep. 
 
 * Vicky McKinlay, a woman who knows Chloe well, said to me once, 
 "I've been supoenaed before,"
@@ -220,14 +202,15 @@ loved Emily. In practical terms this means car trips, bus
 stop meetups, phone calls, adherance to fair rules, as ruled 
 by the court. I have done this consistently with the entire 
 family for six years with Chloe and that would continue. 
-It's probably smart if I avoid Mexican alleys with Darin, 
-because he is scary, but the rest of the family is pretty 
-cool. I can't think of an uncool Manning, for example. 
+
+I can't think of an uncool Manning, for example. 
 Richard Mairs is cool. I want to like Donna, and used to 
 like her, but now I kind of don't like her. I certainly 
 don't show it to Chloe, and never have. I can name all 
 Emily's aunts an uncles, nieces and nephews. Chloe also 
-knows mine. === I TELL KENNEDY Shit that fucking matters: 
+knows mine. === 
+
+I TELL KENNEDY Shit that fucking matters: 
 The registered Nurse Assistant did not say Chloe was naked 
 in my lap.
 
@@ -239,24 +222,19 @@ authorizes swimming order authorizes visiting my home in
 SeaTac order authorizing chloe sitting on my damn lap ORDER 
 DAY TRIPS TO SEATTLE order authorizes telephone calls, even 
 recorded telephone calls.
-	https://www.nonotes.com/transcription-company-call-recording.html
-		inbound and outbound call recording and 
-transcription THIS. I WANT THIS. I WANT CHLOE TO HAVE MY 
-PHONE NUMBER, NOW, EVEN IF THAT IS THROUGH A 100% CALL 
-RECORDING SERVICE. Donna's denials.
-	Search for CFS This sounds wonderful. Donna wrote 
+
+Donna wrote 
 many times to explicitly reject adults in my family. Her 
 pattern of doing so is available in writing.
-	NEXT MOTION SPECIFIES AUTHORIZATION OF UP TO 2 
-ADDITIONAL ADULTS KNOWN TO CHLOE, who Chloe prefers.
-		so that donna is not empowered to block 
+
+so that donna is not empowered to block 
 people. Explicit authorization of the court to allow these 
-adults in my family who are known to Chloe. * No 
-supervision. Alternatively, supervision by this list of 
-parties approved by the court: Herb Dempsey, Jeris Ockfen, 
-Howard Dempsey, Jan Dempsey, Jason Dempsey, Paula Everdell, 
-Jeanine Dempsey, Jim Dempsey, Curtis Brown.
-	All on this list have no criminal record. Nearly 
+adults in my family who are known to Chloe.
+
+ * No supervision. Alternatively, supervision by this list of parties approved 
+by the court: Herb Dempsey, Jeris Ockfen, Howard Dempsey, Jan Dempsey, Jason 
+Dempsey, Paula Everdell, Jeanine Dempsey, Jim Dempsey, Curtis Brown.
+All on this list have no criminal record. Nearly 
 half are retired public school teachers in Pierce County 
 schools. All are people known to Chloe, who Chloe routinely 
 asks to see.
@@ -268,9 +246,8 @@ court where wisdom can prevail over fear. * I want both
 money and time that is reserved. Recover all reserved hours. 
 Ex parte loss and other loss and Most recent documented 
 losses.
-	deficit 8.5 hours, now add 4 for saturday Jan 17th, 
-and it's 12.5 hours, + 6 for 19th-25th = 18.5h, + 6 for 
-26th-1st = 24.5, + 6 for 2nd-8th = 30.5h Prohibit Chloe from 
+
+Prohibit Chloe from 
 being at Darin's house so long as it contains unsecured 
 weapons. *This is useful for matters with Joni Irvin who 
 approvehigh-quality secondary school education while 
@@ -597,12 +574,8 @@ thunderbird file-by-file review? or searches?
 again.
 			ok, let's. Emails to-from Darin 
 Emails from Alece
-	AND THEIR ATTACHMENTS, LIKE THE CAMILLE CPS FUCK YOU 
-Emails to-from Emily Well I'm writing 
-c:\ajc\rogs_to_heather.docx, and i'm going to need 
-reviewers, so i need to bring that document to a publishable 
-bar.
-	EVEN JUST THE QUESTIONS ready to read. SO THAT'S A 
+
+EVEN JUST THE QUESTIONS ready to read. SO THAT'S A 
 BAR I CAN DO GRIND THROUGH.
 	using the same script as in the g.a.l. answers 
 c:\ajc\witnesses.docx is a LIFE DOC CARLOS CAN VIEW.
@@ -620,7 +593,8 @@ Tracy Burgess: All email involving Bettina: All email from
 Emily Murphy on her hotmail account. YES I WILL READ THE 
 G.A.L. 79 QUESTION ANSWERS, only in Word where I can add a 
 flag for Carlos.
-	quite a bit can easily form murphy questions, etc. 
+
+quite a bit can easily form murphy questions, etc. 
 12062256872 2 40mg citalopram hydrobromide for Murphy Apr 1, 
 2014 4:19:00 PM 12062256872 1 Thanks Apr 1, 2014 4:19:16 PM 
 12532308511 1 Hi jon it's lesheana the caregiver from 
@@ -630,26 +604,23 @@ Apr 17, 2014 6:04:00 PM 12532308511 1 nd underarms...thanks
 and tell emily I said goodnight see you tomorrow Apr 17, 
 2014 6:04:02 PM BANG: BUCK:
  
-== E & C Prior publications (declarations and motions) must 
-be reviewed to assure all this is comprehensive per-person 
-chronological. When you determined that John Dempsey was 
+When you determined that John Dempsey was 
 misusing the drug Lorazapam, what action did you take? Who 
-did you contact? (I review his claims first... so I must 
-ultimately review all his claims before my own 
-interrogatives are completed.
-	Yeah, this is a pre-req also. ok. I really need to 
+did you contact?
+
+Yeah, this is a pre-req also. ok. I really need to 
 review every declaration they've made before the court, in a 
 methodical way, to construct these interrogatories. === THE 
 PUBLISHING BAR GO TO CPS... DOES THE FIRST CPS PACKET 
 SPECIFY A DAY THESE ARE READY?
-	and I review and comment on primary documents The 
-polygraph portion of the PsySex exam is a hurdle i might 
-require later. so i want to do it now. set it up. == ALWAYS 
-FIND A REASON WHY THIS CAN END LIL PROJECTS; all mariela's 
+
+all mariela's 
 photos that i want to publish. 
 https://picasaweb.google.com/107460598315429300090/Seattle2010 
+
 all mr. murphy's photos. i could attach dates just to those.
-	in some permanent publishing format for pdf's 1. 
+
+in some permanent publishing format for pdf's 1. 
 respond to intervener's crapfest. ok find electronic 
 version. PDF from sosa.
 	how do i search I FOUND IT. NEED A MOUSE. 2. prepare 
@@ -661,119 +632,83 @@ and voicemail details.
 	with daily publishing. == VARIOUS CRAPS I MUST DO 
 MUST AT LEAST DESIGNATE THEM IN "OTHER DOCUMENTS" TO HEATHER 
 ROGS
-	Should I use my power to get the Hospice records?
-		eMILY'S BU treatment she experienced at the 
-hands of her mother and father in those months. Through 
-Alece and Joy(ce) I hear you had "concerns" about me. That's 
-vague. The only thing I infer from it is that it's plural. 
-More than one concern. And I do note, having seen the 
-records, that you did not call CPS with your concerns. That 
-would have required specificity, too. And you haven't 
-prepared any declaration of any substance in this case. Yet 
-you're a witness for Mairs. I bet you've never met Richard 
-Mairs. You're an expert in your field. Michael Comte is a 
-more highly regarded expert in the area of people who hurt 
-children sexually. You might have observed me for an hour. 
-He observed me for 6, and read every document in this whole 
-messy case so far. Maybe you think I'm a thug forcing Emily 
-to sign papers.  Maybe you think I sneeze wrong. None of 
-that adds up to your view that I could only see Chloe under 
-supervision, me, never charged with any crime, smeared 
-liberally through false reports to CPS and APS, 4 cases 
-opened and closed. You should read those case details. You 
-would know more as an expert if you did. See how Darin 
-fought for the half million, spitefully, dishonestly, all 
-the while smiling and winking like we're friends. You should 
-have serious concerns about having placed children in his 
-care, after what I've seen him do to children both 
-physically and psychologically. Or perhaps you think I'm 
-lying? So the trial hinges on whether Emily was wrong, over 
-5 years, in the presence of career educators, closely 
-observing us together. Donna let this guy in the house as a 
-guest. Her daughter Sara let another sex offender into her 
-house, and that guy sexually assaulted Ally, and Ally 
-sexually assaulted Chloe. Donna plans to move Chloe to 
-Sara's house, a plan made behind Tracy's back. And you come 
-to the conclusion that I should not be with Chloe without 
-supervision? Your conclusion asserts that for 5 years, Emily 
-was wrong about me. Why did you come to it? Darin came to 
-you with a litany of terrible claims about me. My claims 
-about him are rooted in clear facts: He worked with Kyle in 
-an attempt to defeat me in the custody case, offering his 
-home to Kyle. Kyle called Chloe on the telephone, saying 
-he'd like to meet her. When I agreed to the GAL-P's course 
-to put Emily's insurance money in professional hands, Darin 
-countered with an alternative fund manager who happens to 
-sleep with the original, sleazy attorney. When we rejected 
-that, Darin stopped coming to hearings, and Kyle disappeared 
-completely. Pow, down goes Chloe's heart. You think Darin is 
-an honest source of anything? Donna shows the poor boundary 
-control typical of abusive families. Darin shows extreme 
-domineering behaviors, and you've seen them first-hand. 
-There are reasons I came to Tacoma! There are reasons Emily 
-wanted Chloe to be with me, rather than with them. Saying I 
-should be supervised, and saying you "guess" Donna is the 
-best choice for Chloe, goes against five years of Emily's 
-observations and sound decision-making, and goes against the 
-evaluations of my family, the people who spent the most time 
-with us 3. I don't see how you could learn much from the 
-outrageously domineering antics of Darin at that meeting. I 
-remember when you came to my house. You didn't stay long. 
-Emily routinely said Donna lacks self-respect. Is that the 
-role model you have in mind for Chloe? Have you met Richard 
-Mairs? This is the first year in her life where, from her 
-birthday, to Thanksgiving, to Christmas Eve, to New Year's, 
-not only was she not with me, but she was not with my entire 
-family. Look back with me, through a few links to remember 
-moments and milestones. - The ez publish link only of all 
-appropriate vids. well we have a Chloe Playlist that is 
-unlisted. Link to playlist of Chloe videos featuring us 3. 
-It has deeply changed both my life and Chloe's, and both she 
-and I resent what you've said. I haven't told her, but she 
-has said in innumerable testimonies that she wants to see me 
-regularly, and freely. She continues to have both trust and 
-a sense of loyalty to me that I share toward her as well. 
-How could anyone call this relationship anything but 
-tenacious and fantastic? In that vein, I've prepared a 
-publication for Chloe. Please let me know if you like it. 
-Let me know if you think maybe I'm fantastic. I've done much 
-for her and won't stop. I've been given compelling defense 
-by an expert in sexually sick men, that I'm not one. I hope 
-you continue choosing your activities based on your clearest 
-view of me available. It was incredibly hard to do what I 
-did. I embraced the unknown and stood with them both as long 
-as I could, without apology. I did so partially, but only 
-partially, because I know Donna Mairs very well. I did so 
-fully with my whole heart and life, and continue paying 
-whatever price, to grant Emily her wishes, and Chloe hers, 
-every day I am by their side. You have heard a lot of 
-strange things about me... and you need to fully evaluate 
-what they actually mean. So I've prepared a gallery of 
-precise information, chosen for breadth and each chosen just 
-for you, Joni, so you might know more about me. Indeed, this 
-is the most comprehensive presentation of digital 
-information about Chloe and John. Joni, let me tell you a 
-story: In October, 2013, Chloe asked me, "Ok, Write me a 
-story... you know how you make stories of Sparkles the Pink 
-Pony? Make a story called, 'Chloe and John's future 
-together.' Everything I've done since has been preparing 
-that story. And this is, for you, that story, for you are 
-the person who can end it. If you want to watch any part of 
-it, please watch it all the way through, and you will know 
-my decency as Chloe and Emily did. Joni, I don't want to 
-show you a well-chosen presentation. I want you to see how 
-long I've been there in Chloe's life, by including every 
-instance documented of our time together, comprehensively 
-provided by oath: You look, you see, you feel what I felt 
-and feel. I've given real life because I have long ago been 
-her father, showed by this evidence. I believe it is the 
-best evidence ever gathered to tell this story in honest 
-terms, incontrovertable terms, and comprehensively. Because 
-I indeed risk losing an obvious love. What letter would I 
-write to avoid that? A well-documented one. This letter. 
-JUST A SINGLE CHRONOLOGICAL LJ FRONT PAGE. YES, COBBLE 
-EXISTING MCFNORD INTO CLEAR CHLOE COBBLE THEN MY TUMBLR IN 
-OR PUBLISH THIS ON TUMBLR IT'S GREAT PASTE GREAT
+
+He observed me for 6, and read every document in this whole messy case so far. 
+Maybe you think I'm a thug forcing Emily to sign papers.  Maybe you think I 
+sneeze wrong. None of that adds up to your view that I could only see Chloe 
+under supervision, me, never charged with any crime, smeared liberally through 
+false reports to CPS and APS, 4 cases opened and closed. You should read those 
+case details. You would know more as an expert if you did. See how Darin fought 
+for the half million, spitefully, dishonestly, all the while smiling and 
+winking like we're friends. You should have serious concerns about having 
+placed children in his care, after what I've seen him do to children both 
+physically and psychologically. Or perhaps you think I'm lying? So the trial 
+hinges on whether Emily was wrong, over 5 years, in the presence of career 
+educators, closely observing us together. Donna let this guy in the house as a 
+guest. Her daughter Sara let another sex offender into her house, and that guy 
+sexually assaulted Ally, and Ally sexually assaulted Chloe. Donna plans to move 
+Chloe to Sara's house, a plan made behind Tracy's back. And you come to the 
+conclusion that I should not be with Chloe without supervision? Your conclusion 
+asserts that for 5 years, Emily was wrong about me. Why did you come to it? 
+Darin came to you with a litany of terrible claims about me. My claims about 
+him are rooted in clear facts: He worked with Kyle in an attempt to defeat me 
+in the custody case, offering his home to Kyle. Kyle called Chloe on the 
+telephone, saying he'd like to meet her. When I agreed to the GAL-P's course to 
+put Emily's insurance money in professional hands, Darin countered with an 
+alternative fund manager who happens to sleep with the original, sleazy 
+attorney. When we rejected that, Darin stopped coming to hearings, and Kyle 
+disappeared completely. Pow, down goes Chloe's heart. You think Darin is an 
+honest source of anything? Donna shows the poor boundary control typical of 
+abusive families. Darin shows extreme domineering behaviors, and you've seen 
+them first-hand. There are reasons I came to Tacoma! There are reasons Emily 
+wanted Chloe to be with me, rather than with them. Saying I should be 
+supervised, and saying you "guess" Donna is the best choice for Chloe, goes 
+against five years of Emily's observations and sound decision-making, and goes 
+against the evaluations of my family, the people who spent the most time with 
+us 3. I don't see how you could learn much from the outrageously domineering 
+antics of Darin at that meeting. I remember when you came to my house. You 
+didn't stay long. Emily routinely said Donna lacks self-respect. Is that the 
+role model you have in mind for Chloe? Have you met Richard Mairs? This is the 
+first year in her life where, from her birthday, to Thanksgiving, to Christmas 
+Eve, to New Year's, not only was she not with me, but she was not with my 
+entire family. Look back with me, through a few links to remember moments and 
+milestones. - The ez publish link only of all appropriate vids. well we have a 
+Chloe Playlist that is unlisted. Link to playlist of Chloe videos featuring us 
+3. It has deeply changed both my life and Chloe's, and both she and I resent 
+what you've said. I haven't told her, but she has said in innumerable 
+testimonies that she wants to see me regularly, and freely. She continues to 
+have both trust and a sense of loyalty to me that I share toward her as well. 
+How could anyone call this relationship anything but tenacious and fantastic? 
+In that vein, I've prepared a publication for Chloe. Please let me know if you 
+like it. Let me know if you think maybe I'm fantastic. I've done much for her 
+and won't stop. I've been given compelling defense by an expert in sexually 
+sick men, that I'm not one. I hope you continue choosing your activities based 
+on your clearest view of me available. It was incredibly hard to do what I did. 
+I embraced the unknown and stood with them both as long as I could, without 
+apology. I did so partially, but only partially, because I know Donna Mairs 
+very well. I did so fully with my whole heart and life, and continue paying 
+whatever price, to grant Emily her wishes, and Chloe hers, every day I am by 
+their side. You have heard a lot of strange things about me... and you need to 
+fully evaluate what they actually mean. So I've prepared a gallery of precise 
+information, chosen for breadth and each chosen just for you, Joni, so you 
+might know more about me. Indeed, this is the most comprehensive presentation 
+of digital information about Chloe and John. Joni, let me tell you a story: In 
+October, 2013, Chloe asked me, "Ok, Write me a story... you know how you make 
+stories of Sparkles the Pink Pony? Make a story called, 'Chloe and John's 
+future together.' Everything I've done since has been preparing that story. And 
+this is, for you, that story, for you are the person who can end it. If you 
+want to watch any part of it, please watch it all the way through, and you will 
+know my decency as Chloe and Emily did. Joni, I don't want to show you a 
+well-chosen presentation. I want you to see how long I've been there in Chloe's 
+life, by including every instance documented of our time together, 
+comprehensively provided by oath: You look, you see, you feel what I felt and 
+feel. I've given real life because I have long ago been her father, showed by 
+this evidence. I believe it is the best evidence ever gathered to tell this 
+story in honest terms, incontrovertable terms, and comprehensively. Because I 
+indeed risk losing an obvious love. What letter would I write to avoid that? A 
+well-documented one. This letter. JUST A SINGLE CHRONOLOGICAL LJ FRONT PAGE. 
+YES, COBBLE EXISTING MCFNORD INTO CLEAR CHLOE COBBLE THEN MY TUMBLR IN OR 
+PUBLISH THIS ON TUMBLR IT'S GREAT PASTE GREAT
 	and show every photo, in a comprehensive way and 
 every video, every dance, every sentence starting at the 
 earliest.
@@ -790,210 +725,182 @@ Then a publisher.
 will be the animation first.
 	But then send all the visit reports. Engage in a 
 dialogue with all of these people.
-	But send three visit reports. I know I didn't say 
-much about myself on your intake papers, and I'm sure you'll 
-agree we had a poor introduction. The only remedy I can 
-think of is a comprehensive dump of my chronicled life and 
-times with chloe, including every word written, picture 
-taken, video made, in roughly chronological order. If I took 
-some out, that's editorializing. Instead, I'm comprehensive. 
-I don't think there are any videos, pictures, and words 
-about Chloe by me that aren't in this set. The court will 
-evaluate how strongly Emily decided, and for what very sound 
-reasoning. I know that's not something you could evaluate 
-about us, and those details probably made you feel even more 
-leery. I will stay until the court determines both her 
-adamancy and her wisdom in choosing me. I hope you examine 
-those details, as I hope your opinion is always open to 
-influence. I've prepared something for you. I don't think I 
-can give it to the g.a.l., because then she gives it to 
-donna's attorney and they fixate on every last detail and 
-the trial goes nuts. But I can give it to you, and you can 
-do whatever you want with it. I thought about the most 
-influential way I could honestly and completely show you 
-some of the details of our lives together. i realized that 
-if i choose what to show you, then you aren't getting every 
-detail--then i'm selectively choosing. but if i give you 
-*every* image, video, and word where i am with either chloe 
-or emily, then you can find whatever conclusion you want, 
-knowing the scope. in other words, i know of no other 
-personal document where we are together. you will find no 
-other picture, video, or word of us that i'm aware of. If 
-you formed an impression during noise and conflict, perhaps 
-you can form additional impressions using this comprehensive 
-source of digital data. You and I see why we can only call 
-this stack 'Chloe and John's Past Together". So many places 
-I've taken her, so many places she wants to go. A lot of the 
-outcome will hinge on your balanced appraisal. I CAN PUBLISH 
-THIS FOR CHLOE AND ALSO SHOW IT TO JONI, SO IT'S A TWOFER. 
-IT'S A TWOFER, THERE IS ONE OF ME, I CHOOSE TWOFERS ONLY. 
-fuck onefers, do the twofer.
-	and show it to tracy, and ask tracy if she thinks 
-it's alright i show it to chloe. STAY OFFLINE AND WORK. 
-FULLY DISCIPLINED, DATA FASCISM. Inline Joni: A substantial 
-video library at a single link = intrigue. but edited 
-interactivity, pass all source material to a volunteer. Get 
-the Chloe Romance video. She says there's romance. Why do we 
+	But send three visit reports. I know I didn't say much about myself on 
+your intake papers, and I'm sure you'll agree we had a poor introduction. The 
+only remedy I can think of is a comprehensive dump of my chronicled life and 
+times with chloe, including every word written, picture taken, video made, in 
+roughly chronological order. If I took some out, that's editorializing. 
+Instead, I'm comprehensive. I don't think there are any videos, pictures, and 
+words about Chloe by me that aren't in this set. The court will evaluate how 
+strongly Emily decided, and for what very sound reasoning. I know that's not 
+something you could evaluate about us, and those details probably made you feel 
+even more leery. I will stay until the court determines both her adamancy and 
+her wisdom in choosing me. I hope you examine those details, as I hope your 
+opinion is always open to influence. I've prepared something for you. I don't 
+think I can give it to the g.a.l., because then she gives it to donna's 
+attorney and they fixate on every last detail and the trial goes nuts. But I 
+can give it to you, and you can do whatever you want with it. I thought about 
+the most influential way I could honestly and completely show you some of the 
+details of our lives together. i realized that if i choose what to show you, 
+then you aren't getting every detail--then i'm selectively choosing. but if i 
+give you *every* image, video, and word where i am with either chloe or emily, 
+then you can find whatever conclusion you want, knowing the scope. in other 
+words, i know of no other personal document where we are together. you will 
+find no other picture, video, or word of us that i'm aware of. If you formed an 
+impression during noise and conflict, perhaps you can form additional 
+impressions using this comprehensive source of digital data. You and I see why 
+we can only call this stack 'Chloe and John's Past Together". So many places 
+I've taken her, so many places she wants to go. A lot of the outcome will hinge 
+on your balanced appraisal. I CAN PUBLISH THIS FOR CHLOE AND ALSO SHOW IT TO 
+JONI, SO IT'S A TWOFER. IT'S A TWOFER, THERE IS ONE OF ME, I CHOOSE TWOFERS 
+ONLY. fuck onefers, do the twofer.
+
+Why do we 
 all lay in bed so much? because we're both disabled. I've 
 attached information about that. I also take hot baths as 
 therapy. So of course we all took baths together. I have to 
-lay down and have to take hot baths. But look at the moments 
-i've assembled. == === INTERROGATORIES FOR DARIN === ROGS 
-FOR BOTH RICHARD AND DONNA === INTERROGATORIES FOR DONNA === 
-ROGS FOR RICHARD === INTERROGATORIES FOR BETTINA === 
-INTERROGATORIES FOR MARIELA === INTERROGATORIES FOR CAMILLE 
-=== INTERROGATORIES FOR KYLE === INTERROGATORIES FOR KATY 
-=== INTERROGATORIES FOR JONI Let me clarify some rather 
-simple things. Emily wanted me to raise Chloe since 2012 and 
-earlier. In her will, she specified Donna and Richard, 
-because I hadn't volunteered yet. I still wanted Chloe to be 
-in a better home than Donna's, and I thought Darin's home 
-was better, because I thought Mariela is a good mom. So I 
-tried to persuade Emily to change to Darin and Mariela for 
-Chloe. And I failed. She told me clearly that she chose 
-Donna over Darin. Knowing what I know now, that's a great 
-gut decision she made. I have never felt Donna's a great 
-mom, due to her religion and mental health. Emily and I 
-didn't always agree. For example, she didn't know her 
-parents would work this hard to sabotage her. I kind of did 
-know that Donna would not keep her promise to Emily that I 
-would stay in Chloe's life. I saw Donna as more extremist 
-than Emily did. Emily loved these people, but she still had 
-very clear understandings of them. In the end you have to 
-ask yourself not just if Emily was wrong all those years, 
-but if she was right all those years. Incredibly right. 
-Donna's theology is fear. She's teaching Chloe fear now. I'm 
-chided on "boasting" now. Donna loves all that submissive 
-junk. Emily definitely agreed with me on that: Donna lacks 
-self-respect in some way. I see this from a more urban 
-perspective, that Donna is submissive, in her personality, 
-and that's ok, but she shouldn't push it on people, 
-especially children. I'm convinced Donna hurt all the girls 
-she has raised. EMily had debilitating anxiety and left for 
-the Marines at age 17. Why did she have that problem when 
-raised in that environment? Because living was prohibited. 
-Boasting, aspiring, being audacious, everything's about to 
-break, everything's dangerous, against a rule. So I had to 
-come to Tacoma. I don't want Chloe to go through that. This 
-photo was taken while I moved to Tacoma, and Emily and Chloe 
-attended the Nutcracker. On that day, DOnna made a fuss 
-because she preferred that Chloe attend church. Emily valued 
-a free, all-transportation-provided viewing of the 
-Nutcracker more than she valued "religious" church 
-attendance. You must see a risk to any child of sexual 
-violence as terribly serious, and you should. I see a risk 
-to any child of religious violence as terribly serious. I 
-see 4 examples of religious and psychological violence 
-against 4 women. I see it put ripples into their lives that 
-have caused them harm, not help. I know the terrible 
-psychology that accompanied some of it, and attribute it to 
-severe mental emotional illness, an explanation I learned 
-from Emily, and I know it has done damage to Donna, and it 
-will do damage to Chloe, as it did damage to all the women 
-of the family. i was alone with chloe at occupy seattle. I 
-know Alece used to send these to you, and you talked with 
-her about a few of them. I have a meaner attorney now, so I 
-will say my two cents if you prefer. In this report, what 
-Chloe said to me was alarming. She said it in concrete 
-terms, as quoted, and then during "make-believe" she 
-explained it in elaborate detail. She described a family 
-battle between Orcas and Dolphins, with her as mermaid to 
-fix it. I am going to tell Chloe she can also fly, and fly 
-away from that old battle, which she said with unusual 
-passion: The conflict began when the King Orca told a lie! 
-Chloe is of uncanny intelligence and I feel like a critical 
-element to both her intellectual, creative, and 
-psychological well-being. I'm not playing some parlor trick 
-with her, and not manipulating her. I am solely listening to 
-her over many years, and building stories with her. She is 
-the source of the stories. And she knows--she knew earlier 
-as a young person, but she knows well now--she can tell the 
-tale of anything going on in her life with me and I will let 
-her explore it. How this relationship got so sliced into 
-panic for so many is another story. Endulge me a moment by 
-considering a quote from Chloe, one of the many 
-life-changing statements for me. I had written small, 
-concrete poems about Chloe living with Mariela. (I advocated 
-for that from Dec 2012 to November 2013, but that's a 
-different story.) Emily, Chloe, and I would read these by 
-candlelight. Chloe was deeply touched that her well-being 
-was paramount in the writing. I had written fanciful stories 
-about Sparkles the Pink Pony for her before, filling little 
-notebooks with the tales of Sparkles, a fictional character 
-I invented for her when she was 2. And she looked at me in 
-October 2013 and said, "You know how you write Sparkles 
-stories? Write a story called: John and Chloe's Future 
-Together." I hope you can reflect on this request as I did. 
-I knew I had to be able to write that story. That moved me 
-to secure a permanent place in her life. That's obviously 
-all I've tried to do. So it was the question posed by your 
-client that put a substantial change into motion. Now it is 
-a question you can answer better than I can. I've given a 
-great deal of my life to her already, but I can't proceed 
-without your blessing. I am preparing a lot of stuff, 
-including a project about Sparkles the Pink Pony, that I 
-hope you will examine, but mostly I hope you continue 
-reading accounts of my interactions with Ms. Murphy. What 
-Donna's doing now is convincing Chloe to settle for a 
-severely limited exposure to me, and believe me I regret Ms. 
-Irvin's concurrence. I find Donna desperately depressing and 
-paranoid, to Chloe's detriment, and I changed my life to 
-prevent Donna from raising Chloe. To have to watch it in 
-slow motion from a worsening position of power gives me a 
-feeling for the bleakness of death, as Emily felt. She never 
-wavered from her position, and rarely cried, so I will 
-continue. I will seek the endorsement of Pierce County as a 
-party to be trusted among children, including this child, as 
-Emily clearly understood. Where do you, as Chloe's 
-representative and advocate, stand on this wilful and 
-systematic harm to her confidence and ambition?
-I see that Heather Y
+lay down and have to take hot bat
+
+Emily wanted me to raise Chloe since 2012 and earlier. In her will, she 
+specified Donna and Richard, because I hadn't volunteered yet. I still wanted 
+Chloe to be in a better home than Donna's, and I thought Darin's home was 
+better, because I thought Mariela is a good mom. So I tried to persuade Emily 
+to change to Darin and Mariela for Chloe. And I failed. She told me clearly 
+that she chose Donna over Darin. Knowing what I know now, that's a great gut 
+decision she made. I have never felt Donna's a great mom, due to her religion 
+and mental health. Emily and I didn't always agree. For example, she didn't 
+know her parents would work this hard to sabotage her. I kind of did know that 
+Donna would not keep her promise to Emily that I would stay in Chloe's life. I 
+saw Donna as more extremist than Emily did. Emily loved these people, but she 
+still had very clear understandings of them. In the end you have to ask 
+yourself not just if Emily was wrong all those years, but if she was right all 
+those years. Incredibly right. Donna's theology is fear. She's teaching Chloe 
+fear now. I'm chided on "boasting" now. Donna loves all that submissive junk. 
+Emily definitely agreed with me on that: Donna lacks self-respect in some way. 
+I see this from a more urban perspective, that Donna is submissive, in her 
+personality, and that's ok, but she shouldn't push it on people, especially 
+children. I'm convinced Donna hurt all the girls she has raised. EMily had 
+debilitating anxiety and left for the Marines at age 17. Why did she have that 
+problem when raised in that environment? Because living was prohibited. 
+Boasting, aspiring, being audacious, everything's about to break, everything's 
+dangerous, against a rule. So I had to come to Tacoma. I don't want Chloe to go 
+through that. This photo was taken while I moved to Tacoma, and Emily and Chloe 
+attended the Nutcracker. On that day, DOnna made a fuss because she preferred 
+that Chloe attend church. Emily valued a free, all-transportation-provided 
+viewing of the Nutcracker more than she valued "religious" church attendance. 
+You must see a risk to any child of sexual violence as terribly serious, and 
+you should. I see a risk to any child of religious violence as terribly 
+serious. I see 4 examples of religious and psychological violence against 4 
+women. I see it put ripples into their lives that have caused them harm, not 
+help. I know the terrible psychology that accompanied some of it, and attribute 
+it to severe mental emotional illness, an explanation I learned from Emily, and 
+I know it has done damage to Donna, and it will do damage to Chloe, as it did 
+damage to all the women of the family. i was alone with chloe at occupy 
+seattle. I know Alece used to send these to you, and you talked with her about 
+a few of them. I have a meaner attorney now, so I will say my two cents if you 
+prefer. In this report, what Chloe said to me was alarming. She said it in 
+concrete terms, as quoted, and then during "make-believe" she explained it in 
+elaborate detail. She described a family battle between Orcas and Dolphins, 
+with her as mermaid to fix it. I am going to tell Chloe she can also fly, and 
+fly away from that old battle, which she said with unusual passion: The 
+conflict began when the King Orca told a lie! Chloe is of uncanny intelligence 
+and I feel like a critical element to both her intellectual, creative, and 
+psychological well-being. I'm not playing some parlor trick with her, and not 
+manipulating her. I am solely listening to her over many years, and building 
+stories with her. She is the source of the stories. And she knows--she knew 
+earlier as a young person, but she knows well now--she can tell the tale of 
+anything going on in her life with me and I will let her explore it. How this 
+relationship got so sliced into panic for so many is another story. Endulge me 
+a moment by considering a quote from Chloe, one of the many life-changing 
+statements for me. I had written small, concrete poems about Chloe living with 
+Mariela. (I advocated for that from Dec 2012 to November 2013, but that's a 
+different story.) Emily, Chloe, and I would read these by candlelight. Chloe 
+was deeply touched that her well-being was paramount in the writing. I had 
+written fanciful stories about Sparkles the Pink Pony for her before, filling 
+little notebooks with the tales of Sparkles, a fictional character I invented 
+for her when she was 2. And she looked at me in October 2013 and said, "You 
+know how you write Sparkles stories? Write a story called: John and Chloe's 
+Future Together." I hope you can reflect on this request as I did. I knew I had 
+to be able to write that story. That moved me to secure a permanent place in 
+her life. That's obviously all I've tried to do. So it was the question posed 
+by your client that put a substantial change into motion. Now it is a question 
+you can answer better than I can. I've given a great deal of my life to her 
+already, but I can't proceed without your blessing. I am preparing a lot of 
+stuff, including a project about Sparkles the Pink Pony, that I hope you will 
+examine, but mostly I hope you continue reading accounts of my interactions 
+with Ms. Murphy. What Donna's doing now is convincing Chloe to settle for a 
+severely limited exposure to me, and believe me I regret Ms. Irvin's 
+concurrence. I find Donna desperately depressing and paranoid, to Chloe's 
+detriment, and I changed my life to prevent Donna from raising Chloe. To have 
+to watch it in slow motion from a worsening position of power gives me a 
+feeling for the bleakness of death, as Emily felt. She never wavered from her 
+position, and rarely cried, so I will continue. I will seek the endorsement of 
+Pierce County as a party to be trusted among children, including this child, as 
+Emily clearly understood. Where do you, as Chloe's representative and advocate, 
+stand on this wilful and systematic harm to her confidence and ambition? I see 
+that Heather Y
 
 
 Would you like to examine my collection of hard drives and other storage techniques?
 
 Would you welcome a court order to rec over 5 years of text messages between Emily and me?
 
-why do you think i came to tacoma? i see donna's psychological defeatism and i see what it did to the self-confidence 
-of 4 children already. the chloe you met was emily's child. chloe is transforming into an insecure child, cautious to 
-the point of indecision. chloe is becoming donna's child. i pledged to prevent this. i have not given up yet.
+why do you think i came to tacoma? i see donna's psychological defeatism and i 
+see what it did to the self-confidence of 4 children already. the chloe you met 
+was emily's child. chloe is transforming into an insecure child, cautious to 
+the point of indecision. chloe is becoming donna's child. i pledged to prevent 
+this. i have not given up yet.
 
-I'm already seeing what Emily dreaded: Chloe says proud statements are "bragging". I say pride is generally healthy 
-and positive. Donna's theology says women and girls should refrain from standing out, being exceptional, and feeling 
-proud. Donna's psychology also says this. Chloe regularly calls me out for "bragging" now, and I consistently and 
-vocally reject these new lessons she has learned. But she will need more than occasional reinforcement to escape this 
-trap of sexist psychological harm!
+I'm already seeing what Emily dreaded: Chloe says proud statements are 
+"bragging". I say pride is generally healthy and positive. Donna's theology 
+says women and girls should refrain from standing out, being exceptional, and 
+feeling proud. Donna's psychology also says this. Chloe regularly calls me out 
+for "bragging" now, and I consistently and vocally reject these new lessons she 
+has learned. But she will need more than occasional reinforcement to escape 
+this trap of sexist psychological harm!
 
-I haven't been sure if you still read these. I thought I'd point out this particular paragraph:
+I haven't been sure if you still read these. I thought I'd point out this 
+particular paragraph:
 
-At one point, Chloe asked Mr. Dempsey if she could have a room with a slanted wall that she could paint on, if she 
-were to one day live with him. Mr. Dempsey explained to Chloe that �things were not yet figured out� but that he 
-already had a house in Seattle. Chloe asked Mr. Dempsey if she could live there with him. Mr. Dempsey responded by 
-telling Chloe �That�s not figured out yet, but hopefully you will be able to see the house someday�. Chloe continued 
-to ask Mr. Dempsey about living arrangements and each time Mr. Dempsey explained to Chloe that �things were not 
-figured out yet�. Chloe asked Mr. Dempsey if she would still be able to see her grandma if the courts allowed her to 
-live with him. Mr. Dempsey repeated himself, and explained that he had promised her mother that her grandmother would 
-always be in her life. Chloe then told Mr. Dempsey that �Grandma said that if she gets me, you can still see me two 
-days a month. That�s better than no days right?� Mr. Dempsey continued to redirect Chloe, explaining to her that 
-things were not figured out yet, but that she did not need to worry about it.
+At one point, Chloe asked Mr. Dempsey if she could have a room with a slanted 
+wall that she could paint on, if she were to one day live with him. Mr. Dempsey 
+explained to Chloe that �things were not yet figured out� but that he already 
+had a house in Seattle. Chloe asked Mr. Dempsey if she could live there with 
+him. Mr. Dempsey responded by telling Chloe �That�s not figured out yet, but 
+hopefully you will be able to see the house someday�. Chloe continued to ask 
+Mr. Dempsey about living arrangements and each time Mr. Dempsey explained to 
+Chloe that �things were not figured out yet�. Chloe asked Mr. Dempsey if she 
+would still be able to see her grandma if the courts allowed her to live with 
+him. Mr. Dempsey repeated himself, and explained that he had promised her 
+mother that her grandmother would always be in her life. Chloe then told Mr. 
+Dempsey that �Grandma said that if she gets me, you can still see me two days a 
+month. That�s better than no days right?� Mr. Dempsey continued to redirect 
+Chloe, explaining to her that things were not figured out yet, but that she did 
+not need to worry about it.
 
 I am inclined to tell Chloe that I can ask you to call her, if she has specific concerns.
 
 Obviously I am inclined to ask the court to order Donna to stop talking speculatively. Donna hasn't chosen to learn a 
 thing about Chloe's emotional needs in this experience.
 
-The observer said "they returned to the living [sic] to play pretend." I wish the observer detailed the pretend, 
-because it was remarkable. Chloe knows Darin lied and started the war between our families. She knows she was treated 
-as a pawn, rather than the king. While she once spoke definitively, she's more powerless now, willing to settle for 
-bleak offers from Grandma that should not be heard. I knew many years ago that Donna uses children to carry out 
-family objectives. As resilient as Chloe is, she cannot indefinitely resist the unreality that Donna prefers and 
-advocates. It's like a fog pervades the kids of Donna Mairs. Emily saw through it, transcended a childhood of severe 
+The observer said "they returned to the living [sic] to play pretend." I wish 
+the observer detailed the pretend, because it was remarkable. Chloe knows Darin 
+lied and started the war between our families. She knows she was treated as a 
+pawn, rather than the king. While she once spoke definitively, she's more 
+powerless now, willing to settle for bleak offers from Grandma that should not 
+be heard. I knew many years ago that Donna uses children to carry out family 
+objectives. As resilient as Chloe is, she cannot indefinitely resist the 
+unreality that Donna prefers and advocates. It's like a fog pervades the kids 
+of Donna Mairs. Emily saw through it, transcended a childhood of severe 
 anxiety, and joined the Marines at age 17 to "escape".
 
-I have other things to say, unwilling to stay silent, but I am waiting on many things, most importantly my new 
-attorney, who is very busy on other cases. Quite a few of your requests will be in my motion, if that's how it works. 
-Please expect news before month's end.Donna's values are reflected in her 3 daughters, who have struggled to stand out in the "real world". They have real 
-talents, but can't outrun the deviousness of Donna's psychology. Yes, I believe that.
+I have other things to say, unwilling to stay silent, but I am waiting on many 
+things, most importantly my new attorney, who is very busy on other cases. 
+Quite a few of your requests will be in my motion, if that's how it works. 
+Please expect news before month's end.Donna's values are reflected in her 3 
+daughters, who have struggled to stand out in the "real world". They have real 
+talents, but can't outrun the deviousness of Donna's psychology. Yes, I believe 
+that.
 
 I've appended my response to Question xx:
 Chloe makes elaborate make-believe scenarios that are usually obvious mappings of her experience onto a make-believe 
@@ -1005,263 +912,303 @@ not mix due to
 a lie told by the king orca a long time ago. She played the role of a mermaid, going between the parties to resolve 
 things.
 
-Prior to this role-play, she explained Donna's "offer:" That I could be allowed to visit twice per month.
-She asked me if she would be able to visit Donna if she lived with me. I said of course, and explained it was a 
-promise I made to Emily.
+Prior to this role-play, she explained Donna's "offer:" That I could be allowed 
+to visit twice per month. She asked me if she would be able to visit Donna if 
+she lived with me. I said of course, and explained it was a promise I made to 
+Emily.
 
-This relieved her. However, I said, "It's not in Donna's hands. It's not in my hands. It's not even in your hands. So 
-we don't have to worry about it."
+This relieved her. However, I said, "It's not in Donna's hands. It's not in my 
+hands. It's not even in your hands. So we don't have to worry about it."
 
-Obviously she does worry, wishing for a resolution, acutely inferring the nature of the conflict. *I do not embellish 
-any of these explanations. She does! I do not.*
+Obviously she does worry, wishing for a resolution, acutely inferring the 
+nature of the conflict. *I do not embellish any of these explanations. She 
+does! I do not.*
 
-You must evaluate the value of my relationship with her. And maybe since these things are clearly on her mind, and she
-'s clearly trying to negotiate
+You must evaluate the value of my relationship with her. And maybe since these 
+things are clearly on her mind, and she 's clearly trying to negotiate
 
-the gap between Donna and me, maybe you, as her representative in this process, which solely exists to help her... 
-maybe you should contact Chloe and discuss these matters,
+the gap between Donna and me, maybe you, as her representative in this process, 
+which solely exists to help her... maybe you should contact Chloe and discuss 
+these matters,
 
 as a person who does have a great deal of authority in your hands regarding her future.
 
-She has insisted at various times to talk with you. I'm not sure why the observers omit these requests she makes.
-I have told her she has a right to speak to her attorney. Specifically that conversation went like this:
-Supervisor said I could only pass mail to my attorney.
-Chloe said, "You have an attorney?"
-I said, "Yes. Her name is Alece."
-She said, "I want to talk to your attorney."
-I said, "Well, you have an attorney, too. Her name is Tracy."
-She said, "I have an attorney? I want to talk to my attorney RIGHT NOW."
-I said, "And it's your right to."
+She has insisted at various times to talk with you. I'm not sure why the 
+observers omit these requests she makes. I have told her she has a right to 
+speak to her attorney. Specifically that conversation went like this: 
+Supervisor said I could only pass mail to my attorney. Chloe said, "You have an 
+attorney?" I said, "Yes. Her name is Alece." She said, "I want to talk to your 
+attorney." I said, "Well, you have an attorney, too. Her name is Tracy." She 
+said, "I have an attorney? I want to talk to my attorney RIGHT NOW." I said, 
+"And it's your right to."
 
-You did meet with her following that conversation. Now that it's clear we will go on for months in court, Chloe 
-deserves an information source that
-is solely committed to her well-being, including her emotional and psychological well-being during and surrounding 
-matters before the court.
+You did meet with her following that conversation. Now that it's clear we will 
+go on for months in court, Chloe deserves an information source that is solely 
+committed to her well-being, including her emotional and psychological 
+well-being during and surrounding matters before the court.
 
-Please consider my view that a uniquely intelligent child needs more than simple reassurance that things will be ok 
-for her.
+Please consider my view that a uniquely intelligent child needs more than 
+simple reassurance that things will be ok for her.
 
-I am pleased to specify her as a witness in her court cause.
-But prior to the trial, she deserves assurance and even specific information to the level that Donna and I both 
-receive from our able counsel.
+I am pleased to specify her as a witness in her court cause. But prior to the 
+trial, she deserves assurance and even specific information to the level that 
+Donna and I both receive from our able counsel.
 
-I have a long list of statements Donna has made and continues to make that mislead Chloe about her future.
-Due to her age, 7, and despite a sound mind, she is unable to discern propaganda from reality in these interactions.
-Donna Mairs has told Chloe that the portion of Emily's brain that made her want to attend church was removed in an 
-operation.
+Donna 
+Mairs has told Chloe that the portion of Emily's brain that made her want to 
+attend church was removed in an operation.
 
-She has told Chloe that Chloe would reside with uncle and aunt upon Donna and Richard's passing.
-Ms. Mairs has implied that my family includes bad actors, from whom Chloe must be protected.
-Donna told Chloe that a future under Donna's authority includes little of me.
-Obviously Donna lacks all authority to make these kinds of statements, but continues doing so.
+She has told Chloe that Chloe would reside with uncle and aunt upon Donna and 
+Richard's passing. Ms. Mairs has implied that my family includes bad actors, 
+from whom Chloe must be protected. Donna told Chloe that a future under Donna's 
+authority includes little of me. Obviously Donna lacks all authority to make 
+these kinds of statements, but continues doing so.
 
-So I'm asking you to confer with your client with some additional regularity on matters currently facing the court 
-regarding her future.
+So I'm asking you to confer with your client with some additional regularity on 
+matters currently facing the court regarding her future.
 
-I don't know if my case is complex, having no experience in these matters, but I'm told it's a very complex case that 
-will take many more months than usual to resolve.
+I don't know if my case is complex, having no experience in these matters, but 
+I'm told it's a very complex case that will take many more months than usual to 
+resolve.
 
-In that period, please routinely inform Ms. Murphy of developments that impact her, or for which her views may be 
-critical to your decision-making,
+In that period, please routinely inform Ms. Murphy of developments that impact 
+her, or for which her views may be critical to your decision-making,
 
-and please represent both her needs and her wishes above all other considerations and parties. 
+and please represent both her needs and her wishes above all other 
+considerations and parties.
 
 === QUESTIONS FOR TRACY
 
-I tried to persuade Emily to change Chloe's guardianship to Darin, rather 
-than Donna. I was naive about how messed up Darin is. Emily said, "I have to go with my gut. Donna is better than 
-Darin. If you don't like it, come change it. Come to Tacoma and be the guardian." She persuaded me by choosing Donna, 
-because I knew Donna would lock Chloe up. And I'm right: Donna fears not just me, but my uncle, a retired educator, and 
-my father, a retired teacher and police officer.
-Donna is afraid of the world, black men, Seattle, R movies. I was absolutely right. Donna promised Emily that I would stay in Chloe's life, but then Donna called 
-me a "child" and this made Emily very angry. I think she concluded that she doesn't trust Donna much. If not fake, they 
-are incredibly dishonest, a sort of maliciously fake.
+I tried to persuade Emily to change Chloe's guardianship to Darin, rather than 
+Donna. I was naive about how messed up Darin is. Emily said, "I have to go with 
+my gut. Donna is better than Darin. If you don't like it, come change it. Come 
+to Tacoma and be the guardian." She persuaded me by choosing Donna, because I 
+knew Donna would lock Chloe up. And I'm right: Donna fears not just me, but my 
+uncle, a retired educator, and my father, a retired teacher and police officer. 
+Donna is afraid of the world, black men, Seattle, R movies. I was absolutely 
+right. Donna promised Emily that I would stay in Chloe's life, but then Donna 
+called me a "child" and this made Emily very angry. I think she concluded that 
+she doesn't trust Donna much. If not fake, they are incredibly dishonest, a 
+sort of maliciously fake.
 
-Would you like to contact my family, the people who 
-spent the most time with Emily, Chloe, and me? Most in my family have advanced degrees, most in education, some 
-specializing in at-risk children. My mother taught children Chloe's age for 30 years. She has spent more time with us 
-than anyone else. My family has strong opinions what it's like to watch me be subjected to now 5 investigations, and 
-yet never to be contacted--not one time--to be asked about Chloe's relationship with me. We are heartened to know we will have a trial where we will be 
-heard. I'm not sure there's much use offering you court orders to unlock text messages, if you've never even called my 
-mom.
+Would you like to contact my family, the people who spent the most time with 
+Emily, Chloe, and me? Most in my family have advanced degrees, most in 
+education, some specializing in at-risk children. My mother taught children 
+Chloe's age for 30 years. She has spent more time with us than anyone else. My 
+family has strong opinions what it's like to watch me be subjected to now 5 
+investigations, and yet never to be contacted--not one time--to be asked about 
+Chloe's relationship with me. We are heartened to know we will have a trial 
+where we will be heard. I'm not sure there's much use offering you court orders 
+to unlock text messages, if you've never even called my mom.
 
-When I go to putt putt golf, and nobody's around, it's gettin wild time. But certainly that's not my only way of being. 
-That's the enthusiasm she and I have felt for 5 years together, when we first get together, it's hyper.
-It's simply what you saw when you saw us get together. Play the golf! Crash the car! It's a FUN PLEX.
-I can't really decide if your prose about my enthusiasm is criticism or not.
-I just wish you'd see us go bowling, cuz that gets really wild... we cheer regardless of shot. We roll around on the 
-floor with silly enthusiasm. It's one of the things we do. Just one.
+When I go to putt putt golf, and nobody's around, it's gettin wild time. But 
+certainly that's not my only way of being. That's the enthusiasm she and I have 
+felt for 5 years together, when we first get together, it's hyper. It's simply 
+what you saw when you saw us get together. Play the golf! Crash the car! It's a 
+FUN PLEX. I can't really decide if your prose about my enthusiasm is criticism 
+or not. I just wish you'd see us go bowling, cuz that gets really wild... we 
+cheer regardless of shot. We roll around on the floor with silly enthusiasm. 
+It's one of the things we do. Just one.
 
-And you need to see me, and all of that, for the wholesome love it always has been, for me, Emily, and Chloe together.
+And you need to see me, and all of that, for the wholesome love it always has 
+been, for me, Emily, and Chloe together.
 
-I made a party happen in a little scooter box. I got them to the park for outdoor movies, with an inflatable mattress 
-on the bus. I made memories for them. I am still, and for life, obligated to Emily to do so for Chloe. And I'm a loving 
-person with a healthy sexuality. This will be clearer soon. And when it is, I ask you to remember: I'm great in Chloe's 
-life, and Emily worked very hard to keep me there. Since we've met, my step-father has died. Each time he spoke, he 
-said, "I'm praying for you and Chloe." Please consider the finality of that relationship. And consider the rest, as 
-they too fade from Chloe's mind. 
+I made a party happen in a little scooter box. I got them to the park for 
+outdoor movies, with an inflatable mattress on the bus. I made memories for 
+them. I am still, and for life, obligated to Emily to do so for Chloe. And I'm 
+a loving person with a healthy sexuality. This will be clearer soon. And when 
+it is, I ask you to remember: I'm great in Chloe's life, and Emily worked very 
+hard to keep me there. Since we've met, my step-father has died. Each time he 
+spoke, he said, "I'm praying for you and Chloe." Please consider the finality 
+of that relationship. And consider the rest, as they too fade from Chloe's 
+mind.
 
-This is the first stretch of her birthday, Thanksgiving, Christmas, and New Year's she 
-will be away from both me and my family since she was 2. But I will remain her sole memory of them, until you release 
-me from state's custody, expensive and humiliating, ultimately demeaning because such clear evidence of my love for 
-her, and soon of my overall sexual health. my committment to my duty stands for itself, the more time passes. 
-That's what I think any honest guardian for Chloe would see in striking relief. This is clearly someone who has given a 
-lot of his life to her already. He seems committed to staying that course. Maybe we should give the guy a hug, or a 
-medal, rather than all this shit. He is facing down some messed up people on behalf of two angels. Maybe that guy's 
-fucking great for humanity and country and Chloe Murphy, who says as much about him.
+This is the first stretch of her birthday, Thanksgiving, Christmas, and New 
+Year's she will be away from both me and my family since she was 2. But I will 
+remain her sole memory of them, until you release me from state's custody, 
+expensive and humiliating, ultimately demeaning because such clear evidence of 
+my love for her, and soon of my overall sexual health. my committment to my 
+duty stands for itself, the more time passes. That's what I think any honest 
+guardian for Chloe would see in striking relief. This is clearly someone who 
+has given a lot of his life to her already. He seems committed to staying that 
+course. Maybe we should give the guy a hug, or a medal, rather than all this 
+shit. He is facing down some messed up people on behalf of two angels. Maybe 
+that guy's fucking great for humanity and country and Chloe Murphy, who says as 
+much about him.
 
-you propose to torture me, make me watch from afar, as the exact catastrophe i fought to prevent comes to pass. i 
-will make sure you know how chloe turns out, confidence crushed from her, just like her aunties. i will live with it 
+you propose to torture me, make me watch from afar, as the exact catastrophe i 
+fought to prevent comes to pass. i will make sure you know how chloe turns out, 
+confidence crushed from her, just like her aunties. i will live with it 
 forever. i want you to do so, too.
 
 I got her to highly valued therapy. Exceptional therapy. She should resume there.  I should be trusted to resume there. 
 
-I want to tell you that I see Chloe very actively trying to negotiate the conflict. I am refusing to do this with her, 
-but she seems very eager to resolve matters. She gave a remarkable, vivid metaphorical explanation of things she sees 
-them: 
+I want to tell you that I see Chloe very actively trying to negotiate the 
+conflict. I am refusing to do this with her, but she seems very eager to 
+resolve matters. She gave a remarkable, vivid metaphorical explanation of 
+things she sees them:
 
-See Chloe position herself as peace-maker, confounded by the conflict, but trapped in it. She is not powerless in this 
-plight. She is assertive, outgoing, committed, and astute. But anyone representing her needs to actively involve her in 
-timely information, not just act on her behalf. I never provide information. Donna provides way too much. But Chloe has 
-accurately inferred there are two options possible, and her life in either--why is she trying to rationalize taking an 
-extremely weak hand? Donna has squished *her* down to bleak prospects. I want to respond to her, but first I ask you to 
-approve this sort of statement: Don't settle for less than we have now. Settle for much more." Why is she feeling 
-compelled to negotiate with Donna? Internalize Donna's fears about the big, bad world. I won't settle for that. But 
-she's 7 and I'm 45. I have more practice battling evil, bleak offers. I will make it hard to hold on to such extreme positions.
+See Chloe position herself as peace-maker, confounded by the conflict, but 
+trapped in it. She is not powerless in this plight. She is assertive, outgoing, 
+committed, and astute. But anyone representing her needs to actively involve 
+her in timely information, not just act on her behalf. I never provide 
+information. Donna provides way too much. But Chloe has accurately inferred 
+there are two options possible, and her life in either--why is she trying to 
+rationalize taking an extremely weak hand? Donna has squished *her* down to 
+bleak prospects. I want to respond to her, but first I ask you to approve this 
+sort of statement: Don't settle for less than we have now. Settle for much 
+more." Why is she feeling compelled to negotiate with Donna? Internalize 
+Donna's fears about the big, bad world. I won't settle for that. But she's 7 
+and I'm 45. I have more practice battling evil, bleak offers. I will make it 
+hard to hold on to such extreme positions.
 
-I do not know what the issues are around this behavior. I know she is trying rather desperately to return to a normal 
-set of relationships beyond this conflict. She also assumes duties considering Donna's offers, relaying them, and 
-trying to negotiate with me. I reject this behavior, and strongly believe it's harmful. It clearly shows Chloe wants to 
-resolve the ongoing conflict and secure the fruits of peaceful family life. She just seems to consistently define me in 
-that family. As did her mom, as do I. So Donna's low-ball offers need to stop reaching Chloe's ears, please. I don't 
-know the psychological implications but this conflict simply has Chloe as its victim, now ferrying offers and attempts 
-at reconciliation. It's hard to explain to her that Donna doesn't cooperate. It's hard to explain to her the full scope 
-of Donna's subversion of free life. Her mother's, now hers. The full scope of that lie will become apparent. It is 
-already apparent to Chloe what the Orca King did. He told a lie!
+I do not know what the issues are around this behavior. I know she is trying 
+rather desperately to return to a normal set of relationships beyond this 
+conflict. She also assumes duties considering Donna's offers, relaying them, 
+and trying to negotiate with me. I reject this behavior, and strongly believe 
+it's harmful. It clearly shows Chloe wants to resolve the ongoing conflict and 
+secure the fruits of peaceful family life. She just seems to consistently 
+define me in that family. As did her mom, as do I. So Donna's low-ball offers 
+need to stop reaching Chloe's ears, please. I don't know the psychological 
+implications but this conflict simply has Chloe as its victim, now ferrying 
+offers and attempts at reconciliation. It's hard to explain to her that Donna 
+doesn't cooperate. It's hard to explain to her the full scope of Donna's 
+subversion of free life. Her mother's, now hers. The full scope of that lie 
+will become apparent. It is already apparent to Chloe what the Orca King did. 
+He told a lie!
 
-In a world of the jungle, where no court can help, I would shake Chloe a bit and ask her, "You'd really settle for two nights a 
-month?" Of course not. Nor would I. But I am much more cautious with my words than Donna Mairs. Should her campaign to 
-persuade Chloe to choke me out of daily or weekly life be accepted and ignored? Why is Chloe being asked to rate 
-proposed settlements? Why doesn't Donna propose them to me, and leave the child out of that kind of discussion? I would 
-appreciate that level of respect, as it's disrespectful to ask Chloe about any of that. Of course I know psychological 
-abuse is all about persuasion. You persuade her real good as usual.
+In a world of the jungle, where no court can help, I would shake Chloe a bit 
+and ask her, "You'd really settle for two nights a month?" Of course not. Nor 
+would I. But I am much more cautious with my words than Donna Mairs. Should her 
+campaign to persuade Chloe to choke me out of daily or weekly life be accepted 
+and ignored? Why is Chloe being asked to rate proposed settlements? Why doesn't 
+Donna propose them to me, and leave the child out of that kind of discussion? I 
+would appreciate that level of respect, as it's disrespectful to ask Chloe 
+about any of that. Of course I know psychological abuse is all about 
+persuasion. You persuade her real good as usual.
 
-	That's why we ask for everything. The kitchen sink.
+Most recently, January 11th she described a sea of two species, the orca whales 
+and the dolphins. She said they did not mix due to a lie told by the king orca 
+a long time ago. She played the role of a mermaid, going between the parties to 
+resolve things.
 
-I've appended my response to Question xx:
-Chloe makes elaborate make-believe scenarios that are usually obvious mappings of her experience onto a make-believe 
-land.
+Prior to this role-play, she explained Donna's "offer:" That I could be allowed 
+to visit twice per month. She asked me if she would be able to visit Donna if 
+she lived with me. I said of course, and explained it was a promise I made to 
+Emily.
 
-Most recently, January 11th she described a sea of two species, the orca whales and the dolphins. She said they did 
-not mix due to a lie told by the king orca a long time ago. She played the role of a mermaid, going between the parties to resolve 
-things.
+This relieved her. However, I said, "It's not in Donna's hands. It's not in my 
+hands. It's not even in your hands. So we don't have to worry about it."
 
-Prior to this role-play, she explained Donna's "offer:" That I could be allowed to visit twice per month.
-She asked me if she would be able to visit Donna if she lived with me. I said of course, and explained it was a 
-promise I made to Emily.
+Obviously she does worry, wishing for a resolution, acutely inferring the 
+nature of the conflict. *I do not embellish any of these explanations. She 
+does! I do not.*
 
-This relieved her. However, I said, "It's not in Donna's hands. It's not in my hands. It's not even in your hands. So 
-we don't have to worry about it."
-
-Obviously she does worry, wishing for a resolution, acutely inferring the nature of the conflict. *I do not embellish 
-any of these explanations. She does! I do not.*
-
-You must evaluate the value of my relationship with her. And maybe since these things are clearly on her mind, and she
-'s clearly trying to negotiate
-
-the gap between Donna and me, maybe you, as her representative in this process, which solely exists to help her... 
-maybe you should contact Chloe and discuss these matters,
+You must evaluate the value of my relationship with her. And maybe since these 
+things are clearly on her mind, and she 's clearly trying to negotiate the gap 
+between Donna and me, maybe you, as her representative in this process, which 
+solely exists to help her... maybe you should contact Chloe and discuss these 
+matters,
 
 as a person who does have a great deal of authority in your hands regarding her future.
 
-She has insisted at various times to talk with you. I'm not sure why the observers omit these requests she makes.
-I have told her she has a right to speak to her attorney. Specifically that conversation went like this:
-Supervisor said I could only pass mail to my attorney.
-Chloe said, "You have an attorney?"
-I said, "Yes. Her name is Alece."
-She said, "I want to talk to your attorney."
-I said, "Well, you have an attorney, too. Her name is Tracy."
-She said, "I have an attorney? I want to talk to my attorney RIGHT NOW."
-I said, "And it's your right to."
+She has insisted at various times to talk with you. I'm not sure why the 
+observers omit these requests she makes. I have told her she has a right to 
+speak to her attorney. Specifically that conversation went like this: 
+Supervisor said I could only pass mail to my attorney. Chloe said, "You have an 
+attorney?" I said, "Yes. Her name is Alece." She said, "I want to talk to your 
+attorney." I said, "Well, you have an attorney, too. Her name is Tracy." She 
+said, "I have an attorney? I want to talk to my attorney RIGHT NOW." I said, 
+"And it's your right to."
 
-You did meet with her following that conversation. Now that it's clear we will go on for months in court, Chloe 
-deserves an information source that
-is solely committed to her well-being, including her emotional and psychological well-being during and surrounding 
-matters before the court.
+You did meet with her following that conversation. Now that it's clear we will 
+go on for months in court, Chloe deserves an information source that is solely 
+committed to her well-being, including her emotional and psychological 
+well-being during and surrounding matters before the court.
 
-Please consider my view that a uniquely intelligent child needs more than simple reassurance that things will be ok 
-for her.
+Please consider my view that a uniquely intelligent child needs more than 
+simple reassurance that things will be ok for her.
 
-I am pleased to specify her as a witness in her court cause.
-But prior to the trial, she deserves assurance and even specific information to the level that Donna and I both 
-receive from our able counsel.
+I am pleased to specify her as a witness in her court cause. But prior to the 
+trial, she deserves assurance and even specific information to the level that 
+Donna and I both receive from our able counsel.
 
-I have a long list of statements Donna has made and continues to make that mislead Chloe about her future.
-Due to her age, 7, and despite a sound mind, she is unable to discern propaganda from reality in these interactions.
-Donna Mairs has told Chloe that the portion of Emily's brain that made her want to attend church was removed in an 
-operation.
+I have a long list of statements Donna has made and continues to make that 
+mislead Chloe about her future. Due to her age, 7, and despite a sound mind, 
+she is unable to discern propaganda from reality in these interactions. Donna 
+Mairs has told Chloe that the portion of Emily's brain that made her want to 
+attend church was removed in an operation.
 
-She has told Chloe that Chloe would reside with uncle and aunt upon Donna and Richard's passing.
-Ms. Mairs has implied that my family includes bad actors, from whom Chloe must be protected.
-Donna told Chloe that a future under Donna's authority includes little of me.
-Obviously Donna lacks all authority to make these kinds of statements, but continues doing so.
+She has told Chloe that Chloe would reside with uncle and aunt upon Donna and 
+Richard's passing. Ms. Mairs has implied that my family includes bad actors, 
+from whom Chloe must be protected. Donna told Chloe that a future under Donna's 
+authority includes little of me. Obviously Donna lacks all authority to make 
+these kinds of statements, but continues doing so.
 
-So I'm asking you to confer with your client with some additional regularity on matters currently facing the court 
-regarding her future.
+So I'm asking you to confer with your client with some additional regularity on 
+matters currently facing the court regarding her future.
 
-I don't know if my case is complex, having no experience in these matters, but I'm told it's a very complex case that 
-will take many more months than usual to resolve.
+I don't know if my case is complex, having no experience in these matters, but 
+I'm told it's a very complex case that will take many more months than usual to 
+resolve.
 
-In that period, please routinely inform Ms. Murphy of developments that impact her, or for which her views may be 
-critical to your decision-making,
+In that period, please routinely inform Ms. Murphy of developments that impact 
+her, or for which her views may be critical to your decision-making,
 
 and please represent both her needs and her wishes above all other considerations and parties. === TO TRACY BEFORE PSYCHO-SEX EXAM COMPLETED
 
-I believe Donna and Darin both say what they think "will work" at the moment. I suspect this will cause a lot of 
-strange statements when they are faced with the long and complicated story, and explaining their roles in it. Whereas 
-my story is absolutely consistent. Their depositions will be crazy, especially Darin's, because lying persuasively is 
-all he knows. I look forward to it. My family is offended. You haven't helped because you haven't asked anyone what 
-they know. Everything I've explained they would explain. That's how the truth works. But try that with Emily's family 
-and the witnesses against me. Bettina... I have text messages of her saying I'm doing a great job as a parent. And now 
-she's a witness against me? It will be a funny trial.
+I believe Donna and Darin both say what they think "will work" at the moment. I 
+suspect this will cause a lot of strange statements when they are faced with 
+the long and complicated story, and explaining their roles in it. Whereas my 
+story is absolutely consistent. Their depositions will be crazy, especially 
+Darin's, because lying persuasively is all he knows. I look forward to it. My 
+family is offended. You haven't helped because you haven't asked anyone what 
+they know. Everything I've explained they would explain. That's how the truth 
+works. But try that with Emily's family and the witnesses against me. 
+Bettina... I have text messages of her saying I'm doing a great job as a 
+parent. And now she's a witness against me? It will be a funny trial.
 
 Allison said in a text message on my phone that the household was "no guidance just shove..."
 
 Meanwhile I've never hurt Chloe. Doesn't that strike you as unbalanced, that I'm so fascinating and they're so messed up 
 that WHAT YA GONNA DO ya throw your hands up and say, "Sorry, Emily." And shoo me off?
 
-It might help for me to explain in plain language how to understand the period between December, 2012 and November 
-2013: I was Emily's first pick for Chloe from 2012 and probably before. 
-I thought Donna was a bad choice for Chloe, so I advocated for Darin's home. But Emily thought Darin was a worse choice for 
-Chloe than Donna. We debated for many months. I failed to persuade her. So she said:
-"If you don't like it, change it. Come to Tacoma and be the guardian." So I did. 
+It might help for me to explain in plain language how to understand the period 
+between December, 2012 and November 2013: I was Emily's first pick for Chloe 
+from 2012 and probably before. I thought Donna was a bad choice for Chloe, so I 
+advocated for Darin's home. But Emily thought Darin was a worse choice for 
+Chloe than Donna. We debated for many months. I failed to persuade her. So she 
+said: "If you don't like it, change it. Come to Tacoma and be the guardian." So 
+I did.
 
-I couldn't live with 
-thinking Donna would be raising Chloe. As for why that is... I think she's a spooky basket case. I certainly think I 
-would give Chloe a much better life, because I am healthier in most every way. Rather than unhealthy or threatening or 
-harmful, I believe I'm healthy and nurturing.
+I couldn't live with thinking Donna would be raising Chloe. As for why that 
+is... I think she's a spooky basket case. I certainly think I would give Chloe 
+a much better life, because I am healthier in most every way. Rather than 
+unhealthy or threatening or harmful, I believe I'm healthy and nurturing.
 
-That's been a part deliberately confused in this case: Emily saw and understood all of this. She loved them and me enormously. She still 
-saw serious, dangerous, and destructive flaws of her birth family, in particular her mother and her father. I am not 
-exaggerating or mis-attributing my own conclusions here. Darin made sadistic, seductive, emotional appeals, badgered, 
-schemed, twisted, purjered. He is exactly what she described: Very screwed up. Emily knew these things about Darin, and explained them to me, not the other way 
-around. But she and I were pretty shocked at how far Darin and Donna went to subvert her wish. By the time it was 
-hitting us, with severe psychological violence against us and Chloe, it was too late to move 
-further away. (We originally planned to move to Seattle, but she just didn't think it was realistic.)
+That's been a part deliberately confused in this case: Emily saw and understood 
+all of this. She loved them and me enormously. She still saw serious, 
+dangerous, and destructive flaws of her birth family, in particular her mother 
+and her father. I am not exaggerating or mis-attributing my own conclusions 
+here. Darin made sadistic, seductive, emotional appeals, badgered, schemed, 
+twisted, purjered. He is exactly what she described: Very screwed up. Emily 
+knew these things about Darin, and explained them to me, not the other way 
+around. But she and I were pretty shocked at how far Darin and Donna went to 
+subvert her wish. By the time it was hitting us, with severe psychological 
+violence against us and Chloe, it was too late to move further away. (We 
+originally planned to move to Seattle, but she just didn't think it was 
+realistic.)
 
-I came to Tacoma to raise Chloe at Emily's request. Emily had very sound judgement. Absolutely I'm 
-not perfect! But I am a uniquely trustworthy, generous, wise man. And Emily had serious reasons for her decision, which 
-I know the court will conclude at trial. The court will conclude Emily chose me of her free will, using 
-very sound rationale and very acute awareness, not just of me, but of her parents. And Darin proved to be exactly what 
-she described: Very screwed up. 
+I came to Tacoma to raise Chloe at Emily's request. Emily had very sound 
+judgement. Absolutely I'm not perfect! But I am a uniquely trustworthy, 
+generous, wise man. And Emily had serious reasons for her decision, which I 
+know the court will conclude at trial. The court will conclude Emily chose me 
+of her free will, using very sound rationale and very acute awareness, not just 
+of me, but of her parents. And Darin proved to be exactly what she described: 
+Very screwed up.
 
-You both can conclude that Emily was just wrong. That's a question you should ask and answer.
-
-=== GREAT TIDBITS FOR TRACY
-
-==== To Tracy
-
-Inventory and Accounting be provided
+You both can conclude that Emily was just wrong. That's a question you should 
+ask and answer.
 
 Additional Sources
 In 2014, planning between Emily and me became verbal. In November, 2013, I 
@@ -1272,203 +1219,197 @@ provide an accurate account, including accurate dates and incident details, I
 could improve accuracy and add details by comprehensively analyzing these 
 sources:
 
-"	Photographs, including date stamps
-"	Emails (for Emily and me)
-"	Logged chats
-"	Voicemails on Google Voice
-"	ZipCar use logs
-"	Orca card use logs (for Emily and me)
-"	Skype logs (if available)
-"	Telephone logs (available by court order)
-"	Text message content logs (available by court order)
-"	Financial transaction records (for Emily and me)
-" rcr logs visits! all chloe visits? 
-"	5 calls to 911
-
 Go to 201 South Jackson for Emily's orca card info.
 try emily's notebook computer on the orca web site. could reveal!
 
-scour:
-skype chat logs on the laptop
-twitter
-livejournal
-facebook
-g+
-my other android phone
-dad's records
-my other shitty phone
-gmail chats
-pics.livejournal
+I remembered this detail about Andrea: Emily told me all of Andrea's children 
+have serious emotional problems, not just Darin. She said one child is a drug 
+addict.
 
-review all voicemails for travel plans.
+Now see Darin's perspective: He thinks I'm vulnerable. He thinks, ah, with the 
+right persuasion, I can be smeared. I'm wierd. I lay down and take hot baths. I 
+sing and act goofy. i'm a joke. Or worse!
 
-=== WAYS TO INVESTIGATE EMILY
-
-I remembered this detail about Andrea: Emily told me all of Andrea's children have serious emotional problems, not just Darin. 
-She said one child is a drug addict.
-
-Now see Darin's perspective: He thinks I'm vulnerable. He thinks, ah, with the right persuasion, I can be smeared. I'm wierd. I lay down and take hot baths. I sing and act goofy. i'm a joke. Or worse!
-
-And I didn't kiss his ass regarding Emily's choices. Emily controlled them. That drives him mad.
-So he has this case, built over many weeks and months, where he created a lot of noise.
+And I didn't kiss his ass regarding Emily's choices. Emily controlled them. 
+That drives him mad. So he has this case, built over many weeks and months, 
+where he created a lot of noise.
 
 I will also make noise.
 
 Of course I invite Katy to RCR to meet me. Of course. Openly.
 
-House by Seattle Prep
-A much different life 
+lj: Show Chloe her past there.  In words.  There's an easy angle.
+	PErhaps just export it to some HTML self-contained publication. Or just 
+copy and paste into Word.
+		I have a limited ability to dredge through it. Emotionally. And 
+why? Because it may persuade and win cases. It deserves to be rolled into one 
+publication. What might I do? I'll decide then.
 
-lj: Show Chloe her past there.  In words.  There's an easy angle. 
-	PErhaps just export it to some HTML self-contained publication. Or just copy and paste into Word.
-		I have a limited ability to dredge through it. Emotionally. And why?
-Because it may persuade and win cases. It deserves to be rolled into one publication. What might I do? I'll decide then.
+A publishing access model that uses Facebook to give aCcess if us just opt in 
+via Facebook. And a whole story with secret and Public and group view limits. 
+And inline images critical.
 
-A publishing access model that uses Facebook to give aCcess if us just opt in via Facebook. And a whole story with 
-secret and Public and group view limits. And inline images critical.
+Why did you omit the letter from Patricia Dempsey to Joni Irvin? I've attached 
+the similar declaration here. The letters in favor represent people of advanced 
+training in child education who have known me at least twenty five years. The 
+letters opposing me are people who have spent less than an hour speaking with 
+me.
 
-Why did you omit the letter from Patricia Dempsey to Joni Irvin? I've attached the similar declaration here.
-The letters in favor represent people of advanced training in child education who have known me at least twenty five years.
-The letters opposing me are people who have spent less than an hour speaking with me.
+I have quite a few other resources. Some would take a court order, while others 
+would just take leg work. Emails, text messages... all would tell the same 
+story. If you think I've lied about a single word, please allow me to 
+substantiate with a flood of facts.
 
-I have quite a few other resources. Some would take a court 
-order, while others would just take leg work. Emails, text messages... all would tell the same story. If you think I've 
-lied about a single word, please allow me to substantiate with a flood of facts. 
-
-I tried to persuade her to choose Darin. I failed. Then I accepted that I must act or see her lost to Donna.  Donna 
-told Emily I would stay in Chloe's life but I think that was a lie. Donna called me a child and Emily began doubting 
+I tried to persuade her to choose Darin. I failed. Then I accepted that I must 
+act or see her lost to Donna.  Donna told Emily I would stay in Chloe's life 
+but I think that was a lie. Donna called me a child and Emily began doubting 
 donnas promise. That statement made Emily very angry.
 
-if you think my apartment here with my half-brother is small, you would be shocked to learn how small my apartment on 
-capitol hill was. but emily and chloe and i had a lot of good, healthy times there. quite a bit of the world lives in 
-small places. we like it. we enjoy each other's company. 
+emily and i disagreed for many months before november, 2014. she said donna was 
+better than darin. i said darin was better than donna. eventually she went with 
+her gut, and totally rejected darin. that forced me to take action, or see 
+chloe raised by donna.
 
-emily and i disagreed for many months before november, 2014. she said donna was better than darin. i said darin was 
-better than donna. eventually she went with her gut, and totally rejected darin. that forced me to take action, or see 
-chloe raised by donna. 
+during this process donna also showed herself to be untrustworthy. she had 
+assured emily that i would remain in chloe's life. later she called me "a 
+child". this made emily very angry.
 
-during this process donna also showed herself to be untrustworthy. she had assured emily that i would remain in chloe's 
-life. later she called me "a child". this made emily very angry.
-
-I could prepare a timeline of key statements that would make sense of it. Both Darin and Donna showed their word to 
-be untrustworthy very early on. Emily noted this very acutely. There are many people who spoke with her about it. I 
+I could prepare a timeline of key statements that would make sense of it. Both 
+Darin and Donna showed their word to be untrustworthy very early on. Emily 
+noted this very acutely. There are many people who spoke with her about it. I 
 could provide a list.
 
-My step-father died suddenly on Thanksgiving morning. He was one of 5 career educators who spent the most time with 
-Emily, Chloe, and me. Try to understand my family's perspective: Yours is the 5th investigation, and they are the 
-people who spent the most time iwth us 3, yet no investigator has ever asked them anything. They also want to know if 
-innuendo is enough to subvert Emily's clear wishes. They all knew Emily and Chloe very well.
+My step-father died suddenly on Thanksgiving morning. He was one of 5 career 
+educators who spent the most time with Emily, Chloe, and me. Try to understand 
+my family's perspective: Yours is the 5th investigation, and they are the 
+people who spent the most time iwth us 3, yet no investigator has ever asked 
+them anything. They also want to know if innuendo is enough to subvert Emily's 
+clear wishes. They all knew Emily and Chloe very well.
 
-Barbara A Helmer-Hartman said June 3 at 1:44pm, prior to ever meeting me:
-"Just let me know when and where and I'll be there if you need any help with Keeping Chloe with your family. 
-We ALL can witness that you would be a wonderful person to raise little Chloe."
-	She is welcome to witness. She is not welcome to lie. But she lied, to APS, CPS, and to the court. Oh, Barbara!
+Barbara A Helmer-Hartman said June 3 at 1:44pm, prior to ever meeting me: "Just 
+let me know when and where and I'll be there if you need any help with Keeping 
+Chloe with your family. We ALL can witness that you would be a wonderful person 
+to raise little Chloe." She is welcome to witness. She is not welcome to lie. 
+But she lied, to APS, CPS, and to the court. Oh, Barbara!
 
-She tells me routinely that she wants to see my father and my half-sister, Jeanine. 
-What does it mean to represent a seven-year-old? Do you wish to protect her relationships, or rip them out like weeds?
+She tells me routinely that she wants to see my father and my half-sister, 
+Jeanine. What does it mean to represent a seven-year-old? Do you wish to 
+protect her relationships, or rip them out like weeds?
 
-Darin pledged full support for the adoption in November. He aTtended one bridges therapy Where he appeared to support 
-us. Early December he switched. 2nd adoption meeting he claimed the December meeting never occurred. His daughter 
-Melissa was there, as was his 3rd wife.
+Darin pledged full support for the adoption in November. He aTtended one 
+bridges therapy Where he appeared to support us. Early December he switched. 
+2nd adoption meeting he claimed the December meeting never occurred. His 
+daughter Melissa was there, as was his 3rd wife.
 
 If he is sure I'm a molester,  why did he pledge full support in November? 
 	Follow his logic of the 2nd adoption meeting:
 
-There was even an interesting time where I tried to accept Emily's choice of Donna over Darin. I couldn't do it. I had 
-to do something to prevent Chloe from being raised by Donna. Obviously their skillfulness with fear-mongering and 
-hysteria, and probably my laid-back nature didn't help. The city tried to chew me up. If a preponderance of evidence 
-says I'm just too damn different, and Donna's actually Donna Reed, then fuck me with a 2x4. That's the whole dumb case 
-in the whole dumb court. I'll stand for that verdict. Because it will also be made clear that Darin Murphy abused his 
-daughter as she died.
+There was even an interesting time where I tried to accept Emily's choice of 
+Donna over Darin. I couldn't do it. I had to do something to prevent Chloe from 
+being raised by Donna. Obviously their skillfulness with fear-mongering and 
+hysteria, and probably my laid-back nature didn't help. The city tried to chew 
+me up. If a preponderance of evidence says I'm just too damn different, and 
+Donna's actually Donna Reed, then fuck me with a 2x4. That's the whole dumb 
+case in the whole dumb court. I'll stand for that verdict. Because it will also 
+be made clear that Darin Murphy abused his daughter as she died.
 
-I want to clarify I point that might seem confusing at first:
-From April to November, 2013, I tried to persuade Emily to specify Darin and Mariela as Chloe's guardians. I failed to 
-persuade her. She knew her 
-dad had serious emotional problems, and I just didn't see it from a distance. She said she had to go with her gut. She 
-said Donna would do anything for Chloe. And she said, near November 12th, 2013, "If you don't like it, change it. Come to Tacoma, and be the 
-guardian." When I accepted that offer a week later, it was Emily who had persuaded me. I had failed to persuade her. I 
-said I would try ONE TIME and I did try. I failed, and changed to a position of supporting whatever she wants, as long 
-as she wants it, until the day she changes her mind. I hope you consider this position to be the precise formula of 
-unconditional love. I am deeply offended by the various spins used to make it sinister, but I'm used to  feeling deeply 
-offended by this family of jackels.
+I want to clarify I point that might seem confusing at first: From April to 
+November, 2013, I tried to persuade Emily to specify Darin and Mariela as 
+Chloe's guardians. I failed to persuade her. She knew her dad had serious 
+emotional problems, and I just didn't see it from a distance. She said she had 
+to go with her gut. She said Donna would do anything for Chloe. And she said, 
+near November 12th, 2013, "If you don't like it, change it. Come to Tacoma, and 
+be the guardian." When I accepted that offer a week later, it was Emily who had 
+persuaded me. I had failed to persuade her. I said I would try ONE TIME and I 
+did try. I failed, and changed to a position of supporting whatever she wants, 
+as long as she wants it, until the day she changes her mind. I hope you 
+consider this position to be the precise formula of unconditional love. I am 
+deeply offended by the various spins used to make it sinister, but I'm used to 
+feeling deeply offended by this family of jackels.
 
-I also want you to understand how this all looks to my family. My family has been very closely involved over the entire 
-year. I called at least a few of them every day. Yours is the 5th investigation of me. Through the 4 previous 
-investigations, no member of my family has ever been contacted. But the G.A.L. is supposed to be different. You are 
-supposed to get to the bottom of things. For every minute I ever spent with Andrea Mattson, I spent hours with my 
-mother or father, with Emily and Chloe with me. My whole family is educators. I hope you ask yourself if it makes 
-sense I could conceal a harmful relationship in front of them over 5 years, when I couldn't apparently hide my 
-allegedly wreched nature from Andrea for 5 minutes. My step-mother was Washington State's teacher of the year. My 
-mother was Sumner School District's teacher of the year. Paula Brown is an educator, first aid instructor, and 
-Washington State track and field official of the year. My father is a retired police officer and teacher's union 
-president. Not much gets past these sorts of people. Andrea Mattson is a senile woman who abused her children.
+I also want you to understand how this all looks to my family. My family has 
+been very closely involved over the entire year. I called at least a few of 
+them every day. Yours is the 5th investigation of me. Through the 4 previous 
+investigations, no member of my family has ever been contacted. But the G.A.L. 
+is supposed to be different. You are supposed to get to the bottom of things. 
+For every minute I ever spent with Andrea Mattson, I spent hours with my mother 
+or father, with Emily and Chloe with me. My whole family is educators. I hope 
+you ask yourself if it makes sense I could conceal a harmful relationship in 
+front of them over 5 years, when I couldn't apparently hide my allegedly 
+wreched nature from Andrea for 5 minutes. My step-mother was Washington State's 
+teacher of the year. My mother was Sumner School District's teacher of the 
+year. Paula Brown is an educator, first aid instructor, and Washington State 
+track and field official of the year. My father is a retired police officer and 
+teacher's union president. Not much gets past these sorts of people. Andrea 
+Mattson is a senile woman who abused her children.
 
-In her letter, Andrea Mattson asserts that a savage sex assault occurred either December 1st, or January 2nd. In her 
-two calls to CPS, she asserts the assault took place January 1st. Ms. Mattson says she has a detailed scheduling 
-method. Chloe and I arrived in Mexico on Christmas, and left Mexico on January 1st, during a ferocious rainstorm. All three dates are 
-impossible. Is she my accusor?
+In her letter, Andrea Mattson asserts that a savage sex assault occurred either 
+December 1st, or January 2nd. In her two calls to CPS, she asserts the assault 
+took place January 1st. Ms. Mattson says she has a detailed scheduling method. 
+Chloe and I arrived in Mexico on Christmas, and left Mexico on January 1st, 
+during a ferocious rainstorm. All three dates are impossible. Is she my 
+accusor?
 
-There are "early months" to this story which you have not asked about, but perhaps you will. My dialogue with Emily began 
-in her hospital room in March, 2013. Quite a few turning points transpired, including lies that persuaded Emily that 
-Donna was not trustworthy and Darin was scheming. I can recount the specific statements and events that made this clear 
-to Emily. Let me know if you'd like to know exactly what was said to and by me and Emily in our interactions with Donna 
-and Darin during these "early months" prior to November, 2013.
+There are "early months" to this story which you have not asked about, but 
+perhaps you will. My dialogue with Emily began in her hospital room in March, 
+2013. Quite a few turning points transpired, including lies that persuaded 
+Emily that Donna was not trustworthy and Darin was scheming. I can recount the 
+specific statements and events that made this clear to Emily. Let me know if 
+you'd like to know exactly what was said to and by me and Emily in our 
+interactions with Donna and Darin during these "early months" prior to 
+November, 2013.
 
-Chloe launched my change of heart when she asked me to "Write another story called 'Chloe and John : our future togEther'"
+Chloe launched my change of heart when she asked me to "Write another story 
+called 'Chloe and John : our future togEther'"
 
-Chloe has attended Christmas Eve at my sister's home in Olympia since Emily and I met. Chloe has spent the night there 
-every year. My family misses Chloe. Could you allow Chloe to spend a bit of Christmas, Christmas Eve, or some other day 
-with my entire family? I have attached extensive photographic evidence of these relationships.
+Chloe has attended Christmas Eve at my sister's home in Olympia since Emily and 
+I met. Chloe has spent the night there every year. My family misses Chloe. 
+Could you allow Chloe to spend a bit of Christmas, Christmas Eve, or some other 
+day with my entire family? I have attached extensive photographic evidence of 
+these relationships.
 
-Candace Zygar claims Chloe is "nervous, etc" in my care, and that I am "a social reject". Now over 100 pages of visit 
-reports contradict her first claim. On Facebook, where my life updates get 20+ "Likes", Candace has two Facebook 
-friends. One is Darin Murphy. Why isn't Candace owning up to her declaration by appearing as a witness? Is Candace my accusor?
+Candace Zygar claims Chloe is "nervous, etc" in my care, and that I am "a 
+social reject". Now over 100 pages of visit reports contradict her first claim. 
+On Facebook, where my life updates get 20+ "Likes", Candace has two Facebook 
+friends. One is Darin Murphy. Why isn't Candace owning up to her declaration by 
+appearing as a witness? Is Candace my accusor?
 
-Yes, it's complicated. It's an orchestrated smear. That's my conclusion. You will make yours. But I will provide details that I hope help your 
-investigation. Chloe asked me in November, 2013 to write a story called: "John and Chloe's future together." I'm still writing.
-
-And whatever you decide about me, my family wants a trial, to be heard. No investigator has ever contacted any one of 
-them, and yet they've been involved every step of the way. Maybe a trial is the only way they get to be heard. So be it.
+Chloe asked me in November, 2013 to write a story called: "John 
+and Chloe's future together." I'm still writing.
 
 I remember taking Chloe on the carosel in Westlake park.
 
-"Christine, I had a question about the report on11/23 with Charlotte at the home of Howard Dempsey. Charlotte states 
-that Howard went down stairs to watch sports on TV and Chloe followed shortly after. Mr Dempsey finished cooking the 
-rice and we too returned downstairs. Did she leave Chloe alone with Howard downstairs?. I just want to make sure that 
-Chloe is not to be left alone with anyone while at a visit. Let me know."
-	Donna is afraid of everyone. Everyone is dangerous, including my uncle, a respected retired junior high school teacher.
-	I have many other instances of Donna feeling afraid: Of downtown Seattle during a bus transfer, of black young men.
+"Christine, I had a question about the report on11/23 with Charlotte at the 
+home of Howard Dempsey. Charlotte states that Howard went down stairs to watch 
+sports on TV and Chloe followed shortly after. Mr Dempsey finished cooking the 
+rice and we too returned downstairs. Did she leave Chloe alone with Howard 
+downstairs?. I just want to make sure that Chloe is not to be left alone with 
+anyone while at a visit. Let me know." Donna is afraid of everyone. Everyone is 
+dangerous, including my uncle, a respected retired junior high school teacher. 
+I have many other instances of Donna feeling afraid: Of downtown Seattle during 
+a bus transfer, of black young men.
 
-Chloe called me dad consistently from age 3 - 6. Only when placed in Donna's custody did she return to John, which she 
-also used when she was 2.
+Chloe called me dad consistently from age 3 - 6. Only when placed in Donna's 
+custody did she return to John, which she also used when she was 2.
 
-"Grandma says Mom doesn't go to church because they took out the part of her brain that makes her want to go to church." - 
-Feb or Mar 2014. This is the kind of "believe what I prefer to believe" thinking Donna specializes in. It is untrue and 
-unfair.
-
-Severe shame I witnessed.
-
-Melissa?
+"Grandma says Mom doesn't go to church because they took out the part of her 
+brain that makes her want to go to church." - Feb or Mar 2014. This is the kind 
+of "believe what I prefer to believe" thinking Donna specializes in. It is 
+untrue and unfair.
 
 Darin gave full support for adoption during November 2013 meeting. 
 
-Offer all text messages
-
-Offer all emails
-
-West corridor house is gauntlet of rusty equipment and tools. I was very afraid for Emily's safety when she'd walk that 
-dark passage. You should have looked.
+West corridor house is gauntlet of rusty equipment and tools. I was very afraid 
+for Emily's safety when she'd walk that dark passage. You should have looked.
 
 It occurs to me that you probably have few other sources for understanding what 
-happened before November, 2013. Emily wanted me to come to Tacoma.
-Twice she said, "Come to Tacoma and be the guardian." Four or five times she just asked me to move to Tacoma.
-In November I
-agreed to do so, and be Chloe's guardian.
-There was a brief time in November when she essentially
-interviewed me, and Emily was a brutal negotiator. I came, and she was
-very happy about it. Once her parents
-determined I was relocating, they attacked her, and I realized I had
-to give her a new home to keep her safe.
+happened before November, 2013. Emily wanted me to come to Tacoma. Twice she 
+said, "Come to Tacoma and be the guardian." Four or five times she just asked 
+me to move to Tacoma. In November I agreed to do so, and be Chloe's guardian. 
+There was a brief time in November when she essentially interviewed me, and 
+Emily was a brutal negotiator. I came, and she was very happy about it. Once 
+her parents determined I was relocating, they attacked her, and I realized I 
+had to give her a new home to keep her safe.
 
 One source we have with a court order is the extensive cellular phone
 text messages. That's where both major decisions and minor details were

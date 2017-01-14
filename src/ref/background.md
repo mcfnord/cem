@@ -211,7 +211,6 @@ Murphys most certainly is...
 ***F***amily
 
 *L*aw!
-</div>
 
 Stalker
 -------
@@ -226,6 +225,7 @@ really. So I said just forget about him, let’s go to the museum
 together. That’s the flow how it came together. So Darin certainly
 trusted me enough to give me his teenage daughter’s stalker’s intel
 file, or that other time he told me Melissa was on crack.
+</div>
 
 Michael Howard, flaming spitfire attorney
 =========================================
