@@ -1,4 +1,4 @@
-Welcome to this living document. In this document, I will typically add
+﻿Welcome to this living document. In this document, I will typically add
 sections near the top, and move changed sections up closer to the top,
 so you can be comfortable knowing your review of the first few pages is
 the bulk of new and revised details.
@@ -819,15 +819,15 @@ These text messages accumulated on my phone. I would like to show you
 the many previous years, as that was the main way we communicated.
 However, those aren’t on my phone, and AT&T claims they don’t save them.
 
-![](img/bk-imgs/image1.png){width="4.322916666666667in"
+![](img/noise/image1.png){width="4.322916666666667in"
 height="3.1458333333333335in"}
 
-![](img/bk-imgs/image2.png){width="4.510416666666667in" height="5.1875in"}
+![](img/noise/image2.png){width="4.510416666666667in" height="5.1875in"}
 
-![](img/bk-imgs/image3.png){width="6.270833333333333in"
+![](img/noise/image3.png){width="6.270833333333333in"
 height="5.260416666666667in"}
 
-![](img/bk-imgs/image4.png){width="6.25in" height="4.479166666666667in"}
+![](img/noise/image4.png){width="6.25in" height="4.479166666666667in"}
 
 March 31, 2014
 --------------
@@ -983,7 +983,7 @@ she and others are victims and perpetrators of shame patterns.
 Eventually after returning from Donna's care, Chloe escapes these
 twisted explanations after crying briefly.
 
--   -   ![](img/bk-imgs/image5.jpeg){width="6.761111111111111in"
+-   -   ![](img/noise/image5.jpeg){width="6.761111111111111in"
     height="5.0in"}
 
 -   A friendly moment with Richard, Alice, Chloe, and me.
@@ -991,13 +991,13 @@ twisted explanations after crying briefly.
 2011-ish
 ========
 
-![](img/bk-imgs/image6.jpeg){width="5.201461067366579in"
+![](img/noise/image6.jpeg){width="5.201461067366579in"
 height="6.935281058617673in"}
 
 Under the tree at Chloe’s birthday. I brought the most gifts. Every
 time, I brought the most gifts.
 
-![](img/bk-imgs/image7.png){width="7.3284722222222225in"
+![](img/noise/image7.png){width="7.3284722222222225in"
 height="5.836111111111111in"}
 
 Here’s Fatima, Darin’s adopted daughter, telling Chloe this photo is
@@ -1016,7 +1016,7 @@ I speculate a guess that I took Chloe from Donna’s church after a
 Christmas celebration where Donna played bells. I took Chloe to Seattle
 after that event.
 
-![](img/bk-imgs/image8.png){width="7.895833333333333in"
+![](img/noise/image8.png){width="7.895833333333333in"
 height="4.623611111111111in"}
 
 I bring pumkins!
@@ -1371,7 +1371,7 @@ around 1993.
 INFO Board parties
 ------------------
 
-![](img/bk-imgs/image9.jpeg){width="6.25in" height="6.520833333333333in"}
+![](img/noise/image9.jpeg){width="6.25in" height="6.520833333333333in"}
 
 That’s Harry, in back. Harry is a witness in the current case! That’s at
 Darin’s, an INFO Board Bash. That photo comes from Darin’s internet
@@ -1379,14 +1379,14 @@ server, at:
 
 <http://darinmurphy.com/images/bashes/new-58.jpg>
 
-![](img/bk-imgs/image10.jpeg){width="6.253472222222222in"
+![](img/noise/image10.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 <http://darinmurphy.com/images/bashes/new-59.jpg>
 
 Jack Bridges, Dena Reaugh, Danetta Estes, and that other fellow.
 
-![](img/bk-imgs/image11.jpeg){width="6.253472222222222in"
+![](img/noise/image11.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 Here I am, a filthy person with a Mickey Mouse shirt. It was a toga
@@ -1395,7 +1395,7 @@ Darin’s livingroom.
 
 <http://darinmurphy.com/images/bashes/new-106.jpg>
 
-![](img/bk-imgs/image12.jpeg){width="6.253472222222222in"
+![](img/noise/image12.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 That’s me, Dan Debower, and some other cats in Darin’s home, before the
@@ -1403,7 +1403,7 @@ kitchen remodel.
 
 <http://darinmurphy.com/images/bashes/new-67.jpg>
 
-![](img/bk-imgs/image13.jpeg){width="6.253472222222222in" height="6.4625in"}
+![](img/noise/image13.jpeg){width="6.253472222222222in" height="6.4625in"}
 
 That’s me, Harry, and Missy, dancing in Darin’s livingroom. This is also
 a photo on darinmurphy.com.
@@ -1571,21 +1571,21 @@ Dina around 2006, my little treehouse home.
 2009
 ----
 
-![](img/bk-imgs/image14.png){width="4.614583333333333in"
+![](img/noise/image14.png){width="4.614583333333333in"
 height="3.3541666666666665in"}
 
 2011-ish
 --------
 
-![](img/bk-imgs/image15.png){width="6.979166666666667in" height="3.6875in"}
+![](img/noise/image15.png){width="6.979166666666667in" height="3.6875in"}
 
-![](img/bk-imgs/image16.png){width="4.656944444444444in"
+![](img/noise/image16.png){width="4.656944444444444in"
 height="3.477777777777778in"}
 
 Watch out there’s a pied piper of little girls back there. Datin your
 daughter! Hard!
 
-![](img/bk-imgs/image17.png){width="6.761111111111111in"
+![](img/noise/image17.png){width="6.761111111111111in"
 height="5.955555555555556in"}
 
 Gangsta. I paid a lot for tickets to a kinda lame party for Emily’s
@@ -1611,7 +1611,7 @@ problem? And that sounds pretty close to family, doesn't it?
 2013-ish
 --------
 
-![](img/bk-imgs/image18.jpeg){width="3.538799212598425in"
+![](img/noise/image18.jpeg){width="3.538799212598425in"
 height="4.716418416447944in"}
 
 Darin saw this photo along with hundreds of others that spanned Emily’s
@@ -1641,7 +1641,7 @@ He requested to be my Gmail chat buddy. Imagine that.
 
 We all went to San Francisco with Emily and Melissa:
 
-![](img/bk-imgs/image19.png){width="6.311687445319335in"
+![](img/noise/image19.png){width="6.311687445319335in"
 height="3.621862423447069in"}
 
 This guy is creepy and dangerous, deserving additional scrutiny
@@ -1655,7 +1655,7 @@ medical needs. He threw that trust away.
 
 ### From Dina’s divorce papers
 
-![](img/bk-imgs/image20.png){width="7.28125in"
+![](img/noise/image20.png){width="7.28125in"
 height="2.8645833333333335in"}
 
 Mexico Travel 1: April & May, 2009
@@ -1719,13 +1719,13 @@ Mexico Travel 1: April & May, 2009
     photos, including photos taken on Darin’s camera and my own. These
     photo essays are still available.
 
-![](img/bk-imgs/image21.jpeg){width="3.6245570866141734in"
+![](img/noise/image21.jpeg){width="3.6245570866141734in"
 height="4.344827209098862in"}\
 \
 I rode with Juan Pablo and Hugo in the back of a pickup to the ATV
 corral.
 
-![](img/bk-imgs/image22.png){width="6.520833333333333in" height="3.78125in"}
+![](img/noise/image22.png){width="6.520833333333333in" height="3.78125in"}
 
 Fatima and Chloe. This is a partial canopy on a flat-bed pickup. Darin
 drove us everywhere.
@@ -1749,7 +1749,7 @@ someone became a godfather, and Darin set up running water for the
 family who lost their son.
 
 ### ATV Offroading\
-![](img/bk-imgs/image23.jpeg){width="2.741379046369204in" height="4.3844520997375325in"}\
+![](img/noise/image23.jpeg){width="2.741379046369204in" height="4.3844520997375325in"}\
 \
 
 This was a few days before Emily arrived. The backstreets of the city
@@ -1763,7 +1763,7 @@ snacks and looked out over the city.
     Emily’s obituary. But who took the picture of Emily in the obituary?
     I did.\
     \
-    ![](img/bk-imgs/image24.jpeg){width="3.6835772090988628in"
+    ![](img/noise/image24.jpeg){width="3.6835772090988628in"
     height="2.755604768153981in"}\
     \
     \
@@ -1774,10 +1774,10 @@ snacks and looked out over the city.
     official wedding was April 18^th^. I took these photos, aren’t they
     nice?
 
-    ![](img/bk-imgs/image25.jpeg){width="3.896599956255468in"
+    ![](img/noise/image25.jpeg){width="3.896599956255468in"
     height="2.425890201224847in"}\
     \
-    ![](img/bk-imgs/image26.jpeg){width="3.8535050306211724in"
+    ![](img/noise/image26.jpeg){width="3.8535050306211724in"
     height="2.896551837270341in"}
 
 Mexico Travel 2: Two or more weeks in June, 2010
@@ -1794,14 +1794,14 @@ knock-off, starring Emily. This is where I taught Chloe to swim. Darin
 stayed near Mariela’s family, with Candace and Candace’s (step?-)sister.
 We called that place The Hacienda.
 
-![](img/bk-imgs/image27.jpeg){width="2.8054997812773403in"
+![](img/noise/image27.jpeg){width="2.8054997812773403in"
 height="2.741379046369204in"}
 
 Oh Frida!
 
-![](img/bk-imgs/image28.png){width="3.4482753718285215in"
+![](img/noise/image28.png){width="3.4482753718285215in"
 height="3.294430227471566in"}\
-![](img/bk-imgs/image29.png){width="3.5172419072615924in"
+![](img/noise/image29.png){width="3.5172419072615924in"
 height="3.571353893263342in"}
 
 Chloe’s 3^rd^ birthday. I’m pretty sure I paid for at least half of that
@@ -1811,10 +1811,10 @@ I had an idea to rent a boat and go visit some rocks. We didn’t get to
 sail but it was fun.\
 \
 \
-![](img/bk-imgs/image30.png){width="4.2374343832021in"
+![](img/noise/image30.png){width="4.2374343832021in"
 height="2.620690069991251in"}
 
-![](img/bk-imgs/image31.jpeg){width="5.729166666666667in"
+![](img/noise/image31.jpeg){width="5.729166666666667in"
 height="4.291666666666667in"}\
 Emily, with child sex attacker Brian Herrington’s bald head. Jenny, and
 Candace Zygar’s half-sister.\
@@ -1823,7 +1823,7 @@ got sick. Later that week, Hugo drove Emily, Chloe, and me to Las Palmas
 and we rappelled off an old bridge there. Below was a river with water
 like a bath, and we had a swimming picnic.
 
-![](img/bk-imgs/image32.jpeg){width="6.83125in"
+![](img/noise/image32.jpeg){width="6.83125in"
 height="5.116666666666666in"}
 
 Solidad, Mariela’s mom, brought us a cooked chicken. Las Palmas is a
@@ -1898,14 +1898,14 @@ relations were ok with her so long as she remains the primary partner.
 A few days after the strippers, Darin drove us to buy real massages in
 the tourist part of town, and we all did.
 
-![](img/bk-imgs/image33.jpeg){width="2.513938101487314in"
+![](img/noise/image33.jpeg){width="2.513938101487314in"
 height="6.205100612423447in"}
 
 I took 95% of the photos at his wedding in Mexico, and also the one in
 Tacoma months earlier, using his camera. I made the only videos of both
 sets of vows.
 
-![](img/bk-imgs/image34.png){width="3.4623840769903764in" height="2.0in"}
+![](img/noise/image34.png){width="3.4623840769903764in" height="2.0in"}
 
 Other Holidays with Darin
 -------------------------
@@ -1946,7 +1946,7 @@ children, as it starts to snow in Seattle:
 
 <https://picasaweb.google.com/107460598315429300090/Seattle2010#5559875394571691602>
 
-### ![](img/bk-imgs/image35.png){width="4.597222222222222in" height="3.1194444444444445in"}
+### ![](img/noise/image35.png){width="4.597222222222222in" height="3.1194444444444445in"}
 
 We’re flyin!!! Lookie I’ve snatched Darin’s entire family in my
 clutches. Hiyooo!
@@ -2008,7 +2008,7 @@ Emily was there, but I am not sure. We went to the Sculpture Park. It’s
 totally cool. There are pictures from that day. Then we ate at the
 Spaghetti Factory together.
 
-![](img/bk-imgs/image36.png){width="7.686805555555556in"
+![](img/noise/image36.png){width="7.686805555555556in"
 height="3.0743055555555556in"}
 
 Darin, Chloe, Andrea in Mexico at his wedding. Photo by John Dempsey.
@@ -2026,7 +2026,7 @@ crazy shit caused by Andrea’s accusation. It wasn’t that Emily believed
 it, but it made everything harder for a while, as really we needed to
 talk about very uncomfortable things.
 
-![](img/bk-imgs/image37.png){width="7.014583333333333in"
+![](img/noise/image37.png){width="7.014583333333333in"
 height="4.8805555555555555in"}
 
 Halloween. Darin Murphy gave this a Thumbs Up on Facebook.
