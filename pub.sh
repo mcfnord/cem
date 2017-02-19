@@ -16,8 +16,8 @@ cd ..
 
 while IFS= read -r file
 do
-sed 's/(img\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
-sed 's/(doc\//(http\:\/\/blop.s3-us-west-2.amazonaws.com\/doc\//g' | \
+sed 's/(img\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
+sed 's/(doc\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/doc\//g' | \
         python add-insertions.py > tmp/$file
 done < "sources.txt"
 
