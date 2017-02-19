@@ -6,93 +6,93 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0lc5YvQg_RE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
 <iframe width="420" height="315" src="https://www.youtube.com/embed/KmULgAZcfGc?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7McHAp9AkSE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/yellin.gif'><br><i>Seattle</i>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/yellin_fb_bw.gif'><br><i>Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/055.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/057.jpg'><br><i>San Francisco</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/22rcr.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/archie.jpg'><br><i>New York City</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/beachy.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/blow.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/bodybedroom.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/bright_eyes.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/celeft.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/cemtat.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/ch1.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/ch4.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/cut_skull2.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/dsc00071.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/emilyyes.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/emmy2.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/em_dining.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/em_skypes.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/fashionkiss.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/figuree.jpg'>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/fkloo.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/flowrs.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/frid.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/gooff.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/gra1.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/gra2.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/grr.jpg'><br><i>Mexico</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/hideblanket.gif'>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/hideblanket_fb_bw.gif'><br><i>Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/highup.jpg'><br><i>Empire State Building, New York City</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/kidzhere.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/kissyme.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/kissyvid.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/kookd.gif'><br><i>Wright Park Apartment, Tacoma</i>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/kvv.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/lovelypic.jpg'><br><i>Boston Harbor, Olympia</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/mandc.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/masticate.gif'><br><i>Cosmonaut, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/mombd.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/mom_mirror.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/monkeyrun_opt.gif'><br><i>Seattle</i>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/mstk.gif'><br><i>Cosmonaut, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/needlepeople.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/newddress.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/nutkiss.jpg'><br><i>Seattle Center, Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/nutzz.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/octagonblossom_opt.gif'><br><i>University of Washington, Seattle</i>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/ogbl.gif'><br><i>University of Washington, Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/operate.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/overshoulder.gif'><br><i>Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/pizzaza.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/pond.gif'><br><i>Madigan Army Medical Center, Joint Base Lewis-McChord</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/puzzle.gif'><br><i>Rusty Cock Ridge, Olympia</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/ridinby.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/rockcp.jpg'><br><i>Central Park, New York City</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/runnin.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/santy.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/sexyem.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/she_thumb.gif'>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/she_thumb_fb_bw.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/situpbed.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/smilinmarine.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/soxya.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/spingrin.gif'><br><i>Rusty Cock Ridge, Olympia</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/ssn.jpg'><br><i>New York City</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/stand_em.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/stumo.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/stunnin.jpg'>
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/sunton_bw.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/surfin.gif'><i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/sushdood.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/swingme.gif'><br><i>Rusty Cock Ridge, Olympia</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/tonguebus.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/top_esb.jpg'><br><i>Empire State Building, New York City</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/trevcane.jpg'><br><i>I have that picture framed and hung up ..candy land dance of 1999<br>-- Trev Stevens, Wilson High S$
-<img             src='http://blop.s3-us-west-2.amazonaws.com/img/washcloth.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/wavin.jpg'><br><i>Mexico</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/yawnr.jpg'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/poolhall.gif'><br><i>California</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/dancinjennn.gif'><br><i>Wright Park Apartment, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/krazyface.gif'><br><i>Wright Park Apartment, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/modellnwri.gif'>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/wffllls.gif'><br><i>Wright Park Apartment, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/jeffersonstroll.gif'><br><i>Jefferson Elementary, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/pzzzabite.gif'><br><i>Wright Park Apartment, Tacoma</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/woodlandpark.gif'><br><i>Woodland Park, Seattle</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/25nov13.png'><br><i>San Francisco</i>
-<img width='80%' src='http://blop.s3-us-west-2.amazonaws.com/img/22bapr13.png'><br><i>Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/yellin.gif'><br><i>Seattle</i>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/yellin_fb_bw.gif'><br><i>Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/055.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/057.jpg'><br><i>San Francisco</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/22rcr.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/archie.jpg'><br><i>New York City</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/beachy.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/blow.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/bodybedroom.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/bright_eyes.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/celeft.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/cemtat.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/ch1.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/ch4.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/cut_skull2.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/dsc00071.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/emilyyes.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/emmy2.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/em_dining.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/em_skypes.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/fashionkiss.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/figuree.jpg'>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/fkloo.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/flowrs.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/frid.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/gooff.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/gra1.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/gra2.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/grr.jpg'><br><i>Mexico</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/hideblanket.gif'>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/hideblanket_fb_bw.gif'><br><i>Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/highup.jpg'><br><i>Empire State Building, New York City</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/kidzhere.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/kissyme.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/kissyvid.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/kookd.gif'><br><i>Wright Park Apartment, Tacoma</i>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/kvv.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/lovelypic.jpg'><br><i>Boston Harbor, Olympia</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/mandc.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/masticate.gif'><br><i>Cosmonaut, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/mombd.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/mom_mirror.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/monkeyrun_opt.gif'><br><i>Seattle</i>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/mstk.gif'><br><i>Cosmonaut, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/needlepeople.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/newddress.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/nutkiss.jpg'><br><i>Seattle Center, Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/nutzz.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/octagonblossom_opt.gif'><br><i>University of Washington, Seattle</i>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/ogbl.gif'><br><i>University of Washington, Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/operate.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/overshoulder.gif'><br><i>Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/pizzaza.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/pond.gif'><br><i>Madigan Army Medical Center, Joint Base Lewis-McChord</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/puzzle.gif'><br><i>Rusty Cock Ridge, Olympia</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/ridinby.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/rockcp.jpg'><br><i>Central Park, New York City</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/runnin.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/santy.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/sexyem.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/she_thumb.gif'>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/she_thumb_fb_bw.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/situpbed.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/smilinmarine.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/soxya.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/spingrin.gif'><br><i>Rusty Cock Ridge, Olympia</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/ssn.jpg'><br><i>New York City</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/stand_em.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/stumo.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/stunnin.jpg'>
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/sunton_bw.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/surfin.gif'><i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/sushdood.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/swingme.gif'><br><i>Rusty Cock Ridge, Olympia</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/tonguebus.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/top_esb.jpg'><br><i>Empire State Building, New York City</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/trevcane.jpg'><br><i>I have that picture framed and hung up ..candy land dance of 1999<br>-- Trev Stevens, Wilson High S$
+<img             src='http://toop.s3-us-west-2.amazonaws.com/img/washcloth.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/wavin.jpg'><br><i>Mexico</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/yawnr.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/poolhall.gif'><br><i>California</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/dancinjennn.gif'><br><i>Wright Park Apartment, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/krazyface.gif'><br><i>Wright Park Apartment, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/modellnwri.gif'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/wffllls.gif'><br><i>Wright Park Apartment, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/jeffersonstroll.gif'><br><i>Jefferson Elementary, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/pzzzabite.gif'><br><i>Wright Park Apartment, Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/woodlandpark.gif'><br><i>Woodland Park, Seattle</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/25nov13.png'><br><i>San Francisco</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/22bapr13.png'><br><i>Tacoma</i>
