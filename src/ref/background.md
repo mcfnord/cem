@@ -1,4 +1,4 @@
-Welcome to this living document. In this document, I will typically add
+﻿Welcome to this living document. In this document, I will typically add
 sections near the top, and move changed sections up closer to the top,
 so you can be comfortable knowing your review of the first few pages is
 the bulk of new and revised details.
