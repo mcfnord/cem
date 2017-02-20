@@ -24,6 +24,8 @@ Remember being Student of the Month? Ms. Boglione said the award was for helping
 
 The next month, you were kinda mad that you weren't the Student of the Month again. I agree a back-to-back sweep would be impressive, and feel great. So I made you a Certificate. 
 
+# See Yes
+
 ![](img/badm.gif)
 
 Do you see the quirk? You clone yourself!? That's my older brother, Jim.

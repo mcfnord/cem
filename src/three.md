@@ -83,6 +83,8 @@ We loved camping. Twice we went to the Metow River to raft there. I brought my h
 
 ![](img/ssn.jpg)
 
+# See Memories
+
 This is a famous painting called *The Starry Night*, by Vincent van Gogh. We're at the Museum of Modern Art, in Manhattan. They wouldn't let kids ride on shoulders so we had to carry you through the whole museum. But that was fine.
 
 ![](img/blow.jpg)

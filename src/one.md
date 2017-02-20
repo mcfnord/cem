@@ -15,7 +15,7 @@
 
 My hair seems to be sideways. A falling bang and rising smirk.  
 
-# Emily
+# See Emily
 
 Your eyes, each day's different hair, such glamour, even in a hospital gown, 
 seeing humor, showing affection, dressed wild, or [to the 
