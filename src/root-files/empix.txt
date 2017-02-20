@@ -96,3 +96,6 @@
 <img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/woodlandpark.gif'><br><i>Woodland Park, Seattle</i>
 <img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/25nov13.png'><br><i>San Francisco</i>
 <img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/22bapr13.png'><br><i>Tacoma</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/emmaemma.jpg'><br><i>Mexico</i>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/flagdance.jpg'>
+<img width='80%' src='http://toop.s3-us-west-2.amazonaws.com/img/showhertit.jpg'><br><i>Wright Park Apartment, Tacoma</i>
