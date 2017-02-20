@@ -34,7 +34,7 @@ parser = MyHTMLParser()
 for line in sys.stdin:
     if line.lower().startswith('# see '):
         slide = slide + 1
-        mainoutfile.write('**[' + line[2:].strip() + '](' + fname + 'S' + str(slide) + '.html)**\r\n')
+        mainoutfile.write('**[' + line[2:].strip() + '](' + fname + 'S' + str(slide) + '.html)**\r\n<br><br>\r\n')
         mainoutfile.close()
         mainoutfile = open("tmp/" + fname + "S" + str(slide) + ".md", "w")
         line = '# ' + line[6:]
