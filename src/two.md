@@ -23,7 +23,7 @@ After I took these pictures, we attended her oncology appointment, but they rush
 She, too, was told terrible news that day. The chemotherapy was not working. We knew she had grown weaker, and dizzier, and began to wet the bed. That day, a brain scan showed more tumor growth. I held her hand as we drove home.
 
 
-# Kyle
+# See Kyle
 
 On this page with cancer I've placed this rare photo of Kyle with you. 
 

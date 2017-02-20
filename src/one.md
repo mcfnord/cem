@@ -36,7 +36,7 @@ She joked around a lot, too. She and I shared a wild and goofy sense of humor.
 
 ![](img/em_skypes.gif)
 
-# Marines
+# See Marines
 
 She loved the Marines. She said it was where she saw the world as it is, the 
 real world. What world did she see before she joined the Marines at the 
@@ -54,7 +54,7 @@ Okinawa was full of Marines, mostly young men. She developed socially and
 professionally in the Marines. She learned to love sushi in Okinawa, which is 
 part of Japan.
 
-## Before Lion's Gate
+# See Before Lion's Gate
 
 Remember the park up the alley from my first house? *Ally in the alley.* 
 

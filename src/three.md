@@ -24,7 +24,7 @@ Her dress! Her style.
 
 ![](img/flagdance.jpg)
 
-## Music is a big deal
+# See Music is a big deal
 
 Em enjoyed Ke$ha's openness, and willingness to express herself. We all sang her song *Tik Tok*. A life involving alcohol in partying is risky, unwise behavior, as is clowning around in a moving car with no seat belt on, but it's just a music video. 
 
@@ -42,7 +42,7 @@ There came a time in the last 6 months of her life when she and I both sang our 
 
 Emily also loved words. She loved funny words, unusual words. This is a video we both laughed at when we first met in Mexico: *Bulbous Bouffant*
 
-## Wonderment
+# See Wonderment
 
 I remember when Em and I took you to an exciting movie, called *Scott Pilgrim vs. the World*. You were 4. The show had 3D glasses. You were so stunned to see the people transform into super-heroes, and back. Your jaw dropped open in awe. It made us laugh. :) 
 
@@ -54,7 +54,7 @@ Yes, you.
 
 Oh momma.
 
-## Striving
+# Striving
  
 ![](img/gra2.jpg)
 
@@ -67,7 +67,7 @@ Here's one thing to get straight about your mother: She graduated and graduated 
 
 I think she told me this was a Marine friend of hers.
 
-## There you are
+# See There you are
 
 ![](img/02.jpg)
 

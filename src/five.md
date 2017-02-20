@@ -14,7 +14,7 @@ Pizza is great. Live life, eat pizza. Notice I also brought apples, yogurt, and 
 
 ![](img/cemtat.jpg)
 
-# Rusty Cock Ridge
+# See Rusty Cock Ridge
 
 ![](img/puzzle.gif)
 
