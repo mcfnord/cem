@@ -9,7 +9,7 @@
  - Tacoma
  - Seattle 
 
-# John
+# See John
 
 ![](img/file0018.jpg)
 

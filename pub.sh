@@ -18,7 +18,7 @@ while IFS= read -r file
 do
 sed 's/(img\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
 sed 's/(doc\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/doc\//g' | \
-        python add-insertions.py $file
+        python insertions-and-slideshows.py $file
 done < "sources.txt"
 
 rm sources.txt
