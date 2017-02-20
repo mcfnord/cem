@@ -22,7 +22,12 @@ class MyHTMLParser(HTMLParser):
     def handle_data(self, data):
         global gfImporting
         if gfImporting==True:
-            print (data) # show contents when we're importing
+            mainoutfile.write(data) # show contents when we're importing
+
+fname = sys.argv[1]                # arg1 is source pathspec
+fname = fname.replace("ref/", "")  # remove /ref source prefix, if found
+fname = fname.replace(".md", "")   # remove .md suffix, so I can add S1, S2 to core fname before .md
+mainoutfile = open("tmp/" + fname + ".md", "w")
 
 parser = MyHTMLParser()
 for line in sys.stdin:
@@ -32,8 +37,8 @@ for line in sys.stdin:
         gstrClassname = params[1]
         f =  open(filename, "r")
 	parser.feed(f.read())
+        parser.close()
     else:
-        print line,
-#    parser.feed(line)
-# parser.feed('foo bar bat <diV class="foo"> foopants </DIV> <div class="bar"> no dont show me</div>')
+        mainoutfile.write(line),
 
+mainoutfile.close()
