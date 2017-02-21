@@ -32,12 +32,13 @@ slide = 1
 
 parser = MyHTMLParser()
 for line in sys.stdin:
+    # if we want a slice, start with # see, and get a hyperlink of See Foobat, and new file desty Foobat
     if line.lower().startswith('# see '):
         slide = slide + 1
         mainoutfile.write('**[' + line[2:].strip() + '](' + fname + 'S' + str(slide) + '.html)**\r\n<br><br>\r\n')
         mainoutfile.close()
         mainoutfile = open("tmp/" + fname + "S" + str(slide) + ".md", "w")
-        line = '# ' + line[6:]
+        line = '# ' + line[6:]  # The top title is # See Foobat minus the # See portion
 
     if line.lower().startswith('insert:'):
         params = line[len('insert:'):].split()

@@ -24,7 +24,7 @@ done < "sources.txt"
 rm sources.txt
 
 cd tmp
-mv ref/* .
+# mv ref/* .  removed cuz the python app saves to tmp/ PERIOD
 ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do

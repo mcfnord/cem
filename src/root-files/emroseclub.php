@@ -14,10 +14,14 @@ function numlines($filename)
 
 function randoline($filename)
 {
+try_again:
   $which = rand ( 0, numlines($filename) - 1 );
   $file = new SplFileObject($filename);
   $file->seek( $which );
-  echo $file->current() ; // read it from the file
+  $line = $file->current() ; // read it from the file
+  if( strlen($line) < 4)     // filename plus extension plus dot is probably longer!
+     goto try_again;
+  echo $line ;
 }
 
 echo '<html><META HTTP-EQUIV="REFRESH" CONTENT="45"><title>Emily Rose Club</title><body bgcolor=black><center><font size="+2"><br></font>' ;
