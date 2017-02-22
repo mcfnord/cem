@@ -39,6 +39,8 @@ This compression works I'd say. Even a fade is expensive frame-by-frame overhead
 
 This is a set of photos I piped into YouTube as a slideshow, then downloaded, then rather inartfully curated frame-by-frame. The fades between frames caused kooky anomalies. 
 
+# See Tell a story
+
 ![](img/flowrs.gif)
 
 Telling a story frame-by-frame, pushing and pulling durations until it flows.
