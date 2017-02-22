@@ -1,10 +1,10 @@
-**Donna:** Rural Metro 
-which is an ambulance company here in town.  The date is May 
+﻿
+**Donna:** Rural Metro which is an ambulance company here in town.  The date is May 
 14 , 2014 which is the day Emily was taken out of the 
 apartment and went to darin's.  I don't think the company 
 ever got the info about her insurance,
 
-	Jason Dempsey, Paula Everdell, Jeanine Dempsey, Jim 
+Jason Dempsey, Paula Everdell, Jeanine Dempsey, Jim 
 Dempsey, Curtis Brown.
 		All on this list have no criminal record.
 	 Nearly half are retired public school
@@ -163,6 +163,8 @@ face-to-face with the doctor that she was not actively dying. I think Susan
 would have a point there: If you'd leave her when she's dying, you're probably 
 a creep. 
 
+<div id='vicky-mariah'>
+
 * Vicky McKinlay, a woman who knows Chloe well, said to me once, 
 "I've been supoenaed before,"
 She 
@@ -195,6 +197,9 @@ criticized. I know at this point we need physical witnesses,
 but I think Mariah loved Emily and me and saw some bullshit 
 that probably stands out in her mind to this day. 
 
+</div>
+
+
 I am committed to keeping 
 Chloe in Donna's life and i am able to coordinate with the 
 extended family to keep Chloe connected to the people who 
@@ -203,12 +208,21 @@ stop meetups, phone calls, adherance to fair rules, as ruled
 by the court. I have done this consistently with the entire 
 family for six years with Chloe and that would continue. 
 
+<div id='manning'>
+
 I can't think of an uncool Manning, for example. 
 Richard Mairs is cool. I want to like Donna, and used to 
 like her, but now I kind of don't like her. I certainly 
 don't show it to Chloe, and never have. I can name all 
 Emily's aunts an uncles, nieces and nephews. Chloe also 
-knows mine. === 
+knows mine.
+
+</div>
+
+
+
+
+ === 
 
 I TELL KENNEDY Shit that fucking matters: 
 The registered Nurse Assistant did not say Chloe was naked 
