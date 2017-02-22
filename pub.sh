@@ -4,9 +4,9 @@ set -x
 mkdir tmp/src
 mkdir tmp/ref
 
-# clear out the target where we'll assemble all the .md files
+# clear out the target where we'll assemble all the files
 cd tmp
-rm *.md
+rm *
 cd ..
 
 # grab all the .md files somewhere off src
@@ -16,9 +16,7 @@ cd ..
 
 while IFS= read -r file
 do
-sed 's/(img\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/img\//g' src/$file | \
-sed 's/(doc\//(http\:\/\/toop.s3-us-west-2.amazonaws.com\/doc\//g' | \
-        python insertions-and-slideshows.py $file
+cat src/$file | python insertions-and-slideshows.py $file
 done < "sources.txt"
 
 rm sources.txt

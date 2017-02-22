@@ -1,8 +1,14 @@
 import sys
+import os.path
 from HTMLParser import HTMLParser
 
 gfImporting = False
 gstrClassname = None
+
+def S3BinaryHostReplace( str ):
+    str = str.replace("(img/", "(http://toop.s3-us-west-2.amazonaws.com/img/")
+    str = str.replace("(doc/", "(http://toop.s3-us-west-2.amazonaws.com/doc/")
+    return str ;
 
 class MyHTMLParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -22,7 +28,7 @@ class MyHTMLParser(HTMLParser):
     def handle_data(self, data):
         global gfImporting
         if gfImporting==True:
-            mainoutfile.write(data) # show contents when we're importing
+            mainoutfile.write(S3BinaryHostReplace(data)) # show contents when we're importing
 
 fname = sys.argv[1]                # arg1 is source pathspec
 fname = fname.replace("ref/", "")  # remove /ref source prefix, if found
@@ -42,12 +48,15 @@ for line in sys.stdin:
 
     if line.lower().startswith('insert:'):
         params = line[len('insert:'):].split()
-        filename ='src/' +  params[0]
-        gstrClassname = params[1]
-        f =  open(filename, "r")
+#        filename ='src/' +  params[0]
+        gstrClassname = params[1]                   # set this global
+        insertfilename = 'src/' + params[0]
+        if False == os.path.isfile(insertfilename):
+            insertfilename = 'src/ref/' + params[0] # sometimes i forget to prepend the ref/
+        f =  open(insertfilename, "r")
 	parser.feed(f.read())
         parser.close()
     else:
-        mainoutfile.write(line),
+        mainoutfile.write(S3BinaryHostReplace(line)),
 
 mainoutfile.close()
