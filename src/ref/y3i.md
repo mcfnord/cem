@@ -1,6 +1,11 @@
 ﻿insert: background.md 2014pre2
 
+insert: estate.md vicky-mariah
+
 insert: background.md 2013ish
+
+insert: estate.md manning
+
 
 ## IN THE SUPERIOR COURT FOR THE STATE OF WASHINGTON
  
