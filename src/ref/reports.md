@@ -1912,19 +1912,62 @@ Person Requesting Report: John Dempsey, Donna Mairs
 
 Brief Outline of Visitation
 
-This report is in reference to the supervised visitation between John Dempsey and a child, Chloe Murphy. John Dempsey is fic of kin not a biological family member to this child. Therefore, I will refer to John Dempsey as Mr. Dempsey or John throughout this report. This visit was held at residence of Howard Dempsey, John Dempsey’s uncle.
-I met the maternal grandmother and child in front of the home. The maternal grandmother introduced me to the child and said goodbye. The child and I entered the walkway through the garage to the home where Mr. Dempsey met us outside the front door.
-The child and Mr. Dempsey immediately hugged and said they missed each other. They sat on a bench next to each other outside the front door for several minutes hugging. We entered the home where Mr. Dempsey offered the child food and beverages. The child asked to go to the beach, Mr. Dempsey agreed. They gathered snacks and water and we walked down to the beach.
-During the visit the child addressed Mr. Dempsey as daddy and John, alternating between the two. Mr. Dempsey answered to both John and daddy when the child addressed him. The child asked why she could not live with Mr. Dempsey. He responded that when her mother died rules changed but he was very glad they could be together on this day. The child told Mr. Dempsey when she was old enough to say where she wanted to live, and that she would choose with him and they would live in Seattle. Mr. Dempsey replied that was nice. The child stated
-the maternal grandmother would not allow her to attend “Sparkle” (?). Mr. Dempsey said the
+<div id='first-visit'>
+
+## June 21, 2014
+
+This report is in reference to the supervised visitation between John Dempsey and a 
+child, Chloe Murphy. John Dempsey is fic of kin not a biological family member to this 
+child. Therefore, I will refer to John Dempsey as Mr. Dempsey or John throughout this 
+report. This visit was held at residence of Howard Dempsey, John Dempsey’s uncle. I met 
+the maternal grandmother and child in front of the home. The maternal grandmother 
+introduced me to the child and said goodbye. The child and I entered the walkway through 
+the garage to the home where Mr. Dempsey met us outside the front door. The child and Mr. 
+Dempsey immediately hugged and said they missed each other. They sat on a bench next to 
+each other outside the front door for several minutes hugging. We entered the home where 
+Mr. Dempsey offered the child food and beverages. The child asked to go to the beach, Mr. 
+Dempsey agreed. They gathered snacks and water and we walked down to the beach. During 
+the visit the child addressed Mr. Dempsey as daddy and John, alternating between the two. 
+Mr. Dempsey answered to both John and daddy when the child addressed him. The child asked 
+why she could not live with Mr. Dempsey. He responded that when her mother died rules 
+changed but he was very glad they could be together on this day. The child told Mr. 
+Dempsey when she was old enough to say where she wanted to live, and that she would 
+choose with him and they would live in Seattle. Mr. Dempsey replied that was nice. The 
+child stated the maternal grandmother would not allow her to attend “Sparkle” (?). Mr. 
+Dempsey said the
  
-grandmother makes the rules now. The child asked Mr. Dempsey why she has not been able to see him. Mr. Dempsey said when her mother passed the rules changed. Several times during the visit, the child asked how much time they had left. Mr. Dempsey would give her the correct time they had left and would follow with the comment that he was glad he was able to spend time
-with her today. Toward the end of the visit, Mr. Dempsey said they needed to go back to the house to prepare for her to leave. The child stated she thought she was able to spend the entire day with him. Mr. Dempsey said they had four hours together on this day. Mr. Dempsey told the child he would try to schedule something fun on their next visit such as a movie. The child asked Mr. Dempsey why he was mean to “Darren or Darrel”. Mr. Dempsey replied when her mother died he was sad. The child accepted Mr. Dempsey’s reply.
-During the visit Mr. Dempsey and the child engaged in sand castle building, redirecting water flow with shovels in the sand, playing in the sand and feeding carrots to the goat and pony. Mr. Dempsey and child snacked throughout the visit on popcorn, fruit snacks, breakfast bars, juice, and water. They sat next to each other conversing on the beach and deck. Mr. Dempsey and child stated they were saddened by the mother’s passing. The child stated she would be spending time with a friend of her mother who has horses. The child stated the maternal grandmother said it would be good for her to get her mind off her mother's dying. Mr. Dempsey agreed it was good for her to occupy her time having fun.
-Several times throughout the visit, the child would tell Mr. Dempsey that she loved and missed. Mr. Dempsey responded with same. The child hugged Mr. Dempsey several times throughout the visit while they were playing, talking, sitting or spontaneously. Mr. Dempsey returned the affection each time.
-While at the pond, the child wanted to enter the water. Mr. Dempsey told her that was not a good idea. While walking to the beach we had to cross railroad tracks. Mr. Dempsey told the child to wait for him and not walk ahead.
-At the end of the visit, Mr. Dempsey instructed the child to put her shoes on and gather her belongings. The child did not respond as readily to his requests as she had earlier when he would make requests of her. After the child was ready to leave, Mr. Dempsey and child hugged. The child and Mr. Dempsey said goodbye. The child put her head down and became very quiet as she left.
+grandmother makes the rules now. The child asked Mr. Dempsey why she has not been able to 
+see him. Mr. Dempsey said when her mother passed the rules changed. Several times during 
+the visit, the child asked how much time they had left. Mr. Dempsey would give her the 
+correct time they had left and would follow with the comment that he was glad he was able 
+to spend time with her today. Toward the end of the visit, Mr. Dempsey said they needed 
+to go back to the house to prepare for her to leave. The child stated she thought she was 
+able to spend the entire day with him. Mr. Dempsey said they had four hours together on 
+this day. Mr. Dempsey told the child he would try to schedule something fun on their next 
+visit such as a movie. The child asked Mr. Dempsey why he was mean to “Darren or Darrel”. 
+Mr. Dempsey replied when her mother died he was sad. The child accepted Mr. Dempsey’s 
+reply. During the visit Mr. Dempsey and the child engaged in sand castle building, 
+redirecting water flow with shovels in the sand, playing in the sand and feeding carrots 
+to the goat and pony. Mr. Dempsey and child snacked throughout the visit on popcorn, 
+fruit snacks, breakfast bars, juice, and water. They sat next to each other conversing on 
+the beach and deck. Mr. Dempsey and child stated they were saddened by the mother’s 
+passing. The child stated she would be spending time with a friend of her mother who has 
+horses. The child stated the maternal grandmother said it would be good for her to get 
+her mind off her mother's dying. Mr. Dempsey agreed it was good for her to occupy her 
+time having fun. Several times throughout the visit, the child would tell Mr. Dempsey 
+that she loved and missed. Mr. Dempsey responded with same. The child hugged Mr. Dempsey 
+several times throughout the visit while they were playing, talking, sitting or 
+spontaneously. Mr. Dempsey returned the affection each time. While at the pond, the child 
+wanted to enter the water. Mr. Dempsey told her that was not a good idea. While walking 
+to the beach we had to cross railroad tracks. Mr. Dempsey told the child to wait for him 
+and not walk ahead. At the end of the visit, Mr. Dempsey instructed the child to put her 
+shoes on and gather her belongings. The child did not respond as readily to his requests 
+as she had earlier when he would make requests of her. After the child was ready to 
+leave, Mr. Dempsey and child hugged. The child and Mr. Dempsey said goodbye. The child 
+put her head down and became very quiet as she left.
  
-The child and I met the maternal grandmother out in front of the home where we exchange the child.
-End of Report.
+The child and I met the maternal grandmother out in front of the home where we exchange 
+the child.
+
+</div>
 

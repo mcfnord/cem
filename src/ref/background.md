@@ -1002,18 +1002,17 @@ twisted explanations after crying briefly.
 
 -   A friendly moment with Richard, Alice, Chloe, and me.
 
-<div id='2011ish'>
 2011-ish
 ========
 
-![](img/noise/bg/image6.jpeg){width="5.201461067366579in"
-height="6.935281058617673in"}
+<div id='2011ish'>
+
+![](img/noise/bg/image6.jpeg)
 
 Under the tree at Chloe’s birthday. I brought the most gifts. Every
 time, I brought the most gifts.
 
-![](img/noise/bg/image7.png){width="7.3284722222222225in"
-height="5.836111111111111in"}
+![](img/noise/bg/image7.png)
 
 Here’s Fatima, Darin’s adopted daughter, telling Chloe this photo is
 beautiful. This is Chloe at my sister Jan’s house for Christmas Eve,
@@ -1023,18 +1022,19 @@ I bet Darin started not liking me right around the Dash Point Park
 camping trip. That was around 2011 I think. And I suspect Emily was the
 reason, but Emily’s money became a bigger reason, and then going bonkers
 became its own reason.
+
 </div>
 
-<div id='2012ish'>
 2012
 ====
+
+<div id='2012ish'>
 
 I speculate a guess that I took Chloe from Donna’s church after a
 Christmas celebration where Donna played bells. I took Chloe to Seattle
 after that event.
 
-![](img/noise/bg/image8.png){width="7.895833333333333in"
-height="4.623611111111111in"}
+![](img/noise/bg/image8.png)
 
 I bring pumkins!
 
@@ -1049,11 +1049,13 @@ early 2013.
 It was 2012 or 2013 when I bought Donna lunch on Broadway in Seattle. It
 was Thai food. Emily was with us. Donna sold me a fundraiser chocolate
 bar for Stanley Elementary.
+
 </div>
 
-<div id='2013ish'>
 2013 
 =====
+
+<div id='2013ish'>
 
 In Spring, 2013, Donna drove Emily and Chloe to Seattle Center to meet
 me, and left them with me.
@@ -1082,6 +1084,7 @@ get Chloe.
 
 Later Emily awoke from her nap and called me to say she was energetic
 enough to join us on the trip.
+
 </div>
 
 Bridges happened consistently because I made it happen
@@ -1099,6 +1102,7 @@ emotional wellness during this transition?
 ====
 
 <div id='2014pre'>
+
 -   January 25^th^ at hospital, Donna expressed remorse to me that she
     had said mean things about me during the 2nd adoption meeting,
     exclaims, “People say your love is better than mine.” I assure her
@@ -1123,6 +1127,11 @@ emotional wellness during this transition?
 
 -   Emily told Donna about Emily's plan in January, 2014. Donna claimed
     I was too old to raise Chloe. Huh?
+
+
+
+
+
 </div>
 
 <div id='2014post'>
@@ -1170,7 +1179,10 @@ emotional wellness during this transition?
     a visit. Let me know. \[Christine’s response:} CFS follows the
     person being supervised, not the child.
 
-</div>
+
+
+<br>  
+
 
 Rejection of entire family
 --------------------------
@@ -1181,7 +1193,13 @@ family members share my visitation with Chloe; she even refused to let
 them transport Chloe for visitation. This includes my father, Herb
 Dempsey, who is a former police officer and educator.
 
+
+</div>
+
+
+
 <div id='2014pre2'>
+
 Yelling at Donna
 ----------------
 
@@ -1421,42 +1439,33 @@ around 1993.
 INFO Board parties
 ------------------
 
-![](img/noise/bg/image9.jpeg){width="6.25in" height="6.520833333333333in"}
+![](img/noise/bg/image9.jpeg)
 
 That’s Harry, in back. Harry is a witness in the current case! That’s at
 Darin’s, an INFO Board Bash. That photo comes from Darin’s internet
-server, at:
+server.
 
-<http://darinmurphy.com/images/bashes/new-58.jpg>
-
-![](img/noise/bg/image10.jpeg){width="6.253472222222222in"
-height="6.492361111111111in"}
-
-<http://darinmurphy.com/images/bashes/new-59.jpg>
+![](img/noise/bg/image10.jpeg)
 
 Jack Bridges, Dena Reaugh, Danetta Estes, and that other fellow.
 
-![](img/noise/bg/image11.jpeg){width="6.253472222222222in"
-height="6.492361111111111in"}
+![](img/noise/bg/image11.jpeg)
 
 Here I am, a filthy person with a Mickey Mouse shirt. It was a toga
 party. That’s Dan DeBower, Missy, and some brunette, wearing togas in
 Darin’s livingroom.
 
-<http://darinmurphy.com/images/bashes/new-106.jpg>
-
-![](img/noise/bg/image12.jpeg){width="6.253472222222222in"
-height="6.492361111111111in"}
+![](img/noise/bg/image12.jpeg)
 
 That’s me, Dan Debower, and some other cats in Darin’s home, before the
 kitchen remodel.
 
-<http://darinmurphy.com/images/bashes/new-67.jpg>
-
-![](img/noise/bg/image13.jpeg){width="6.253472222222222in" height="6.4625in"}
+![](img/noise/bg/image13.jpeg)
 
 That’s me, Harry, and Missy, dancing in Darin’s livingroom. This is also
 a photo on darinmurphy.com.
+
+
 
 Around 1990
 -----------
@@ -1831,9 +1840,12 @@ wedding, using Darin’s camera. The ceremony was May 2^nd^ while the
 official wedding was April 18^th^. I took these photos, aren’t they
 nice?
 
-![](img/noise/bg/image25.jpeg)
+![](img/noise/bg/image25.jpeg)  
 
-![](img/noise/bg/image26.jpeg)
+![](img/noise/bg/image26.jpeg)  
+
+
+
 
 </div>
 

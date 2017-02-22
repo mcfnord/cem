@@ -46,6 +46,8 @@ insert: ref/group_health.md may29
 
 ### June 20, 2014
 
+insert: reports.md first-visit
+
 ![](img/jun20_14.png)
 
 
@@ -72,7 +74,7 @@ insert: background.md 14sep2
 
 ![](img/fourcounts.png)
 
-[hard work pays off sometimes](dtm_cop_lies.htm)
+[hard work pays off sometimes](dtm_cop_lies.html)
 
 ![](img/camel.gif)
 
@@ -81,7 +83,7 @@ Chloe rides the camel at Pt. Defiance Zoo.
 
 ### Nov 9, 2015
 
-[Deposition of Michael Comte](comte-dep.pdf)
+[Deposition of Michael Comte](doc/comte-dep.pdf)
 
 # See 2016
 
