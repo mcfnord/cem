@@ -18,10 +18,6 @@
 
 * [Find the Read... link. It's subversive!](http://murphy-dempsey.us/)
 
-<img width='80%' src='img/bb1.png'>
-
-![](img/dtmpv.png)
-
 Oh friends, not these tones!  
 Let us raise our voices in more  
 Pleasing and more joyful sounds!
@@ -121,3 +117,7 @@ A loving father must dwell.
 Joy, beautiful spark of Gods!,  
 Daughter of Elysium,  
 Joy, beautiful spark of Gods!.
+
+![Really Dreamy](animateS2.html)
+
+
