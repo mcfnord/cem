@@ -51,8 +51,7 @@ idea?
 
 Em was shy when she was young. As a Marine on Okinawa, she got much bolder. 
 Okinawa was full of Marines, mostly young men. She developed socially and 
-professionally in the Marines. She learned to love sushi in Okinawa, which is 
-part of Japan.
+professionally in the Marines. She learned to love sushi in Okinawa, which is an island in Japan.
 
 # See Before Lion's Gate
 
@@ -155,15 +154,11 @@ Once Fatima came to the apartment where we all lived, by Wright Park. She really
 
 Style down to the shoes! 
 
+# See Music is a big deal
+
 ![](img/stunnin.jpg)
 
 Her dress! Her style.
-
-![](img/055.jpg) 
-
-![](img/flagdance.jpg)
-
-# See Music is a big deal
 
 Em enjoyed Ke$ha's openness, and willingness to express herself. We all sang her song *Tik Tok*. A life involving alcohol in partying is risky, unwise behavior, as is clowning around in a moving car with no seat belt on, but it's just a music video. 
 
@@ -210,7 +205,11 @@ I think she told me this was a Marine friend of hers.
 
 ![](img/02.jpg)
 
-This is from Melissa's wedding. I remember attending. I saw Emily there after many years of not seeing her. I saw her tattoo and asked who Chloe is. You were at that wedding, but I didn't meet you there. We didn't meet until you and Emily joined me in Mexico, a week later. You grabbed onto my head and said, "There you are!"
+This is from Melissa's wedding. I remember attending. I saw Emily there after many years 
+of not seeing her. I saw her tattoo and asked who Chloe is. You were at that wedding, but 
+I didn't meet you there. We didn't meet until 
+[you and Emily joined me in Mexico](y1xS3.html), a week 
+later. You grabbed onto my head and said, "There you are!"
 
 ![](img/bright_eyes.jpg)
 
