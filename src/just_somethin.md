@@ -1,4 +1,4 @@
-![](img/30mar13.png)
+﻿![](img/30mar13.png)
 
 ###    May. 10th, 2013 
 
@@ -65,6 +65,8 @@ Well everything's secret there so I can't tell you more. It's just a group of vo
 
 I wish truth seduced as well as lies do.﻿
 
+# See Telephone's Ring
+
 ### Oct 15, 2013
 
 Chloe leaves me phone messages. She registers complaints about bedtime--going to bed when it's still LIGHT out???--and yesterday she called to tell me it's October 14th.﻿
@@ -80,5 +82,5 @@ Chloe leaves me phone messages. She registers complaints about bedtime--going to
 Emily was interviewed by Jeris Underwood, who is one of two Jerises in Pierce County. My mother is the other, of course.
 
 
-**[Next...](dtm_cop_lies.html)**
+**[Next...](qu.html)**
 
