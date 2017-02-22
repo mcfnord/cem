@@ -21,6 +21,8 @@ Never tried grayscale.
 
 A dithered compression that works. Lots of motion blur in originals, too.
 
+# See opportunities
+
 ![](img/badm.gif)
 
 Double exposure anomaly in the original frame.
@@ -104,6 +106,8 @@ banding, compression anomalies.
 ![](img/octagonblossom.gif)
 
 dithered compression, fewer anomalies.
+
+# See Boat Ride
 
 ![](img/wmhippv.gif)
 
