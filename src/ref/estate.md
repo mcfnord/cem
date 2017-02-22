@@ -1318,6 +1318,9 @@ daughter Melissa was there, as was his 3rd wife.
 If he is sure I'm a molester,  why did he pledge full support in November? 
 	Follow his logic of the 2nd adoption meeting:
 
+
+<div id='raw'>
+
 There was even an interesting time where I tried to accept Emily's choice of 
 Donna over Darin. I couldn't do it. I had to do something to prevent Chloe from 
 being raised by Donna. Obviously their skillfulness with fear-mongering and 
@@ -1388,9 +1391,6 @@ On Facebook, where my life updates get 20+ "Likes", Candace has two Facebook
 friends. One is Darin Murphy. Why isn't Candace owning up to her declaration by 
 appearing as a witness? Is Candace my accusor?
 
-Chloe asked me in November, 2013 to write a story called: "John 
-and Chloe's future together." I'm still writing.
-
 I remember taking Chloe on the carosel in Westlake park.
 
 "Christine, I had a question about the report on11/23 with Charlotte at the 
@@ -1412,6 +1412,8 @@ of "believe what I prefer to believe" thinking Donna specializes in. It is
 untrue and unfair.
 
 Darin gave full support for adoption during November 2013 meeting. 
+
+</div>
 
 West corridor house is gauntlet of rusty equipment and tools. I was very afraid 
 for Emily's safety when she'd walk that dark passage. You should have looked.
@@ -1445,7 +1447,10 @@ Have you and Chloe stood naked in the shower with your genitals exposed to her?
 Did a sexual attraction to pre-teens cause you problems as an adult?
 LEAVE THE BONER OUT OF IT.
 
+
 The most serious allegations in this report are based on false statements. I don't know if that's intentional. There is some context here.
+
+<div id='f-sarah'>
 
 Sarah's three previous reports were mediocre. Previously, she missed important details about Chloe's behavior and indications 
 of Chloe's feelings, yet she included many details that just didn't matter. While the other three supervisors described 
@@ -1509,6 +1514,8 @@ room. Howard Dempsey, owner of the house and retired career schoolteacher, overh
 efforts at calm communication to be appropriate, while her responses were unusual. He describes Sarah as bizarre, cold, and clearly in 
 the wrong job for her skills and traits. 
 
+</div>
+
 Paula Everdell, Howard Dempsey, and Jeris Ockfen are distinguished career educators who have attended a visit while 
 Sarah supervised. 
 They all have misgivings about the nature of communication mandated under CFS rules, where many of the 
@@ -1568,11 +1575,15 @@ reporters. What more could possibly be delaying you?
 
 diabetic, poor diet, tired. And where is Richard?
 
+<div id='dad-log'>
+
 "When I first got to grandmas I had nightmares.  When I am old enough to choose where I live I will live with you in Seattle."
 
 Story In sand sculptures: "the queen died and the castle fell on the king and the princess."
 
 "You should get a job like Daniel (a child play psychotherapist) so you can help other kids. "
+
+</div>
 
 Donnas kids. Poor to medioce outcomes. My family: Good outcomes.
 	Represent Emily. .. why she chose after years of consideration
@@ -1641,6 +1652,8 @@ Is it correct to conclude that Donna specificly objects to Chloe sitting on my l
 
 I'm offended by your description of 
 "the nature of this case" because I and my family believe this case 
+
+<div id='speculate'>
 
 We call it The Choreography of Paranoia.
 
@@ -1723,6 +1736,8 @@ who swam all last summer with me while her mom cheered from the shore, loses mor
 the past, loses more of the reassuring comfort I've always provided, loses the continuity her mother and i fought for
 , and i still fight for.
 
+</div>
+
 I used to take Emily and Chloe to contact dance, where we all interacted through climbing, dancing, swinging, and 
 spinning around with each other. It was among our favorite things to do. The new rules might be utterly clear in 
 extremist circles, but they clearly frustrate Chloe, who demands the simple comfort she understood since before she 
@@ -1737,10 +1752,14 @@ precise rules to her.
 
 I don't think Sarah understands any of this. 
 
+<div id='intimacy'>
+
 The latest wave is "lap-sitting hysteria" and I am curious where it came from. Kids sit on the laps of cherished 
 adults. The goal is probably to extinguish Chloe's need for the intimacy satisfied by sitting on laps, driven by the 
 paranoia of adults who are packing a huge load of their own issues stemming from their own childhood betrayals. Donna 
-is an extremist. Delivering rigidity to her is 
+is an extremist. Delivering rigidity.
+
+</div>
 
 If the Mairs screw up, do not imply I am anyone but the guy ready to care for the child. 
 
@@ -1787,6 +1806,8 @@ who swam all last summer with me while her mom cheered from the shore, loses mor
 the past, loses more of the reassuring comfort I've always provided, loses the continuity her mother and i fought for
 , and i still fight for.
 
+<div id='ranty'>
+
 Today I shopped for child suspenders.
 
 Do not let their underperformance harm her relationship with me.
@@ -1800,6 +1821,8 @@ So we hear lots of rumblings, but never any smoking gun, about my alleged sexual
 We see extremists getting their way through badgering, judicial abuse, underperformance, and lots and lots of "there'
 s a crisis!" handwaving. When you take something from Chloe because Donna can't handle simple details, Chloe loses. 
 Why not ask me to provide suspenders first?
+
+</div>
 
 Your organization may be asked soon to evaluate my parental skill. Surely that could include documentation of all the 
 ways I compensate for Donna's pattern of failures (like providing child suspenders). At least give me that option 
@@ -1834,6 +1857,8 @@ in process. Emily and I call this "time in" and it works.
 I have completed the information release forms I received via US Mail on Monday, except for one document. I currently 
 reside with my brother and his daughter Epona, who is 13. I will need to prepare another authorization form for her.
 
+<div id='history'>
+
 I moved to my brother's home when Emily died and Chloe was taken because he is uniquely qualified to help me at this 
 time. Last year he married in a fun wedding Chloe and I attended. Four months later his wife died suddenly. At the 
 same time, the mother of his daughter produced an enormous, disingenuous, and unsuccessful case for custody opposing 
@@ -1843,7 +1868,11 @@ court and G.A.L. ultimately rejected.
 I consider the resemblance between my year and my brother's 2013 to be uncanny, as I hope you will soon understand. 
 In fact his child's mother recently mentioned me in a new declaration seeking custody by claiming neglect of Epona. 
 Though she is barred from meeting secretly with Epona, she included pictures from secret meetings. She also asserted 
-that I might be responsible for Emily's injury. (I gave Emily brain cancer?) Based on her past behaviors and this 
+that I might be responsible for Emily's injury. (I gave Emily brain cancer?) 
+
+</div>
+
+Based on her past behaviors and this 
 reference to me in a new declaration, we speculate that she's the so-called "friend" reporting to C.P.S. Time will 
 tell.
 
@@ -1900,6 +1929,9 @@ Story In sand sculptures: "the queen died and the castle fell on the king and th
 
 ==== STATEMENTS OF CHLOE MURPHY
 
+
+<div id='spitball'>
+
 You now have strong evidence that I've never sexually abused Chloe or any child. Out of necessity, with a wisp of new 
 details in their quiver, the intervenors pivot to a brand new thesis: That I'm violent or threatening. I know my life 
 story. I know I've never hit anyone, never fired a gun, and never threatened anyone with harm. Since I've never done 
@@ -1920,9 +1952,6 @@ declaration of Emily Murphy, over 150 pages of observational reporting prepared 
 the state's leading expert on people who hurt children with abusive sexuality, and a polygraph from a leading 
 specialist in the field. 
 
-How do you wish and choose to appraise me? What does the preponderance of evidence show to be my nature and character
-? And what is merely a detail, tiny and contradictory against the norm? 
-
 Willful misinterpretation is at the heart of both the Intervenor's case and their family psychology. I've seen over 
 decades how Donna Mairs and Darin Murphy fixate on a single detail amidst a sea of details that contradict it. It's 
 how they lie without technically lying. It's psychological abuse based on wrong-headed perfectionism designed to 
@@ -1931,6 +1960,11 @@ interacting with children. I watched their 4 daughters experience withering crit
 a single detail. I watched them cry as children, feeling ashamed and helpless merely because Donna or Darin built a 
 severely critical interaction based on a single detail of imperfection or error. I watched them abuse their daughters
 . And I watched what this behavior did to their daughters' self-esteem. Emily insisted this pattern stop with Chloe.
+
+</div>
+
+How do you wish and choose to appraise me? What does the preponderance of evidence show to be my nature and character
+? And what is merely a detail, tiny and contradictory against the norm? 
 
 The iconography of conflict.
 
