@@ -48,9 +48,15 @@ insert: ref/group_health.md may29
 
 ![](img/jun20_14.png)
 
+
+
 Basically it's never OK to mess with a kid's head like that.
 
+
+
 insert: background.md 2014post
+
+
 
 ### July 21, 2014
 

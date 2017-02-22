@@ -1222,6 +1222,7 @@ Darin invited me to move into his home along with Emily and Chloe.
 </div>
 
 <div id='2014post'>
+
 Alienation effort against my family
 -----------------------------------
 
@@ -1712,6 +1713,9 @@ height="2.8645833333333335in"}
 Mexico Travel 1: April & May, 2009
 ----------------------------------
 
+
+<div id='pre-em-mexico'>
+
 -   Invitation: I hadn’t been in close contact with Darin in 2009, but I
     must have written about something, and he invited me to
     Melissa’s wedding. At that wedding I saw Emily, and saw Emily’s
@@ -1752,6 +1756,7 @@ Mexico Travel 1: April & May, 2009
 
 -   **April 20:** I start falling for Emily. She has terrible allergies.
 
+
 -   Trip Details: During that trip, I stayed in Darin’s duplex home,
     along with Melissa and Rob (on their honeymoon). Then Emily and
     Chloe arrived, and Melissa and Rob went somewhere else. Then Jenny
@@ -1770,13 +1775,16 @@ Mexico Travel 1: April & May, 2009
     photos, including photos taken on Darin’s camera and my own. These
     photo essays are still available.
 
-![](img/noise/bg/image21.jpeg){width="3.6245570866141734in"
-height="4.344827209098862in"}\
-\
+
+## Open Air Pickup
+
+
+![](img/noise/bg/image21.jpeg)
+
 I rode with Juan Pablo and Hugo in the back of a pickup to the ATV
 corral.
 
-![](img/noise/bg/image22.png){width="6.520833333333333in" height="3.78125in"}
+![](img/noise/bg/image22.png)
 
 Fatima and Chloe. This is a partial canopy on a flat-bed pickup. Darin
 drove us everywhere.
@@ -1799,9 +1807,9 @@ murdered in prison, and his family suspected Mario’s family, until
 someone became a godfather, and Darin set up running water for the
 family who lost their son.
 
-### ATV Offroading\
-![](img/noise/bg/image23.jpeg){width="2.741379046369204in" height="4.3844520997375325in"}\
-\
+### ATV Offroading
+
+![](img/noise/bg/image23.jpeg)
 
 This was a few days before Emily arrived. The backstreets of the city
 are dusty, and we had to cover up. While gunning through the dusty
@@ -1810,29 +1818,30 @@ Mexicans! Some of them pushed ice cream carts. My 4-wheeler did not have
 functioning brakes. Fun! At the top of the hillside we all stopped for
 snacks and looked out over the city.
 
--   Some in my family were offended when I was omitted from
-    Emily’s obituary. But who took the picture of Emily in the obituary?
-    I did.\
-    \
-    ![](img/noise/bg/image24.jpeg){width="3.6835772090988628in"
-    height="2.755604768153981in"}\
-    \
-    \
-    Mario and Soledad are Mariela’s parents. They never were officially
-    married, until April 18^th^, 2009. I believe this is the day Darin
-    spanked Chloe, age 22 months. I took these pictures of their
-    wedding, using Darin’s camera. The ceremony was May 2^nd^ while the
-    official wedding was April 18^th^. I took these photos, aren’t they
-    nice?
+Some in my family were offended when I was omitted from
+Emily’s obituary. But who took the picture of Emily in the obituary?
+I did.
 
-    ![](img/noise/bg/image25.jpeg){width="3.896599956255468in"
-    height="2.425890201224847in"}\
-    \
-    ![](img/noise/bg/image26.jpeg){width="3.8535050306211724in"
-    height="2.896551837270341in"}
+![](img/noise/bg/image24.jpeg)
+
+Mario and Soledad are Mariela’s parents. They never were officially
+married, until April 18^th^, 2009. I believe this is the day Darin
+spanked Chloe, age 22 months. I took these pictures of their
+wedding, using Darin’s camera. The ceremony was May 2^nd^ while the
+official wedding was April 18^th^. I took these photos, aren’t they
+nice?
+
+![](img/noise/bg/image25.jpeg)
+
+![](img/noise/bg/image26.jpeg)
+
+</div>
+
 
 Mexico Travel 2: Two or more weeks in June, 2010
 ------------------------------------------------
+
+<div id='10jun-mex'>
 
 Invitation: As you might gather from his web site, Darin was trying to
 start an “organic, in-town, real Mexico” tourist service. Mariela had a
@@ -1845,41 +1854,39 @@ knock-off, starring Emily. This is where I taught Chloe to swim. Darin
 stayed near Mariela’s family, with Candace and Candace’s (step?-)sister.
 We called that place The Hacienda.
 
-![](img/noise/bg/image27.jpeg){width="2.8054997812773403in"
-height="2.741379046369204in"}
+![](img/noise/bg/image27.jpeg)
 
 Oh Frida!
 
-![](img/noise/bg/image28.png){width="3.4482753718285215in"
-height="3.294430227471566in"}\
-![](img/noise/bg/image29.png){width="3.5172419072615924in"
-height="3.571353893263342in"}
+![](img/noise/bg/image28.png)
+
+![](img/noise/bg/image29.png)
 
 Chloe’s 3^rd^ birthday. I’m pretty sure I paid for at least half of that
 bouncy castle, and at least half of that piñata!
 
 I had an idea to rent a boat and go visit some rocks. We didn’t get to
-sail but it was fun.\
-\
-\
-![](img/noise/bg/image30.png){width="4.2374343832021in"
-height="2.620690069991251in"}
+sail but it was fun.
 
-![](img/noise/bg/image31.jpeg){width="5.729166666666667in"
-height="4.291666666666667in"}\
+![](img/noise/bg/image30.png)
+
+![](img/noise/bg/image31.jpeg)
+
 Emily, with child sex attacker Brian Herrington’s bald head. Jenny, and
-Candace Zygar’s half-sister.\
+Candace Zygar’s half-sister.
+
 Darin made Hugo, his fireman friend, a really strong lemondrop, and Hugo
 got sick. Later that week, Hugo drove Emily, Chloe, and me to Las Palmas
 and we rappelled off an old bridge there. Below was a river with water
 like a bath, and we had a swimming picnic.
 
-![](img/noise/bg/image32.jpeg){width="6.83125in"
-height="5.116666666666666in"}
+![](img/noise/bg/image32.jpeg)
 
 Solidad, Mariela’s mom, brought us a cooked chicken. Las Palmas is a
 clean, pretty town with boys on horses and the largest hat we've seen so
 far. We had popsickles there. Mine was lime.
+
+</div>
 
 Mexico Travel 3: December 2012
 ------------------------------

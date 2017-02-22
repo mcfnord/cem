@@ -2,6 +2,9 @@ insert: background.md darin-early
 
 # See Mexico Genesis
 
+insert: background.md pre-em-mexico
+
+
 ### Apr. 17th, 2009 
 
 We all played (sing, dance, clay, climb) with little Chloe 
@@ -25,25 +28,35 @@ boys, lip gloss for the girls. I think we're going to the
 carnival later, with bumper cars and such. Carnivals, 
 circuses, and clowns are huge deals here.
 
-I spent some quality time with Chloe, who is almost 2. I convinced her that I don't accept squirming or 
-bossing around, and apparently she believed me today. Funny to watch her realize she's not gonna get 
-away with the same old games. It helps that she's tired. Together we explored the house and danced with 
-the chicas on the sidewalk. I was happy to re-capture the same sort of pleasant grownup-child vibe I 
-used to have. We bonded. It requires knowing my power is strong, sincere, just, and clear, and then just 
-Offering The Groovy, and being comfortable at her speed and in her vibe. Once you get into the kid's 
-vibe, the rest is easy. I am happy I am not the daddy with actual binding responsibilities here, because 
-her Terrible Twos have begun. But I think I could handle a year of war with a 2-year-old, without 
-turning into a cranky tyrant. So long as I had some help. That's where Mexico far outperforms America. 
-The whole block is friends, or related. The kids are always under someone's eye and care. In America, 
-we've screwed up, going independent and individual to a fault.
+I spent some quality time with Chloe, who is almost 2. I 
+convinced her that I don't accept squirming or bossing around, 
+and apparently she believed me today. Funny to watch her realize 
+she's not gonna get away with the same old games. It helps that 
+she's tired. Together we explored the house and danced with the 
+chicas on the sidewalk. I was happy to re-capture the same sort 
+of pleasant grownup-child vibe I used to have. We bonded. It 
+requires knowing my power is strong, sincere, just, and clear, 
+and then just Offering The Groovy, and being comfortable at her 
+speed and in her vibe. Once you get into the kid's vibe, the 
+rest is easy. I am happy I am not the daddy with actual binding 
+responsibilities here, because her Terrible Twos have begun. But 
+I think I could handle a year of war with a 2-year-old, without 
+turning into a cranky tyrant. So long as I had some help. That's 
+where Mexico far outperforms America. The whole block is 
+friends, or related. The kids are always under someone's eye and 
+care. In America, we've screwed up, going independent and 
+individual to a fault.
 
 Chloe is a fanatic for dancing. As are these Mexicans.
 
-The girls (four 9-year-olds) love Chloe. They dote on her and take her all 
-around the block. They prevent her from running into the street. I figure she's 
-as safe as a Mexican child. Which is not that safe but so be it. It takes 
-hundreds of rides in a pickup flatbed before you actually fall out, probably, 
-on average.
+The girls (four 9-year-olds) love Chloe. They dote on her and 
+take her all around the block. They prevent her from running 
+into the street. I figure she's as safe as a Mexican child. 
+Which is not that safe but so be it. It takes hundreds of rides 
+in a pickup flatbed before you actually fall out, probably, on 
+average.
+
+
 
 
 ###   Apr. 19th, 2009
@@ -53,41 +66,102 @@ on average.
 
 We piled kids into the truck to hit up the carnival.
 
+
 ![](img/clowncar.jpg)
+
 
 The days are just packed. It takes a toll on a girl.
 
+
 ![](img/babysleepin.jpg)
+
 
 Emily liked this picture.
 
 
 ###    Apr. 20th, 2009
 
-With Emily and Jenny, showed them funny YouTubes, and we talked for hours.
+With Emily and Jenny, showed them funny YouTubes, and we talked 
+for hours.
 
-Emily and Chloe and I ran around throwing my hat. Chloe didn't really have that much fun... she is so kinda wiggy, running away. And I didn't feel so real as anyone's closest friend, awkward and hot. But I used many words, and played many games with the girl, and it was the best fun I had in years, which says much about the years. I tried to teach her what shade is, and what sun is, and how it's cool in the shade.
+Emily and Chloe and I ran around throwing my hat. Chloe didn't 
+really have that much fun... she is so kinda wiggy, running 
+away. And I didn't feel so real as anyone's closest friend, 
+awkward and hot. But I used many words, and played many games 
+with the girl, and it was the best fun I had in years, which 
+says much about the years. I tried to teach her what shade is, 
+and what sun is, and how it's cool in the shade.
 
-I told Emily I'm attracted to her. And her daughter is also fun, not even two, all shrieking and barely knowing words. she adores me now, as i heard the birds with her, saw the flowers, played with her without stop for an hour, let her pet the porcelain dog.
+I told Emily I'm attracted to her. And her daughter is also fun, 
+not even two, all shrieking and barely knowing words. she adores 
+me now, as i heard the birds with her, saw the flowers, played 
+with her without stop for an hour, let her pet the porcelain 
+dog.
 
-I aced the interview. Then I hugged Emily, and she cheered sweetly for me, and we played with Chloe. And it was the greatest hour of my recent life, playing with Chloe, even though she takes a lot of focused energy. I've seen a lot of stuff, but I haven't seen a little baby in a while. She learns every word and I am the writer with the words. I don't want to feel awkward around Emily by making a bad move, because I am not over Akiko, and that's obvious. I think of being with Akiko's child and I forget about Chloe. Which means I'm trapped. But the thought passes, and I just feel sadder than normal for a moment, that she is not mine.
+I aced the interview. Then I hugged Emily, and she cheered 
+sweetly for me, and we played with Chloe. And it was the 
+greatest hour of my recent life, playing with Chloe, even though 
+she takes a lot of focused energy. I've seen a lot of stuff, but 
+I haven't seen a little baby in a while. She learns every word 
+and I am the writer with the words. I don't want to feel awkward 
+around Emily by making a bad move, because I am not over Akiko, 
+and that's obvious. I think of being with Akiko's child and I 
+forget about Chloe. Which means I'm trapped. But the thought 
+passes, and I just feel sadder than normal for a moment, that 
+she is not mine.
 
-I hear birds sing, see flowers, make a picnic of a pack of cheese, and I'll do it with my family. But I hardly know Emily, and don't want to freak her out. Like her father, I'm reserved, cautious, and nervous. In the sun I touched her tattoo for five minutes, of Chloe's name around a shamrock. I told her I'm attracted to her. Last night in the haunted house I wanted to turn on her in the dark and say, "Oh, God, those aren't my hands!" but I'm a big safety wimp in the dark so i just led her by her fingertips, screaming through the haunted house. I really get shy and nervous sometimes.
+I hear birds sing, see flowers, make a picnic of a pack of 
+cheese, and I'll do it with my family. But I hardly know Emily, 
+and don't want to freak her out. Like her father, I'm reserved, 
+cautious, and nervous. In the sun I touched her tattoo for five 
+minutes, of Chloe's name around a shamrock. I told her I'm 
+attracted to her. Last night in the haunted house I wanted to 
+turn on her in the dark and say, "Oh, God, those aren't my 
+hands!" but I'm a big safety wimp in the dark so i just led her 
+by her fingertips, screaming through the haunted house. I really 
+get shy and nervous sometimes.
 
-**Update:** We walked to the tacoria, hopping between shades of trees on a quiet family street. At the tacoria, the man and I haggled and we ate. I tipped him very well ($100 pesos on about a $80 peso meal, plus a $5 US) and he called me his friend. I could tell my meager Spanish was appreciated. So was his taste in music, and his comfortable corner open air location, an oasis near my home. The drinks he offered me were Insane Sugarbombs, and I gracefully declined. He also pitched some sugar for the baby, but I dodged. And he pitched some beans and chips, but I dodged that, too. I raved about the music because he's got great tracks playing. Covers of famous 80's tunes in lounge? Greensleaves? The guy is on for any dude.
+**Update:** We walked to the tacoria, hopping between shades of 
+trees on a quiet family street. At the tacoria, the man and I 
+haggled and we ate. I tipped him very well ($100 pesos on about 
+a $80 peso meal, plus a $5 US) and he called me his friend. I 
+could tell my meager Spanish was appreciated. So was his taste 
+in music, and his comfortable corner open air location, an oasis 
+near my home. The drinks he offered me were Insane Sugarbombs, 
+and I gracefully declined. He also pitched some sugar for the 
+baby, but I dodged. And he pitched some beans and chips, but I 
+dodged that, too. I raved about the music because he's got great 
+tracks playing. Covers of famous 80's tunes in lounge? 
+Greensleaves? The guy is on for any dude.
 
-After we came home, I played with Chloe for an hour until she fell asleep. Emily laid on my arm a while and that was sweet.
+After we came home, I played with Chloe for an hour until she 
+fell asleep. Emily laid on my arm a while and that was sweet.
 
-Chloe is so rebellious. Her pressure to run free is constant. She wants to run free and shriek like a banshee, and it's just not possible, so we kinda battle her will a lot, and it's only because I'm highly amused with the job that I keep it up an hour if necessary, until she chills out and can relax in the hot Mexico sun. I'm really sensitive to temperature       myself so I know how to stay cool... she sorta gets it, hot sun, shade, sun hat, but not quite yet.
+Chloe is so rebellious. Her pressure to run free is constant. 
+She wants to run free and shriek like a banshee, and it's just 
+not possible, so we kinda battle her will a lot, and it's only 
+because I'm highly amused with the job that I keep it up an hour 
+if necessary, until she chills out and can relax in the hot 
+Mexico sun. I'm really sensitive to temperature myself so I know 
+how to stay cool... she sorta gets it, hot sun, shade, sun hat, 
+but not quite yet.
 
-Emily was a career marine (8 years) until she got ill. Now she's recovering and going to school. She's really pretty, with raven eyes and hair.
+Emily was a career marine (8 years) until she got ill. Now she's 
+recovering and going to school. She's really pretty, with raven 
+eyes and hair.
 
 
 ###    Apr. 21st, 2009
 
-Chloe, Emily and I went to the park, where we rode on the swing, and the teeter-totter. Then we bought delicious chicken tacos, fresh-squeezed orange juice, and cheesecake. Chloe locked herself in the bedroom and fell asleep, but we found a way in before she woke up.
+Chloe, Emily and I went to the park, where we rode on the swing, 
+and the teeter-totter. Then we bought delicious chicken tacos, 
+fresh-squeezed orange juice, and cheesecake. Chloe locked 
+herself in the bedroom and fell asleep, but we found a way in 
+before she woke up.
 
-I made a slide show with adorable cats that Chloe seeks out, watches, and calms down and says, "Oh, cute!" We call it "Chloe crack".
+I made a slide show with adorable cats that Chloe seeks out, 
+watches, and calms down and says, "Oh, cute!" We call it "Chloe 
+crack".
 
 ![](img/ckckck.gif)
 
@@ -188,8 +262,11 @@ The big surprise was a horse gone wild galloping up the street. Everyone ran to 
 
 **Dawn responds:**
 
-Beautiful pictures. You have a peace and confidence in your eyes that I haven't seen in awhile. Nice. Lots of love. 
+Beautiful pictures. You have a peace and confidence in your eyes 
+that I haven't seen in awhile. Nice. Lots of love.
 
+
+# See Seattle Together
 
 ### May. 9th, 2009
 
@@ -539,6 +616,7 @@ Loveyou,
 Emily Rose
 
 
+# See Return to Mexico
 
 
 ### Jun. 13th, 2010
@@ -546,9 +624,9 @@ Emily Rose
 the child rapist is on my living room floor. he gave me the creeps from the first moment. he's got a new computer, his first laptop. he's never here, he's always there. disappeared. he's all twisted with regard to protocol, proper levels of control. his girlfriend danced in my kitchen and it flipped him out a little. meanwhile i busted moves with all three the girls. he's a bit afraid of the wild beyond. perhaps it is where he wants to rape children. and perhaps he knows he can't go there. wish as he may. perhaps on a computer, perhaps in a foreign country. everyone's been universally grim about the upside, and they're right. he won't be in my apartment. he'll be down the street somewhere. he better be present and accounted for. he better not have ideas about anything "easier" in mexico.
 
 
-### Jun. 17th, 2010 
+insert: background.md 10jun-mex
 
-![](img/tentz.jpg)
+### Jun. 17th, 2010 
 
 ![](img/haci.jpg)
 
@@ -630,14 +708,24 @@ surprise birthday fiesta
 
 ###    Jul. 10th, 2010 
 
-Chloe was crying at the door, stepped to me and fell forward, fell to the floor together, fell asleep on my arm. We all laid on the floor, in front of the fan. We ate bbq turkey burgers. She said she missed me. She said would I help her go pee, and I said she's 3, she can do it, so in defiance, for the first time, she dropped her pants and peed on my deck. Then we played with a bucket of ice. She was afraid of the new hammock. Some girls get stuff by crying, but some girls get stuff by trying, so I taunted her from the cozy hammock, until she tried grabbing the frame and climbing up. So it turns out this half-moon "teardrop" hammock shape is ideal for her to climb all over my head and shoulders, more like a spider than a monkey. I made her wait until it was dark to watch Kipper meet a ghost. Then she said I'm beautiful, 4 times. At bedtime, she wanted what seemed to be open-mouth kisses. Um. NO YER BEAUTIFUL LITTLE ONE.
+Chloe was crying at the door, stepped to me and fell forward, fell to the floor together, fell asleep on my arm. We all laid on the floor, 
+in front of the fan. We ate bbq turkey burgers. She said she missed me. She said would I help her go pee, and I said she's 3, she can do 
+it, so in defiance, for the first time, she dropped her pants and peed on my deck. Then we played with a bucket of ice. She was afraid of 
+the new hammock. Some girls get stuff by crying, but some girls get stuff by trying, so I taunted her from the cozy hammock, until she 
+tried grabbing the frame and climbing up. So it turns out this half-moon "teardrop" hammock shape is ideal for her to climb all over my 
+head and shoulders, more like a spider than a monkey. I made her wait until it was dark to watch Kipper meet a ghost. Then she said I'm 
+beautiful, 4 times. At bedtime, she wanted what seemed to be open-mouth kisses. Um. NO YER BEAUTIFUL LITTLE ONE.
 
 ![](img/pushoff.gif) 
 
 
+# See Chloe Burrito
+
 ###    Jul. 27th, 2010
 
-Usually on Friday night, we battle Chloe to sleep (it's not that hard). She sleeps super-heavy on the bean bag by my bed. She'd climb on Mom who was by me and declare "Let's make a burrito!" So adventuresome. "Let's make a burrito!" That's when we are all squished together. Whoever is in the middle is the burrito. "Chloe burrito! Mommy burrito!"
+Usually on Friday night, we battle Chloe to sleep (it's not that hard). She sleeps super-heavy on the bean bag by my bed. She'd climb on 
+Mom who was by me and declare "Let's make a burrito!" So adventuresome. "Let's make a burrito!" That's when we are all squished together. 
+Whoever is in the middle is the burrito. "Chloe burrito! Mommy burrito!"
 
 ![](img/wmhippv.gif) 
 
@@ -873,6 +961,8 @@ CHOCOLATE COINS, MAGIC WAND, CRAYONS, POP ROCKS, A CANDY PHONE, BRACELET, FANCY 
 
 New Year's Eve at Jeremy's, with a man playing a keyboard you blow into, Chloe on kazoo. Later, years later, Chloe would remember the glowing finger party favors she saw at this party. 
 
+# See 2011
+
 ###    Jan. 2nd, 2011 
 
 Emily says I don't love her, and she's jealous of the fun I have with Chloe. I'm jealous of the time Emily has had with Chloe. I paid $120 to pick Chloe up at 4am in a taxi, so she could spend New Year's with me. Emily is jealous I'd do that (even though she was invited). I didn't want to be alone. Emily had some other party to go to. Children evoke passion so adults will meet their needs. I guess we can all feel jealous of that love.
@@ -1002,6 +1092,8 @@ I miss Chloe so bad sometimes. I just wish she could be here. I know she will be
 
 
 those plump nobby rubber fingers each wobbled independently. it was kind of ghoulish and hilarious both
+
+![](img/tentz.jpg)
 
 
 
@@ -1134,6 +1226,7 @@ this dream is about identity and authenticity but i can't remember the legendary
 
 insert: background.md rapist
 
+# Birthday 2011
 
 ### Jul. 6th, 2011
 
