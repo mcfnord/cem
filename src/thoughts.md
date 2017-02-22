@@ -1,10 +1,6 @@
-## Sit down
-
 ### Raw dog
 
 insert: estate.md raw
-
-### And another thing: Fuck Sarah
 
 insert: estate.md f-sarah
 
@@ -19,6 +15,8 @@ insert: estate.md ranty
 insert: estate.md history
 
 insert: estate.md spitball
+
+insert: estate.md blah
 
 ## Joyce Robson
 
@@ -40,4 +38,5 @@ John Sterbick had done some legal work for John Dempsey years ago. In the presen
 ## Jeris Underwood
 
 Jeris Underwood is John Sterbick's paralegal. (There is some odd connection between Jeris Underwood and John Dempsey's mother; Underwood was named after her but I do not believe that Underwood knows the Dempsey family.) Jeris signed a declaration regarding her observations of Emily Murphy, and will testify that Emily was competent and clear with respect to wanting John Dempsey to have custody of Chloe.
+
 
