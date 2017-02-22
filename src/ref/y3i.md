@@ -1,6 +1,103 @@
-insert: background.md 2014pre2
+﻿insert: background.md 2014pre2
 
 insert: background.md 2013ish
+
+
+## IN THE SUPERIOR COURT FOR THE STATE OF WASHINGTON
+ 
+### IN AND FOR THE COUNTY OF PIERCE
+
+Respondent Emily Murphy: Visitation should be as follows:
+
+The petitioner, respondent Emily Murphy and the child 	reside together in Pierce County, Washington.
+
+There should be no change in respondent Emily Murphy's 	visitation and contact with the child.
+		
+Respondent Kyle Coker:  Parental visitation should be limited because respondent Kyle Coker has engaged in the conduct which follows:
+
+Willful abandonment that continues for an extended 
+period of time or substantial refusal to perform 
+parenting functions.
+	
+Respondent Kyle Coker has not seen the child since she was an infant and, with the exception of paying child support, has had no involvement with her.
+
+Respondent, Kyle Coker, has never had physical custody of 
+the child.  
+
+Respondent Kyle Coker is not a suitable custodian for the 
+child because he has had no contact with the child since she 
+was an infant, is not bonded with the child nor familiar 
+with her ongoing needs.
+
+Respondent Kyle Coker resides in the state of Florida.
+
+The child has resided in the state of Washington for several 
+years, and there is substantial evidence available in this 
+state concerning the child's care, protection, training and 
+personal relationships.
+
+Respondent Emily Murphy, the child's mother, has been a 
+suitable parent until recently.
+
+Respondent Emily Murphy has developed significant health 
+issues that prevent her from properly caring for the child 
+or being a suitable custodian for her.
+
+Respondent Emily Murphy's health issues are imminent and 
+terminal.
+
+Petitioner is Emily Murphy's significant other.
+
+Petitioner has been surrogate father for the child for 
+several years, and is closely bonded with her. 
+
+The child is close to the petitioner and calls him "Dad."
+
+Petitioner performs the majority of the parenting functions 
+for the child and provides for the child, and is willing to 
+continue to do so.
+
+Respondent Emily Murphy asked the petitioner to file 
+a related adoption petition and has joined in this petition 
+in order to ensure that the child is protected, that the 
+child's needs are met and that the child has the stability 
+and continuity that she will need in the event of her 
+mother's death.
+		
+### Best Interest of the Child
+
+The requests made in this petition are in the best interests of the child because:
+
+The child has no relationship with respondent Kyle Coker.
+
+The petitioner and respondent Emily Murphy began dating when the child was not quite two years old.
+
+At the time petitioner and respondent Emily Murphy began dating, petitioner formed a strong relationship with the child.
+
+Since that time the petitioner and the child have seen each other on a regular basis.
+
+There was a lapse in time when the petitioner and respondent Emily Murphy were not dating, however, the petitioner's visitation and contact with the child continued throughout that time.
+
+Respondent Emily Murphy has a terminal illness that has recently worsened to the point that she can no longer properly care for the child.
+
+In December 2013, the petitioner, the respondent Emily Murphy and the child began living together, and the petitioner assumed the majority of parenting functions associated with raising the child.
+
+The child calls the petitioner "Dad" and is closely bonded with him.
+
+The petitioner loves the child as if she were his own child, and is willing and able to provide for her.  
+
+Due to the uncertainty of respondent Emily Murphy's medical status, the child needs the continued support and security which the petitioner has provided and can provide for her, and is more than willing to do so.
+ 
+The child's mother, respondent Emily Murphy, believes that 	
+it is in the child's best interest for petitioner to adopt 	
+the child or, at a minimum, to be the 	child's legal 
+custodian or guardian.
+
+COUNSELL, MURPHY & COX, P.S.  
+J. Alece Cox, WSBA #13460  
+Of Attorneys for Petitioner
+			
+I, Emily R. Murphy, join in the above petition.  I understand that by joining in the petition, a decree or judgment and order may be entered in accordance with the relief requested in the petition unless, prior to the entry of the decree or judgment and order, a response is filed and served.
 
 ## Bettina is a tool
 
@@ -40,9 +137,66 @@ Emily is not likely to have a seizure, but during a seizure, hold her and assure
 
 If the room gets hot, open the window completely for a while. (Remove the stick that blocks it shut.)
 
+### MOTION
+
+Order that John Dempsey, the petitioner herein, by 
+authorized to access the child's school and medical records, 
+and to consent to any educational programs on behalf of the 
+child and to any medical treatment that the child may need, 
+including obtaining current immunizations for her and 
+registering/enrolling the child in camps and therapy 
+programs.
+
+Respondent Kyle Coker should also be required to appear 
+and show cause why the court should not enter a temporary 
+order which:
+
+Grants the petitioner custody of the following 	child:  Chloe Murphy.
+	
+John R. Dempsey states:
+
+I am the petitioner in this nonparental custody action.  	
+Respondent Emily Murphy is my significant other.  The minor 	child, Chloe Murphy, is Emily's daughter.  Respondent Kyle 	
+Coker is Chloe's father.
+
+I am Chloe Murphy's surrogate father. I have known Chloe since she was almost two years old. Chloe is now six. She calls me "Dad."  
+
+Emily Murphy and I have been in a relationship for several years.  Emily has terminal brain cancer. We recently moved in together so that I could assist with Emily's care and take care of Chloe.  Our plan is for me to take care of Chloe after Emily passes away.
+
+Emily has consented to my request to adopt Chloe, and joined in my petition to obtain custody of her. Additionally, Emily signed a power of attorney for health care (Exhibit "A" hereto) in which she designated me as guardian for Chloe and authorized me to make health care decisions for Chloe.
+
+Kyle Coker is Chloe's father. He lives in Florida, and has not seen Chloe since she was an infant.  Like Emily, Mr. Coker signed a written consent for me to adopt Chloe.
+
+Issues developed in the adoption case when one of Emily's family members alleged that I had sexually abused Chloe.  I steadfastly deny all such allegations. Emily denied the allegations. Child Protective Services investigated and determined that the allegations were unfounded. I have requested a full copy of CPS' records and will provide those to the Court upon receipt. Nevertheless, the adoption has not been finalized.
+
+Due to concerns about Emily's continued ability to care for Chloe, I commenced this action so that I could obtain legal custody of Chloe.  Emily joined in the petition.  Mr. Coker has been served, yet has not filed a response. I believe that he is concerned about having to pay child support.  
+
+Emily receives HOSPICE care in our apartment. Her condition has worsened. Emily is fighting hard against the cancer, but she is close to being incapacitated. 
+
+Emily can no longer actively participate in raising Chloe. I perform all of the parenting functions for Chloe. I take Chloe to and from school. I make sure that Chloe goes to Bridges and Gilda's Club therapy programs for bereavement and cancer support. I talk with counselors, therapists and social workers to understand Chloe's needs. I ensure that Chloe is fed, dressed and that her other needs are met.
+
+I am at the point that I need legal authority to take care of Chloe.  I am concerned that Emily's designation of me as guardian for Chloe is not sufficient. By way of example, Chloe would benefit from attending the Gilda cancer camp this summer and needs updated immunizations to do so.  At a minimum I cannot enroll Chloe in the camp.  
+
+Chloe is only six years old.  She needs continued the stability that I have provided for her, especially given the pending loss of her mother.  Ex parte restraining orders are 
+necessary in order to maintain the status quo and to provide the greatest protection to Chloe. 
+
+
 insert: ref/group_health.md may29
 
 # See Death
+
+
+## June 2, 2014
+
+Emily had died some hours earlier and my wife, Pat, and I drove my son John Dempsey to visit Emily's remains at the home of Darin Murphy in Ruston.  Emily's remains were in bed in a small room off the living room and after viewing the remains Pat suggested we give the two of them some time alone.
+Darin said, "Sure we can talk out on the porch."  We all went out to the porch where we stood silently for about 20 min. watching the neighbor’s construction project and doing very little talking.  After about 20 min. of standing there, I looked at Pat and said, ”Perhaps somebody should go in and check on John."
+
+Darin immediately folded his arms across his chest, bowed his neck and said, "I wish you wouldn't!"  The move was sudden.  The anger was real and we both looked at him like he had totally slipped over the edge.  He seemed to realize that he had somehow been inappropriate and he immediately began shaking his head and saying, "That's not what I meant.  We continued to look at him as if he were plainly nuts and I said,  “It's your house you can do whatever you want to."
+
+The environment was charged with tension as we waited and after a couple of minutes he finally said, "Yes, why don't you go and check on John?"  Pat went back into the house and a couple of minutes later appeared with John we walked to the car and left.
+
+I would suggest anyone dealing with Darin Murphy treat him with the utmost respect as he is volatile and appears perpetually angry.  I have known subject Murphy since we operated separate electronic bulletin board systems in the 1980’s.   Herb Dempsey (former owner of MASTER CONTROL)
+
 
 ### June 20, 2014
 
@@ -67,6 +221,84 @@ insert: background.md 2014post
 ![](img/howard_says.png)
 
 insert: background.md 14sep2
+
+
+
+
+
+## IN THE SUPERIOR COURT FOR THE STATE OF WASHINGTON
+
+Wherein Kyle lies:
+
+1.13 Paragraph 1.13 is denied because Respondent Kyle Coker is a
+suitable custodian for the child
+as he has repeatedly attempted to be an influential part of Chloe
+Murphy’s life but was
+prevented by the Respondent Emily Murphy.
+
+Petitioner John Dempsey’s performance of parental functions for the
+child were brought into
+questions repeatedly, thus resulting in several investigations by CPS.
+These investigations
+resulted in CPS contacting Respondent Kyle Coker for permission to
+remove Chloe Murphy
+out of John Dempsey’s care when it was determined that Respondent Emily
+Murphy no longer
+retained the mental faculties required to make a sound decision
+regarding the care and wellbeing
+of Chloe Murphy.
+
+Determination of Respondent Emily
+Murphy’s mental
+capabilities at the time of expressing a belief of Chloe Murphy’s future
+needs and requirements
+is under question. Furthermore such a statement is of personal opinion
+and cannot be entered as
+factual.
+
+Respondent Kyle Coker requests that he be found competent and capable as
+Guardian of Chloe E.
+Murphy, and that Chloe Murphy be place into Kyle Coker’s care.
+
+Respondent Kyle Coker further requests that John Dempsey have no further
+contact with the Child as he
+possesses a potential threat to her physical and mental wellbeing.
+
+**Respondent also requests that any and all monetary trusts or funds left
+to Chloe Murphy by her
+mother for any future requirements be place in a trust governed by the
+maternal grandparents, Donna Mairs and Darin Murphy.**
+
+*There you go, their plan to get the money and you, by turning Kyle into a hand puppet!*
+
+Temporary Custody of Chloe Murphy to Richard and Donna Mairs until such
+time as
+proper and permanent placement of the child can be determined.
+
+*"We'll get around to that part later!"*
+
+Termination of all forms of visitation and/or communication between
+Petitioner John Dempsey and Chloe Murphy.
+
+*All of the sudden, Kyle says he cares! Or is this Kyle at all? Just a puppet?*
+
+Allow full unrestricted visitation and communication rights between
+Respondent Kyle Coker and Chloe Murphy.
+
+*Kyle told the court he wants to communice with you. Did he?*
+
+Enter antiharassent Order for Protection protecting
+*Chloe Elizabeth Murphy* from *John R. Dempsey*.
+
+*Somehow, Kyle gets his shit together in Florida and talks sooo tough about separating Chloe and John. Or was this someone else, playing court games?*
+
+Signature of Respondent:
+*Kyle L.Coker*  
+*501 South West 75^th^ St. Unit A6 *  
+*Gainesville, FL 32607 *  
+
+
+
 
 # See 2015
 

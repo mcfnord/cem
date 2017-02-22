@@ -270,7 +270,11 @@ remember Erin.\
 2010-10-12 02:55:21\
 **Subject:** i dreamed about tom sellick last night\
 \
-![http://3.bp.blogspot.com/\_1xQeOPE9ePU/TLOQkdV0j-I/AAAAAAAAFVc/xZRBWlgJuCk/s320/getequalyacht.jpg](img/noise/fs/image1.jpeg){width="3.3361111111111112in"
+
+![](img/noise/fs/image1.jpeg)  
+
+
+{width="3.3361111111111112in"
 height="2.5in"}The three boats of protesters and media are now 500 feet
 from the shore at Alonzo Mourning's home, and are shouting on bullhorns
 with an extra strong speaker system, and are also [*broadcasting the
