@@ -993,6 +993,8 @@ considerations and parties.
 
 === QUESTIONS FOR TRACY
 
+<div id='blah'>
+
 I tried to persuade Emily to change Chloe's guardianship to Darin, rather than 
 Donna. I was naive about how messed up Darin is. Emily said, "I have to go with 
 my gut. Donna is better than Darin. If you don't like it, come change it. Come 
@@ -1223,6 +1225,9 @@ Very screwed up.
 
 You both can conclude that Emily was just wrong. That's a question you should 
 ask and answer.
+
+
+</div>
 
 Additional Sources
 In 2014, planning between Emily and me became verbal. In November, 2013, I 
