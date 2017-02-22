@@ -2,21 +2,11 @@
 
 * [Exciting top story](dtm_cop_lies.html)
 
-* [Did you know The Greatest?](ali2.html)
-
-![](img/fashionkiss.gif)
-
 * [What to say](tweet.html)
-
-* [How deep does this go?](y1x.html)
 
 ![](img/kvv.gif)
 
-* [Tell me what](one.html)
-
 * [blurry questions](bl.html)
-
-* [Find the Read... link. It's subversive!](http://murphy-dempsey.us/)
 
 Oh friends, not these tones!  
 Let us raise our voices in more  
