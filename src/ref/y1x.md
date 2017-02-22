@@ -1,4 +1,4 @@
-insert: background.md darin-early
+﻿insert: background.md darin-early
 
 # See Mexico Genesis
 
@@ -1340,6 +1340,7 @@ Take care,
 
 Emily 
 
+# See showing up
 
 insert: background.md 2012ish
 
