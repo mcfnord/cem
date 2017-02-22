@@ -204,6 +204,47 @@ Chloe is only six years old.  She needs continued the stability that I have prov
 necessary in order to maintain the status quo and to provide the greatest protection to Chloe. 
 
 
+
+## Wegleitner Disneyland Trip Report 
+
+### TRIP TO DISNEY
+
+We will be starting the trip to Disneyland at Anaheim, CA on 5-21-2014. Daryl Wegleitner will be the first driver during this trip. He will achieve adequate sleep time during the daytime hours on the 21st. The initial drive will commence at approximately 2300 (11pm) on 5-21-2014. This leg of the drive is approximately 8 hours long. Daryl will drive through the night on the start of the trip. Everyone else in the car will be asleep during this initial leg of the drive (8 hours). Bettina Wegleitner will drive the next leg (6 hours) during the day on the 22nd. Jeanette Tackett will drive after Bettina for the remainder of the trip and arrive at The Best Western Plus Raffles Inn & Suites, 2040 S Harbor Blvd, Anaheim, CA 92802 ((714) 750-6100) at approximately 1800(6pm) on the 22nd. Approximately 2 hours added to travel time for rest stops and food stops. 
+Entire Drive is listed at 17 hours, 14 minutes by Google Maps..
+
+### STAY AT DISNEY
+
+We will be staying at the Best Western Plus Raffles Inn & Suites on S Harbor BLVD in Anaheim, CA 92802 (more contact info above). The first night we intend to hang out at the hotel and recover from the drive and let the kids swim at the hotel swimming pool. We will be at the Disneyland Park from opening to closing (usually 6am to 10pm or 12am) every day from the morning of the 23rd to the evening of the 25th. Here is a link to the park schedule https://disneyland.disney.go.com/calendar/#/default/2014/05. Checkout from the hotel is on the 26th at noon however, we will probably call for a late checkout to let the kids play at the pool for a little bit to get them worn down for the long ride home.
+
+### TRIP HOME
+
+The trip home will begin at approximately 1800 (6pm) on the 26th. Jeanette will drive first for 6 hours (while Daryl sleeps), Daryl will take over at this point for 8 hours of night driving (Bettina and Jeannette sleep). Bettina will drive the remainder of the trip home after Daryl. We will arrive home at approximately 1300-1400 (1pm to 2 pm) on the 27th. We will drop Chloe M. off at the Murphy-Dempsey apartment first. 
+
+The children will each have wrist bands with name and emergency contact information (for the Wegleitner cell phone numbers) at all times while not spent in the hotel.
+This concludes the Wegleitner Disneyland Trip. Any questions, my contact is 253-720-3320
+
+Daryl Wegleitner
+
+
+### To Whom It May Concern:
+
+It’s all about Chloe.  My name is Pat.  I happen to be John Dempsey’s stepmother, but I am writing as a veteran, award-winning teacher who specialized in at-risk children.  During my 42 year career in education I always gravitated toward students who were outside the mainstream – who were at risk of failure in school.  Students with special needs are diverse.  Some are academically challenged.  Some are medically challenged.  And many are emotionally challenged.  Many fail to thrive.  Others exhibit amazing resilience despite having enormous challenges.  I want to talk about how children attain the resilience to succeed in school and in life, because...
+
+It’s all about Chloe.  It turns out those students who overcome many challenges and succeed in school and through adulthood possess some common characteristics.  Researchers coined the term resilience to describe the commonality of those who succeed in spite of difficult circumstances.  Resilience does not depend on IQ, nor does it depend on socio-economic status.  It does depend on positive and supportive relationships within the family.  The researchers conducted long-term studies that examined what factors create resistance to adversity and adaptation that leads to positive coping skills that are not possessed by others in similar situations.  
+
+It’s all about Chloe.  Families are formed through choice.  Biological choice is only one way to make a family.  Many families are formed through common bonds that support positive growth.  Resilience studies have shown that having a positive mentor to model coping skills and learning skills can be instrumental for a child’s success, particularly when the child faces adversity and loss that she does not understand.  A strong positive relationship is key to a family that grows closer over time.  Unconditional love and positive guidance cannot erase a tragedy, but it can be a mediating factor that allows healing over time. 
+
+It’s all about Chloe.  The strong, positive mentor (aka father figure) does not just monitor the basic needs of food, shelter, and safety.  The involvement of the mentor in the well-being of the child includes caring for the mind and its growth.  The mentor respects the child as a person, helps to motivate the child to work hard in school and shares interests and creativity with the child.  This does not mean the mentor is childish; rather, it means that the mentor has the ability to reach the child through understanding childlike behavior and thought processes.
+
+It’s all about Chloe.  Chloe has chosen John as her Dad (mentor) and I believe that choice should be respected.  She may have a traumatic event in her near future, and she needs all the support that her family members and friends can contribute.  She needs to know that she is not alone.  
+
+Sincerely yours,
+
+Pat Roberts-Dempsey, M. Ed., Ed.D., ABD
+1991 Washington State Teacher of the Year
+
+
+
 insert: ref/group_health.md may29
 
 # See Death
@@ -387,7 +428,23 @@ Signature of Respondent:
 
 # See 2015
 
+
+
+
+Enough of you have asked for the background story on my Facebook posting that I think I will try to give you a history lesson. Our son John was in love with Emily Rose and her daughter Chloe. Emily spent the better part of six years, and worked through endless discussions, trying to decide who would be the best dad for Chloe if anything happened to Emily. There was some urgency and Emily knew it and John knew it and even Chloe was aware that her mother had stage IV brain cancer. Emily died but not until she had begun several processes which would have allowed John to adopt Chloe.
+
+When Emily died many believed there was a lot of money from insurance etc. on the table. Five or six years ago while Emily was still an enlisted officer in the Marine Corps she began a series of conversations about Chloe's future and when she died without having achieved her dream of securing John's position as Chloe's dad Emily's estranged parents came crawling out of the woodwork. Filing and counter-filing became a way of life with complaints filed all the way from Olympia (CPS) to Superior Court in Tacoma. Every single allegation was met, argued and defeated. John was on his way to legally becoming Chloe's dad. And then progress went south.
+
+John, who works in software in Seattle, had had court encounter after court encounter with this or that relative operating under the guidance of legal counsel Heather Young. John was probably tired after coming to Tacoma over 40 times to visit with his daughter under the watchful supervision Community Family Services headed by Christine Hansen. The supervision was required because of complaints from Emily's family that John was somehow "perverted." Each of the 40+ visit reports characterize John as a remarkable and talented human being who makes a wonderful job of raising Chloe. On January 1, 2015 John posted on his Facebook page for his "friends" link to a music video made in Russia using GoPro’s Hero camera in the first-person-shooter mode along with a six word caption. The substance of the video looked like any game or video in that modality. The video sat on the Facebook page for several days until one of John's "friends" in Mexico sent the link as URL to Emily's family. In the words of Heather Young when she called the Tacoma Police Department's business line the video was, "inappropriate." Young acted as the "point man" and involved a number of her clients and their family friends and business associates to generate charges arguing that the video was a threat.
+
+John could no longer visit Chloe and was subsequently charged with four specific charges of felony crimes. Our family stood behind John with a lot of his friends and the prosecutor's office eventually made an offer that would have probably saved him a lot of trouble but made him appear guilty. The Pierce County Prosecutor, Mark Lindquist, immediately escalated the issue by going on television and telling the public what a horrible person our son is. Our son was subsequently arrested even though he had never been interviewed by any police. As soon as he declined the prosecutor' s offer that he plead guilty to a reduced series of charges the Pierce County prosecutor's office immediately added three more felony charges one of which carried considerable jail time.
+
+John was bailed out of jail by the family and continued to go to his job in Seattle while making runs back to once again be able to visit Chloe under horrific conditions mandated by Chloe's maternal grandmother. If we thought he was tired before New Year's Day he is now surely much more exhausted and yet he persevered and over the course of time and specifically today he is "not guilty" of any of the charges pressed by those involved in the custody hearings in Family Court through the Pierce County Prosecutor. So I said, “Our son has been acquitted on all counts! We are very pleased with the verdict. “  and you asked and now you have more detail.
+
+
 ### Feb 20, 2015
+
+
 
 ![](img/fourcounts.png)
 
@@ -396,6 +453,19 @@ Signature of Respondent:
 ![](img/camel.gif)
 
 Chloe rides the camel at Pt. Defiance Zoo.
+
+
+## JOHN DEMPSEY DISPOSITION OFFER -   FROM PATRICK COOPER
+### JULY 27, 2015
+
+1.	Plead guilty to two counts of harassment, gross misdemeanor.
+2.	Each count will refer to three victims -  Count I -  Donna Mairs, Darin Murphy, Mariela Murphy;  Count II – Heather Young, Christine Hansen and Tracy Burgess.
+3.	Suspended sentence -  364 with thirty days suspended, credit for five days served, with the remaining 25 days converted to EHM;
+4.	Law Abiding Behavior, no similar incidents, no contact orders with all victims for two years;
+5.	Open ended evaluation for any prospective tools to ensure that this conduct does not occur again;
+6.	Contact allowed for all court proceedings and court ordered events, including but not limited to supervised or unsupervised visits with minor child;
+7.	$500 CVPA; $200 probation fee; $365 Fine. Total fine, $1,065.00
+
 
 
 ### Nov 9, 2015
