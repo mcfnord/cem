@@ -1298,6 +1298,10 @@ chloe horns in on the other girl's photo next to Pinkalicious. ham.
 
 I got many gifts for Chloe. None for anyone else. I should get some for her cousins. They are also children. I could give Chris a shield. I have a leather shield that's legit. Mostly I will give all of my time in the hours we are together, while adults, I dunno, curse the end of the world.
 
+
+# See 2012
+
+
 ![](img/7apr12.png)
 
 ###   Apr. 14th, 2012 
