@@ -1,6 +1,6 @@
 ## What happened here?
 
-![](img/bb1.png)
+![](img/bb1.png){width=500px}
 
 ## Clearer in time
 

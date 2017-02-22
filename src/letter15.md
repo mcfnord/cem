@@ -237,6 +237,8 @@ My family took you both to the Nutcracker while I moved my things to Tacoma. Don
 
 Freda Everdell, who is Paula's mom, who was always there on 4th of July when we camped in Longbeach, knew what Emily wanted for you, and she stood with Emily. Paula is next to you and Emily in this picture.
 
+# See Gimme some sugar!
+
 ![](img/kissyme.gif)
 
 When she wanted a kiss, she'd say, "Gimme some sugar!"
