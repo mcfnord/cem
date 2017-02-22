@@ -1,3 +1,7 @@
+insert: background.md darin-early
+
+# See Mexico Genesis
+
 ### Apr. 17th, 2009 
 
 We all played (sing, dance, clay, climb) with little Chloe 
@@ -420,6 +424,7 @@ I kept thinking about the lame things that crush hearts and jade people to the w
 
 Chloe's First Haircut
 
+# See 2010
 
 ### Jan. 1st, 2010 
 
@@ -875,8 +880,7 @@ Emily says I don't love her, and she's jealous of the fun I have with Chloe. I'm
 Chloe spent the weekend confirming I'm Dad. We bonded a lot this weekend. I showed her this video:
 
 
-XXX embed
-
+insert the video
 
 This is Kyle, taking Chloe for her first swim. Imagine you were born without your father around, but you met me when you were about to turn 2, and I pushed you in a baby carriage and spent all my time with you. This is a placid video. But I am her dad. I don't want confusion. I've already confirmed he can't even write her a letter, and I can. Some day she'll ask to see this film again. But not yet.
 
@@ -1018,7 +1022,7 @@ I*I kept this picture on my phone for a few years. We were at Folklife. The Scar
 Chloe made me a card. Her birthday is coming next weekend and I've got shopping to do. She asked for Pop Rocks and slushies (frozen apple juice broken up with a fork). I've got other gifts ready but will get more.
 
 
-
+insert: background.md 2011ish
 
 
 ### Jun. 23rd, 2011
@@ -1128,7 +1132,7 @@ then i was at my mom's house. all the toilets were blocked. i kept calling my fr
 this dream is about identity and authenticity but i can't remember the legendary series of events. only after i awoke did i realize i should publish as Mister Blue.
 
 
-
+insert: background.md rapist
 
 
 ### Jul. 6th, 2011
@@ -1240,6 +1244,8 @@ Take care,
 Emily 
 
 
+insert: background.md 2012ish
+
 ### Oct 26, 2012 
 
 I visited Chloe's kindergarten and met her teacher. She visited and made friends with other kids in the apartment.
@@ -1254,4 +1260,9 @@ Emily had a seizure while driving and crashed the car with her and Chloe inside.
 
 Who will care for Chloe? I can't sleep. Need to cry, unload. Feel better watching SNL's presidential debates;) 
 Life...sigh...is tough
+
+
+**[Next...](y2d.html)**
+<br>
+<br>
 

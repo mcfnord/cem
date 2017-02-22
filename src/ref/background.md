@@ -227,6 +227,8 @@ trusted me enough to give me his teenage daughter’s stalker’s intel
 file, or that other time he told me Melissa was on crack.
 </div>
 
+<div id='13dec8'>
+
 Michael Howard, flaming spitfire attorney
 =========================================
 
@@ -368,6 +370,7 @@ Email from Emily Murphy
 
 Deposition of Darin Murphy
 
+</div>
 ------
 
 Natalie Dong, Ph.D., ABPP is Director of Center for Polytrauma Care at
@@ -395,6 +398,8 @@ must be wary of issues and liabilities such as breach of confidence
 claims, privacy issues, claims of breach of duty in relation to any
 trust document preventing disclosure and allegations by beneficiaries of
 a failure to protect the assets of the estate.
+
+<div id='14sep2'>
 
 Hanson Email Re: Sarah, a CFS employee
 ======================================
@@ -476,6 +481,8 @@ I hope this clarifies.
 Regards,
 
 John
+
+</div>
 
 The poetry of John Dempsey
 ==========================
@@ -755,6 +762,7 @@ Let's admire, stock up for later, you and me.
 
 Love it
 
+<div id='13dec10'>
 Dec 10, 2013
 ------------
 
@@ -812,6 +820,8 @@ That's a long ass letter. Why don't you come over for breakfast and talk
 about it 😊\
 Emily
 
+</div>
+
 2014 Text Messages
 ------------------
 
@@ -819,15 +829,17 @@ These text messages accumulated on my phone. I would like to show you
 the many previous years, as that was the main way we communicated.
 However, those aren’t on my phone, and AT&T claims they don’t save them.
 
-![](img/noise/image1.png){width="4.322916666666667in"
+![](img/noise/bg/image1.png){width="4.322916666666667in"
 height="3.1458333333333335in"}
 
-![](img/noise/image2.png){width="4.510416666666667in" height="5.1875in"}
+![](img/noise/bg/image2.png){width="4.510416666666667in" height="5.1875in"}
 
-![](img/noise/image3.png){width="6.270833333333333in"
+![](img/noise/bg/image3.png){width="6.270833333333333in"
 height="5.260416666666667in"}
 
-![](img/noise/image4.png){width="6.25in" height="4.479166666666667in"}
+![](img/noise/bg/image4.png){width="6.25in" height="4.479166666666667in"}
+
+<div id='31mar14'>
 
 March 31, 2014
 --------------
@@ -873,6 +885,8 @@ I will be with Emily in the Oncology department Thursday, April 3rd, at
 Regards,
 
 John Dempsey
+
+</div>
 
 206-384-5335
 
@@ -983,21 +997,22 @@ she and others are victims and perpetrators of shame patterns.
 Eventually after returning from Donna's care, Chloe escapes these
 twisted explanations after crying briefly.
 
--   -   ![](img/noise/image5.jpeg){width="6.761111111111111in"
+-   -   ![](img/noise/bg/image5.jpeg){width="6.761111111111111in"
     height="5.0in"}
 
 -   A friendly moment with Richard, Alice, Chloe, and me.
 
+<div id='2011ish'>
 2011-ish
 ========
 
-![](img/noise/image6.jpeg){width="5.201461067366579in"
+![](img/noise/bg/image6.jpeg){width="5.201461067366579in"
 height="6.935281058617673in"}
 
 Under the tree at Chloe’s birthday. I brought the most gifts. Every
 time, I brought the most gifts.
 
-![](img/noise/image7.png){width="7.3284722222222225in"
+![](img/noise/bg/image7.png){width="7.3284722222222225in"
 height="5.836111111111111in"}
 
 Here’s Fatima, Darin’s adopted daughter, telling Chloe this photo is
@@ -1008,7 +1023,9 @@ I bet Darin started not liking me right around the Dash Point Park
 camping trip. That was around 2011 I think. And I suspect Emily was the
 reason, but Emily’s money became a bigger reason, and then going bonkers
 became its own reason.
+</div>
 
+<div id='2012ish'>
 2012
 ====
 
@@ -1016,7 +1033,7 @@ I speculate a guess that I took Chloe from Donna’s church after a
 Christmas celebration where Donna played bells. I took Chloe to Seattle
 after that event.
 
-![](img/noise/image8.png){width="7.895833333333333in"
+![](img/noise/bg/image8.png){width="7.895833333333333in"
 height="4.623611111111111in"}
 
 I bring pumkins!
@@ -1032,7 +1049,9 @@ early 2013.
 It was 2012 or 2013 when I bought Donna lunch on Broadway in Seattle. It
 was Thai food. Emily was with us. Donna sold me a fundraiser chocolate
 bar for Stanley Elementary.
+</div>
 
+<div id='2013ish'>
 2013 
 =====
 
@@ -1063,6 +1082,7 @@ get Chloe.
 
 Later Emily awoke from her nap and called me to say she was energetic
 enough to join us on the trip.
+</div>
 
 Bridges happened consistently because I made it happen
 ------------------------------------------------------
@@ -1078,6 +1098,7 @@ emotional wellness during this transition?
 2014
 ====
 
+<div id='2014pre'>
 -   January 25^th^ at hospital, Donna expressed remorse to me that she
     had said mean things about me during the 2nd adoption meeting,
     exclaims, “People say your love is better than mine.” I assure her
@@ -1087,6 +1108,24 @@ emotional wellness during this transition?
     Donna said, "thank you for taking care of emily," and gestured to
     offer me a hug. I rose from the couch and we hugged.
 
+
+-   I called police twice with regard to the custody of Chloe. The day
+    before the first call to police was April 11, 2014. Donna Mairs
+    (Emily’s mother) picked Chloe up from school but did not bring her
+    home as agreed. I called and she answered but then we
+    were disconnected. Immediately, I called again and nobody answered.
+    Immediately I called again. Donna then asked if Chloe could stay the
+    night, but I declined. I picked Chloe up and returned her home.
+
+-   At the start of 2014, Donna explained that the purchase of Richard’s
+    truck was financed based on overtime pay, which had
+    since disappeared.
+
+-   Emily told Donna about Emily's plan in January, 2014. Donna claimed
+    I was too old to raise Chloe. Huh?
+</div>
+
+<div id='2014post'>
 -   On June 20^th^, 2014, Chloe asked, "Why won't you give back mom's
     phone?" Chloe explained that someone on Emily's phone had a horse
     (which I had never heard before, and am not aware of any horse ride
@@ -1114,21 +1153,6 @@ emotional wellness during this transition?
     did not know, and that she needed to ask Donna why. Charlotte
     observed and participated in the conversation.
 
--   I called police twice with regard to the custody of Chloe. The day
-    before the first call to police was April 11, 2014. Donna Mairs
-    (Emily’s mother) picked Chloe up from school but did not bring her
-    home as agreed. I called and she answered but then we
-    were disconnected. Immediately, I called again and nobody answered.
-    Immediately I called again. Donna then asked if Chloe could stay the
-    night, but I declined. I picked Chloe up and returned her home.
-
--   At the start of 2014, Donna explained that the purchase of Richard’s
-    truck was financed based on overtime pay, which had
-    since disappeared.
-
--   Emily told Donna about Emily's plan in January, 2014. Donna claimed
-    I was too old to raise Chloe. Huh?
-
 -   Donna appears to fear Howard Dempsey, who she knows to be a retired
     junior high school teacher:
 
@@ -1146,6 +1170,8 @@ emotional wellness during this transition?
     a visit. Let me know. \[Christine’s response:} CFS follows the
     person being supervised, not the child.
 
+</div>
+
 Rejection of entire family
 --------------------------
 
@@ -1155,6 +1181,7 @@ family members share my visitation with Chloe; she even refused to let
 them transport Chloe for visitation. This includes my father, Herb
 Dempsey, who is a former police officer and educator.
 
+<div id='2014pre2'>
 Yelling at Donna
 ----------------
 
@@ -1192,6 +1219,9 @@ Emily if she wants to stay at home for hospice, and she said she did.
 In the meeting with the doctor, when Emily was given two months to live,
 Darin invited me to move into his home along with Emily and Chloe.
 
+</div>
+
+<div id='2014post'>
 Alienation effort against my family
 -----------------------------------
 
@@ -1220,6 +1250,9 @@ mountain, or just played with Chloe while I cared for Emily. I have no
 reason to believe they are a bad influence on anyone, and Chloe misses
 them.
 
+</div>
+
+
 I’m not so impressed by their household
 ---------------------------------------
 
@@ -1245,6 +1278,9 @@ Donna is diabetic, and requires constant insulin through a machine. She
 is often lethargic, and seems disconnected from conversation. She also
 seems emotionally disassociated.
 
+
+<div id='rapist'>
+
 Convicted Violent Child Rapist, 3 Counts
 ----------------------------------------
 
@@ -1259,12 +1295,21 @@ a minor or minors. Donna welcomed this man into her home even when Jenny
 was not present, as a dinner guest. This caused me substantial distress
 with Chloe in the home.
 
+</div>
+
+
+<div id='13fall'>
+
 Around 2010, Donna and Richard Mairs financed a major home remodel using
 credit cards. The remodel was not completed. Substantial debt remained
 into 2011 and likely remains today. In a meeting in Fall 2013, Darin
 expressed concerns that benefits earned by Emily's Marine service
 intended for Chloe would instead finance Mairs home debt. The Mairs home
 is large. It has housed 6 people. It now houses 3.
+
+</div>
+
+<div id='scare'>
 
 Abusive by nature
 -----------------
@@ -1284,6 +1329,8 @@ very distressing. My attempts to reach out to Donna have been
 unsuccessful. Chloe describes "being in the middle" as a terrible
 feeling. I do not criticize Donna or any other family members in front
 of Chloe.
+
+</div>
 
 Welcome to Darin
 ================
@@ -1319,6 +1366,8 @@ is never really “settled”. He badgered her as she died. He is at the
 mercy of his twisted inner psychology, ripped in circles by his strong
 feelings for Emily, plus a general need to control everyone about
 everything important. As a god. An angry god.
+
+<div id='darin-early'>
 
 Darin over the years
 ====================
@@ -1371,7 +1420,7 @@ around 1993.
 INFO Board parties
 ------------------
 
-![](img/noise/image9.jpeg){width="6.25in" height="6.520833333333333in"}
+![](img/noise/bg/image9.jpeg){width="6.25in" height="6.520833333333333in"}
 
 That’s Harry, in back. Harry is a witness in the current case! That’s at
 Darin’s, an INFO Board Bash. That photo comes from Darin’s internet
@@ -1379,14 +1428,14 @@ server, at:
 
 <http://darinmurphy.com/images/bashes/new-58.jpg>
 
-![](img/noise/image10.jpeg){width="6.253472222222222in"
+![](img/noise/bg/image10.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 <http://darinmurphy.com/images/bashes/new-59.jpg>
 
 Jack Bridges, Dena Reaugh, Danetta Estes, and that other fellow.
 
-![](img/noise/image11.jpeg){width="6.253472222222222in"
+![](img/noise/bg/image11.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 Here I am, a filthy person with a Mickey Mouse shirt. It was a toga
@@ -1395,7 +1444,7 @@ Darin’s livingroom.
 
 <http://darinmurphy.com/images/bashes/new-106.jpg>
 
-![](img/noise/image12.jpeg){width="6.253472222222222in"
+![](img/noise/bg/image12.jpeg){width="6.253472222222222in"
 height="6.492361111111111in"}
 
 That’s me, Dan Debower, and some other cats in Darin’s home, before the
@@ -1403,7 +1452,7 @@ kitchen remodel.
 
 <http://darinmurphy.com/images/bashes/new-67.jpg>
 
-![](img/noise/image13.jpeg){width="6.253472222222222in" height="6.4625in"}
+![](img/noise/bg/image13.jpeg){width="6.253472222222222in" height="6.4625in"}
 
 That’s me, Harry, and Missy, dancing in Darin’s livingroom. This is also
 a photo on darinmurphy.com.
@@ -1568,24 +1617,26 @@ with his new wife to the place where I lived. Isn’t that sweet?
 I think after helping me with the tree (around 2002) he visited with
 Dina around 2006, my little treehouse home.
 
+</div>
+
 2009
 ----
 
-![](img/noise/image14.png){width="4.614583333333333in"
+![](img/noise/bg/image14.png){width="4.614583333333333in"
 height="3.3541666666666665in"}
 
 2011-ish
 --------
 
-![](img/noise/image15.png){width="6.979166666666667in" height="3.6875in"}
+![](img/noise/bg/image15.png){width="6.979166666666667in" height="3.6875in"}
 
-![](img/noise/image16.png){width="4.656944444444444in"
+![](img/noise/bg/image16.png){width="4.656944444444444in"
 height="3.477777777777778in"}
 
 Watch out there’s a pied piper of little girls back there. Datin your
 daughter! Hard!
 
-![](img/noise/image17.png){width="6.761111111111111in"
+![](img/noise/bg/image17.png){width="6.761111111111111in"
 height="5.955555555555556in"}
 
 Gangsta. I paid a lot for tickets to a kinda lame party for Emily’s
@@ -1611,7 +1662,7 @@ problem? And that sounds pretty close to family, doesn't it?
 2013-ish
 --------
 
-![](img/noise/image18.jpeg){width="3.538799212598425in"
+![](img/noise/bg/image18.jpeg){width="3.538799212598425in"
 height="4.716418416447944in"}
 
 Darin saw this photo along with hundreds of others that spanned Emily’s
@@ -1641,7 +1692,7 @@ He requested to be my Gmail chat buddy. Imagine that.
 
 We all went to San Francisco with Emily and Melissa:
 
-![](img/noise/image19.png){width="6.311687445319335in"
+![](img/noise/bg/image19.png){width="6.311687445319335in"
 height="3.621862423447069in"}
 
 This guy is creepy and dangerous, deserving additional scrutiny
@@ -1655,7 +1706,7 @@ medical needs. He threw that trust away.
 
 ### From Dina’s divorce papers
 
-![](img/noise/image20.png){width="7.28125in"
+![](img/noise/bg/image20.png){width="7.28125in"
 height="2.8645833333333335in"}
 
 Mexico Travel 1: April & May, 2009
@@ -1719,13 +1770,13 @@ Mexico Travel 1: April & May, 2009
     photos, including photos taken on Darin’s camera and my own. These
     photo essays are still available.
 
-![](img/noise/image21.jpeg){width="3.6245570866141734in"
+![](img/noise/bg/image21.jpeg){width="3.6245570866141734in"
 height="4.344827209098862in"}\
 \
 I rode with Juan Pablo and Hugo in the back of a pickup to the ATV
 corral.
 
-![](img/noise/image22.png){width="6.520833333333333in" height="3.78125in"}
+![](img/noise/bg/image22.png){width="6.520833333333333in" height="3.78125in"}
 
 Fatima and Chloe. This is a partial canopy on a flat-bed pickup. Darin
 drove us everywhere.
@@ -1749,7 +1800,7 @@ someone became a godfather, and Darin set up running water for the
 family who lost their son.
 
 ### ATV Offroading\
-![](img/noise/image23.jpeg){width="2.741379046369204in" height="4.3844520997375325in"}\
+![](img/noise/bg/image23.jpeg){width="2.741379046369204in" height="4.3844520997375325in"}\
 \
 
 This was a few days before Emily arrived. The backstreets of the city
@@ -1763,7 +1814,7 @@ snacks and looked out over the city.
     Emily’s obituary. But who took the picture of Emily in the obituary?
     I did.\
     \
-    ![](img/noise/image24.jpeg){width="3.6835772090988628in"
+    ![](img/noise/bg/image24.jpeg){width="3.6835772090988628in"
     height="2.755604768153981in"}\
     \
     \
@@ -1774,10 +1825,10 @@ snacks and looked out over the city.
     official wedding was April 18^th^. I took these photos, aren’t they
     nice?
 
-    ![](img/noise/image25.jpeg){width="3.896599956255468in"
+    ![](img/noise/bg/image25.jpeg){width="3.896599956255468in"
     height="2.425890201224847in"}\
     \
-    ![](img/noise/image26.jpeg){width="3.8535050306211724in"
+    ![](img/noise/bg/image26.jpeg){width="3.8535050306211724in"
     height="2.896551837270341in"}
 
 Mexico Travel 2: Two or more weeks in June, 2010
@@ -1794,14 +1845,14 @@ knock-off, starring Emily. This is where I taught Chloe to swim. Darin
 stayed near Mariela’s family, with Candace and Candace’s (step?-)sister.
 We called that place The Hacienda.
 
-![](img/noise/image27.jpeg){width="2.8054997812773403in"
+![](img/noise/bg/image27.jpeg){width="2.8054997812773403in"
 height="2.741379046369204in"}
 
 Oh Frida!
 
-![](img/noise/image28.png){width="3.4482753718285215in"
+![](img/noise/bg/image28.png){width="3.4482753718285215in"
 height="3.294430227471566in"}\
-![](img/noise/image29.png){width="3.5172419072615924in"
+![](img/noise/bg/image29.png){width="3.5172419072615924in"
 height="3.571353893263342in"}
 
 Chloe’s 3^rd^ birthday. I’m pretty sure I paid for at least half of that
@@ -1811,10 +1862,10 @@ I had an idea to rent a boat and go visit some rocks. We didn’t get to
 sail but it was fun.\
 \
 \
-![](img/noise/image30.png){width="4.2374343832021in"
+![](img/noise/bg/image30.png){width="4.2374343832021in"
 height="2.620690069991251in"}
 
-![](img/noise/image31.jpeg){width="5.729166666666667in"
+![](img/noise/bg/image31.jpeg){width="5.729166666666667in"
 height="4.291666666666667in"}\
 Emily, with child sex attacker Brian Herrington’s bald head. Jenny, and
 Candace Zygar’s half-sister.\
@@ -1823,7 +1874,7 @@ got sick. Later that week, Hugo drove Emily, Chloe, and me to Las Palmas
 and we rappelled off an old bridge there. Below was a river with water
 like a bath, and we had a swimming picnic.
 
-![](img/noise/image32.jpeg){width="6.83125in"
+![](img/noise/bg/image32.jpeg){width="6.83125in"
 height="5.116666666666666in"}
 
 Solidad, Mariela’s mom, brought us a cooked chicken. Las Palmas is a
@@ -1898,14 +1949,14 @@ relations were ok with her so long as she remains the primary partner.
 A few days after the strippers, Darin drove us to buy real massages in
 the tourist part of town, and we all did.
 
-![](img/noise/image33.jpeg){width="2.513938101487314in"
+![](img/noise/bg/image33.jpeg){width="2.513938101487314in"
 height="6.205100612423447in"}
 
 I took 95% of the photos at his wedding in Mexico, and also the one in
 Tacoma months earlier, using his camera. I made the only videos of both
 sets of vows.
 
-![](img/noise/image34.png){width="3.4623840769903764in" height="2.0in"}
+![](img/noise/bg/image34.png){width="3.4623840769903764in" height="2.0in"}
 
 Other Holidays with Darin
 -------------------------
@@ -1946,7 +1997,7 @@ children, as it starts to snow in Seattle:
 
 <https://picasaweb.google.com/107460598315429300090/Seattle2010#5559875394571691602>
 
-### ![](img/noise/image35.png){width="4.597222222222222in" height="3.1194444444444445in"}
+### ![](img/noise/bg/image35.png){width="4.597222222222222in" height="3.1194444444444445in"}
 
 We’re flyin!!! Lookie I’ve snatched Darin’s entire family in my
 clutches. Hiyooo!
@@ -2008,7 +2059,7 @@ Emily was there, but I am not sure. We went to the Sculpture Park. It’s
 totally cool. There are pictures from that day. Then we ate at the
 Spaghetti Factory together.
 
-![](img/noise/image36.png){width="7.686805555555556in"
+![](img/noise/bg/image36.png){width="7.686805555555556in"
 height="3.0743055555555556in"}
 
 Darin, Chloe, Andrea in Mexico at his wedding. Photo by John Dempsey.
@@ -2026,7 +2077,7 @@ crazy shit caused by Andrea’s accusation. It wasn’t that Emily believed
 it, but it made everything harder for a while, as really we needed to
 talk about very uncomfortable things.
 
-![](img/noise/image37.png){width="7.014583333333333in"
+![](img/noise/bg/image37.png){width="7.014583333333333in"
 height="4.8805555555555555in"}
 
 Halloween. Darin Murphy gave this a Thumbs Up on Facebook.

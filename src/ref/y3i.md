@@ -1,3 +1,7 @@
+insert: background.md 2014pre2
+
+insert: background.md 2013ish
+
 ## Bettina is a tool
 
 I was warned about her. What a tool.
@@ -8,6 +12,7 @@ I was warned about her. What a tool.
 
 ![](img/bet3.png)
 
+insert: background.md 2014pre
 
 ### May 3, 2014
 
@@ -35,6 +40,9 @@ Emily is not likely to have a seizure, but during a seizure, hold her and assure
 
 If the room gets hot, open the window completely for a while. (Remove the stick that blocks it shut.)
 
+insert: ref/group_health.md may29
+
+# See Death
 
 ### June 20, 2014
 
@@ -42,13 +50,17 @@ If the room gets hot, open the window completely for a while. (Remove the stick 
 
 Basically it's never OK to mess with a kid's head like that.
 
+insert: background.md 2014post
+
 ### July 21, 2014
 
 ![](img/we_angels.png)
 
 ![](img/howard_says.png)
 
+insert: background.md 14sep2
 
+# See 2015
 
 ### Feb 20, 2015
 
@@ -64,6 +76,8 @@ Chloe rides the camel at Pt. Defiance Zoo.
 ### Nov 9, 2015
 
 [Deposition of Michael Comte](comte-dep.pdf)
+
+# See 2016
 
 ### Feb 3, 2016
 

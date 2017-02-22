@@ -1,13 +1,3 @@
-![](img/9bnov13.png)
-
-![](img/9cnov13.png)
-
-![](img/9nov13.png)
-
-![](img/9dnov13.png)
-
-![](img/25nov13.png)
-
 ###    Dec. 31st, 2012 
 
 ![](img/dancinmex.jpg)
@@ -22,16 +12,7 @@ Emily liked this picture.
 
 You took this picture.
 
-
-![](img/30mar13.png)
-
-![](img/22apr13.png)
-
-![](img/22bapr13.png)
-
-![](img/28apr13.png)
-
-![](img/28bapr13.png)
+# See Turn To Shit
 
 ###    May. 10th, 2013 
 
@@ -76,6 +57,7 @@ She asked if I would teach her to golf. Ha ha golf. She was quite happy when I s
 
 ![](img/25may13.png)
 
+# See Liars Emerge
 
 ### Orca Lie 1 
 
@@ -164,41 +146,35 @@ I am doing some Shit From Hell. I guess it's a custody negotiation. The attorney
 
 Regardless of outcome good for the three of you that you care. It will be important over time. 
 
-![](img/overshoulder.gif) 
+![](img/30mar13.png)
 
-![](img/masticate.gif)
+![](img/22apr13.png)
 
-![](img/mstk.gif)
+![](img/22bapr13.png)
 
-![](img/ridinby.gif) 
+![](img/28apr13.png)
 
-![](img/krazyface.gif)
+![](img/28bapr13.png)
 
-![](img/modellnwri.gif)
+# See Fall Comes
 
-![](img/dancinjennn.gif)
+insert: background.md 13fall
 
-![](img/wffllls.gif)
+![](img/9bnov13.png)
 
-![](img/bmttac.gif)
+![](img/9cnov13.png)
 
-![](img/erikka.gif)
+![](img/9nov13.png)
 
-![](img/goofnus.gif)
+![](img/9dnov13.png)
 
-![](img/harrytac.gif)
+![](img/25nov13.png)
 
-![](img/hwrdshell.gif)
+insert: background.md 13dec8
 
-![](img/jeffersonstroll.gif)
+insert: background.md 13dec10
 
-![](img/jennyjig.gif)
-
-![](img/pzzzabite.gif)
-
-![](img/showhertit.gif)
-
-
+# 2014
 
 ### Mar 14, 2014
 
@@ -237,9 +213,18 @@ Just 2 sentences on the haters. Good balance. Good priorities.
 
 ![](img/mar27b_14.png)
 
+insert: background.md 31mar14
+
+insert: background.md scare
+
 ### April 11, 2014
 
 ![](img/apr11_14.png)
 
 Emily was interviewed by Jeris Underwood, who is one of two Jerises in Pierce County. My mother is the other, of course.
+
+
+**[Next...](y3i.html)**
+<br>
+<br>
 
