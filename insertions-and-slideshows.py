@@ -1,9 +1,11 @@
 import sys
 import os.path
+import time
 from HTMLParser import HTMLParser
 
 gfImporting = False
 gstrClassname = None
+gInsertSought = False
 
 def S3BinaryHostReplace( str ):
     str = str.replace("(img/", "(http://toop.s3-us-west-2.amazonaws.com/img/")
@@ -24,6 +26,7 @@ class MyHTMLParser(HTMLParser):
         global gfImporting
         if tag == 'div': ## Div fails. case sensitive html!
             gfImporting = False
+            gInsertSought = False
 
     def handle_data(self, data):
         global gfImporting
@@ -47,16 +50,27 @@ for line in sys.stdin:
         line = '# ' + line[6:]  # The top title is # See Foobat minus the # See portion
 
     if line.lower().startswith('insert:'):
+        gInsertSought = True
         params = line[len('insert:'):].split()
 #        filename ='src/' +  params[0]
         gstrClassname = params[1]                   # set this global
         insertfilename = 'src/' + params[0]
         if False == os.path.isfile(insertfilename):
             insertfilename = 'src/ref/' + params[0] # sometimes i forget to prepend the ref/
+        if False == os.path.isfile(insertfilename):
+            insertfilename = 'src/ref/_' + params[0] #refs have the underscore but i can omit it (should be sure there's no same name in root!)
+        if False == os.path.isfile(insertfilename):
+            print("insert: source file not found, so ctrl-c and fix: " + insertfilename)
+            time.sleep(99999)
+            sys.exit() # won't stop this but worthy effort
         f =  open(insertfilename, "r")
 	parser.feed(f.read())
         parser.close()
     else:
         mainoutfile.write(S3BinaryHostReplace(line)),
+
+if True == gInsertSought:
+    print("insert id not found, so ctrl-c and fix. but this is broken") 
+#    time.sleep(99999)
 
 mainoutfile.close()
