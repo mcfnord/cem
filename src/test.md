@@ -1,4 +1,4 @@
 # Show me
 
-insert: ref/group_health.md misery
+insert: _group_health.md misery
 

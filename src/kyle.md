@@ -1,2 +1,2 @@
-insert: ref/kyle.md kyle-yuk
+insert: _kyle.md kyle-yuk
 

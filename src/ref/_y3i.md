@@ -2,13 +2,13 @@
 
 # Hold on
 
-﻿insert: background.md 2014pre2
+﻿insert: _background.md 2014pre2
 
-insert: estate.md vicky-mariah
+insert: _estate.md vicky-mariah
 
-insert: background.md 2013ish
+insert: _background.md 2013ish
 
-insert: estate.md manning
+insert: _estate.md manning
 
 
 ## IN THE SUPERIOR COURT FOR THE STATE OF WASHINGTON
@@ -141,7 +141,7 @@ I was warned about her. What a tool.
 
 ![](img/bet3.png)
 
-insert: background.md 2014pre
+insert: _background.md 2014pre
 
 ### May 3, 2014
 
@@ -254,7 +254,7 @@ Pat Roberts-Dempsey, M. Ed., Ed.D., ABD
 
 
 
-insert: ref/group_health.md may29
+insert: _group_health.md may29
 
 # See Death
 
@@ -273,7 +273,7 @@ I would suggest anyone dealing with Darin Murphy treat him with the utmost respe
 
 ### June 20, 2014
 
-insert: reports.md first-visit
+insert: _visit-reports.md first-visit
 
 ![](img/jun20_14.png)
 
@@ -283,9 +283,9 @@ Basically it's never OK to mess with a kid's head like that.
 
 
 
-insert: background.md 2014post
+insert: _background.md 2014post
 
-insert: reports.md icebucket-challenge
+insert: _visit-reports.md icebucket-challenge
 
 ### July 21, 2014
 
@@ -355,7 +355,7 @@ Herb Dempsey
 
 ![](img/howard_says.png)
 
-insert: background.md 14sep2
+insert: _background.md 14sep2
 
 
 
