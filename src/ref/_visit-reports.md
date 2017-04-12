@@ -1566,12 +1566,12 @@ Fax: 253-927-1082 info@communityfamilyservices.com
 
 Summary/Incident Report
 
+<div id='gabby'>
 
-
-Case: Dempsey
-Date: 8-7-14
-Place: Pierce County Fair, Graham Time: 12:45 pm – 2:45 pm Supervisor: Charlotte
-Person Requesting Report: John Dempsey
+Case: Dempsey  
+Date: 8-7-14  
+Place: Pierce County Fair, Graham Time: 12:45 pm – 2:45 pm Supervisor: Charlotte 
+Person Requesting Report: John Dempsey 
 
 Brief Outline of Visitation
 
@@ -1599,9 +1599,36 @@ cars.
 
 As we made our way toward the exit, Chloe expressed she did not want to leave Mr. Dempsey. Mr. Dempsey reassured Chloe he would see her on Saturday. As we were walking out, Melissa was waiting at the exit area to the parking lot. Melissa explained that she was waiting for the Maternal Grandmother to pick them up and that she would take Chloe. I walked with Mr. Dempsey, his mother and Chloe out to the parking lot. Chloe then went with Melissa and the other children to meet the Maternal Grandmother while Mr. Dempsey and his mother made their way to their vehicle. Melissa and Mr. Dempsey hugged before leaving.
 As I left the parking area, Melissa was waiting for the Maternal Grandmother at the parking area entrance it was after 2:45 pm.
+
 End of Report
 
-Addendum to Report by Christine Hanson: All visitation arrangements must be determined prior to CFS sending the confirmation e-mail for each visit. It is each party's responsibility to determine their availability to attend the visit at the requested time, to transport the child to and from the visit, and whom they want to attend the visit. Once CFS sends the confirmation e-mail, no changes in transportation, location of exchange, arrangements regarding entrance or meeting locations, additional persons attending, or any other alternatives or changes will be allowed. If either party determines that changes must be made AFTER the confirmation e-mail is sent by CFS, in order for the visit to go as scheduled, CFS will cancel the visit. THERE ARE NO REFUNDS ONCE THE VISIT IS CONFIRMED.
+</div>
+
+Addendum to Report by Christine 
+Hanson: All visitation arrangements 
+must be determined prior to CFS 
+sending the confirmation e-mail for 
+each visit. It is each party's 
+responsibility to determine their 
+availability to attend the visit at 
+the requested time, to transport 
+the child to and from the visit, 
+and whom they want to attend the 
+visit. Once CFS sends the 
+confirmation e-mail, no changes in 
+transportation, location of 
+exchange, arrangements regarding 
+entrance or meeting locations, 
+additional persons attending, or 
+any other alternatives or changes 
+will be allowed. If either party 
+determines that changes must be 
+made AFTER the confirmation e-mail 
+is sent by CFS, in order for the 
+visit to go as scheduled, CFS will 
+cancel the visit. THERE ARE NO 
+REFUNDS ONCE THE VISIT IS 
+CONFIRMED.
  
 Community Family Services
 1911 SW Campus Drive, #482

@@ -2,26 +2,26 @@
 # call this from makelink.bat, which is in the path for this PC
 
 if(false === isset($_GET['cute']))
-  { echo 'ERROR' ; return ; }
+  { echo 'ERROR1' ; return ; }
 
 if(false === isset($_GET['ugly']))
-  { echo 'ERROR' ; return ; }
+  { echo 'ERROR2' ; return ; }
 
 $local_dir = $_GET['cute'] ;
 
 if(file_exists ( $local_dir ))  //  does dest exist on this server?
-  { echo 'ERROR' ;   return ; } // does exist? then fail.
+  { echo 'ERROR3' ;   return ; } // does exist? then fail.
 else
   {
   echo $local_dir ;
 
-  echo mkdir( './_/' . $local_dir, 0777, true ) ;   # recursive ok
+  echo mkdir( './' . $local_dir, 0777, true ) ;   # recursive ok
 
   // and put the dest url redirector in it in its simplest form.
   $payload = "<HTML><HEAD><META HTTP-EQUIV='REFRESH' CONTENT='1;URL=" . $_GET['ugly'] . "'></HEAD></HTML>" ;
 
   // create a default index.php file in that dir
-  $index_script = $local_dir . "/_/index.php" ;
+  $index_script = $local_dir . "/index.php" ;
   file_put_contents($index_script, $payload);
 
   // and return the popular url

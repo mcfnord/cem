@@ -1,8 +1,32 @@
 ## Words
 
-There was even an interesting time where I tried to accept Emily's choice of Donna over Darin. I couldn't do it. I had to do something to prevent Chloe from being raised by Donna. Obviously their skillfulness with fear-mongering and hysteria, and probably my laid-back nature didn't help. The city tried to chew me up. If a preponderance of evidence says I'm just too damn different, and Donna's actually Donna Reed, then fuck me with a 2x4. That's the whole dumb case in the whole dumb court. I'll stand for that verdict. Because it will also be made clear that Darin Murphy abused his daughter as she died.
+There was even an interesting time where I tried to accept 
+Emily's choice of Donna over Darin. I couldn't do it. I had to 
+do something to prevent Chloe from being raised by Donna. 
+Obviously their skillfulness with fear-mongering and hysteria, 
+and probably my laid-back nature didn't help. The city tried to 
+chew me up. If a preponderance of evidence says I'm just too 
+damn different, and Donna's actually Donna Reed, then fuck me 
+with a 2x4. That's the whole dumb case in the whole dumb court. 
+I'll stand for that verdict. Because it will also be made clear 
+that Darin Murphy abused his daughter as she died.
 
-I want to clarify I point that might seem confusing at first: From April to November, 2013, I tried to persuade Emily to specify Darin and Mariela as Chloe's guardians. I failed to persuade her. She knew her dad had serious emotional problems, and I just didn't see it from a distance. She said she had to go with her gut. She said Donna would do anything for Chloe. And she said, near November 12th, 2013, "If you don't like it, change it. Come to Tacoma, and be the guardian." When I accepted that offer a week later, it was Emily who had persuaded me. I had failed to persuade her. I said I would try ONE TIME and I did try. I failed, and changed to a position of supporting whatever she wants, as long as she wants it, until the day she changes her mind. I hope you consider this position to be the precise formula of unconditional love. I am deeply offended by the various spins used to make it sinister, but I'm used to feeling deeply offended by this family of jackels.
+I want to clarify I point that might seem confusing at first: 
+From April to November, 2013, I tried to persuade Emily to 
+specify Darin and Mariela as Chloe's guardians. I failed to 
+persuade her. She knew her dad had serious emotional problems, 
+and I just didn't see it from a distance. She said she had to 
+go with her gut. She said Donna would do anything for Chloe. 
+And she said, near November 12th, 2013, "If you don't like it, 
+change it. Come to Tacoma, and be the guardian." When I 
+accepted that offer a week later, it was Emily who had 
+persuaded me. I had failed to persuade her. I said I would try 
+ONE TIME and I did try. I failed, and changed to a position of 
+supporting whatever she wants, as long as she wants it, until 
+the day she changes her mind. I hope you consider this position 
+to be the precise formula of unconditional love. I am deeply 
+offended by the various spins used to make it sinister, but I'm 
+used to feeling deeply offended by this family of jackels.
 
 In her letter, Andrea Mattson asserts that a savage sex assault occurred either December 1st, or January 2nd. In her two calls to CPS, she asserts the assault took place January 1st. Ms. Mattson says she has a detailed scheduling method. Chloe and I arrived in Mexico on Christmas, and left Mexico on January 1st, during a ferocious rainstorm. All three dates are impossible. Is she my accusor?
 

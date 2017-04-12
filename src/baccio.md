@@ -1,5 +1,7 @@
 ## Save me, Mohammad Ali
 
+<div id='body'>
+
 * [Exciting top story](dtm_cop_lies.html)
 
 * [What to say](tweet.html)
@@ -108,6 +110,7 @@ Joy, beautiful spark of Gods!,
 Daughter of Elysium,  
 Joy, beautiful spark of Gods!.
 
-![Really Dreamy](animateS2.html)
+[Really Dreamy](animateS2.html)
 
+</div>
 
