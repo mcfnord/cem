@@ -27,10 +27,10 @@ Let's summarize the deceptions:
 
 How did it sound when it came time to answer for these claims? It sounded like...
 
-[Testimony of Darin Murphy and Donna Mairs, September 30, 2015](/doc/d_and_d_testimony.pdf)
+[Testimony of Darin Murphy and Donna Mairs, September 30, 2015](doc/d_and_d_testimony.pdf)
 
 Would you like to know what I said at that trial? You can read every word by clicking this link!
 
-[Testimony of John Dempsey, October 1, 2015](/doc/jrd_crim_test.pdf)
+[Testimony of John Dempsey, October 1, 2015](doc/jrd_crim_test.pdf)
 
 <center>[#EmilyRoseClub](/tweet.html)</center>
