@@ -21,10 +21,6 @@ done < "sources.txt"
 
 rm sources.txt
 
-cd html
-rm *
-cd ..
-
 cd tmp
 # mv ref/* .  removed cuz the python app saves to tmp/ PERIOD
 ls -1 *.md | cut -f 1 -d '.' > sources.txt
@@ -40,5 +36,5 @@ done < "sources.txt"
 rm sources.txt
 
 cd ../src/root-files
-sudo cp * /var/www/html/
+sudo cp -r * /var/www/html/
 cd ..
