@@ -26,7 +26,7 @@ cd tmp
 ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do
-docker run -v `pwd`:/source jagregory/pandoc -f markdown -t html-raw_html --standalone --css=solarized-dark.css $file.md > $file.html
+markdown $file.md -s solarized-dark.css > $file.html
 sudo cp $file.html /var/www/html/
 # cp $file.html ../html
 done < "sources.txt"
