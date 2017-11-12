@@ -27,11 +27,15 @@ ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do
 md2html $file.md -s solarized-dark.css > $file.html
+# https://www.npmjs.com/package/markdown-to-html
+# this is installed with -g, so md2html works, but the next-page insertions might$
+
 sudo cp $file.html /var/www/html/
 # cp $file.html ../html
 done < "sources.txt"
 
-# there are two different sources.txt files, one's in tmp/sources.txt, and they differ in content!
+# there are two different sources.txt files,
+# one's in tmp/sources.txt, and they differ in content!
 
 rm sources.txt
 
