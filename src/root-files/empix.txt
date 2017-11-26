@@ -98,4 +98,4 @@
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/22bapr13.png'><br><i>Tacoma</i>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/emmaemma.jpg'><br><i>Mexico</i>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/flagdance.jpg'>
-<img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/showhertit.jpg'><br><i>Wright Park Apartment, Tacoma</i>
+<img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/showhertit.gif'><br><i>Wright Park Apartment, Tacoma</i>
