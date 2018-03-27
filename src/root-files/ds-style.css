@@ -1,0 +1,10 @@
+body {
+        width: auto;
+	margin: 1em 1em 0em 1em;
+	padding-left: 1em;
+        font-family: 'Arial';
+}
+#main {
+max-width: 800px;
+margin: 0 auto;
+}
