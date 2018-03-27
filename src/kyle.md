@@ -7,3 +7,5 @@ insert: _kyle.md kyle-yuk
 
 Yeah, yuck.
 
+<center>[EmilyRoseClub](kennedy-rant.html)</center>
+

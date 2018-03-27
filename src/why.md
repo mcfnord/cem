@@ -1,6 +1,6 @@
 # Once I had a beautiful family
 
-![](img/four.jpg)
+![](/fouryears.jpg)
 
 # See Photo number 23
 
