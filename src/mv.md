@@ -1,4 +1,15 @@
-## To Melissa
+# To Melissa
+
+What would happen if I did nothing?
+If a crushing force of flim-flam made judgements about propriety mere preferences based on fears and unbalanced appraisals, what would happen to hearts and hopes in life?
+If one dies with the knowledge, what ought another do?
+Here I am, ready.
+
+Isn't there a pathology buzzword to be afraid of?
+
+Nobody wants to believe daddy's love is poison.
+
+## The art
 
 I just love the style. It bridges the moving, living world into moments. 
 

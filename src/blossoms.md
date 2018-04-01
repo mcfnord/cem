@@ -1,4 +1,4 @@
-[B[B# University of Washington
+# University of Washington
 
 ![](img/octagonblossom.gif)
 
