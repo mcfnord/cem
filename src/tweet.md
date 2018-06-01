@@ -50,8 +50,6 @@ Tweet what you want.
 
 ![](img/ridinby.gif)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/eQfQMGFdAGc" frameborder="0" allowfullscreen></iframe>
-
 ## Light Years
 
 I've used hammers made out of wood  
