@@ -1,11 +1,3 @@
-<iframe width="420" height="315" src="https://www.youtube.com/embed/PwbQvcCTOHE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="420" height="315" src="https://www.youtube.com/embed/iUkgY1B_zgc?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9G_USeIc2-Y?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tyGpk0n05mQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uHfyqbclAbY?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0lc5YvQg_RE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KmULgAZcfGc?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7McHAp9AkSE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0$
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/yellin.gif'><br><i>Seattle</i>
 <img             src='http://b00p.s3-us-west-2.amazonaws.com/img/yellin_fb_bw.gif'><br><i>Seattle</i>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/055.jpg'>
@@ -29,7 +21,7 @@
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/fashionkiss.gif'>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/figuree.jpg'>
 <img             src='http://b00p.s3-us-west-2.amazonaws.com/img/fkloo.gif'>
-<img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/flowrs.gif'>
+<img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/flowrs.gif'><br><i>Jefferson Elementary, Tacoma</i>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/frid.jpg'>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/gooff.gif'>
 <img width='80%' src='http://b00p.s3-us-west-2.amazonaws.com/img/gra1.jpg'>
