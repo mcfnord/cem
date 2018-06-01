@@ -552,5 +552,9 @@ We were but stones,... your light made us stars
 
 This gay man keeps checking me out. (Not Cosmo. Cosmo's cool.)
 
+### April 5, 2018
+
+![](jrd72.jpg)
+
 [Emily Rose Club](/)
 
