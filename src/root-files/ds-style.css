@@ -1,8 +1,14 @@
+
+
+
 body {
         width: auto;
 	margin: 1em 1em 0em 1em;
 	padding-left: 1em;
         font-family: 'Arial';
+}
+a {
+        color: #529ECC;
 }
 #main {
 max-width: 800px;
