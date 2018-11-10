@@ -1,43 +1,33 @@
-# To Mary
 
-I'm writing about your duplex.
+# Paying Mary W.
 
-I've prepared this application for 
-your review:
+<table border=1><th>Technique<th>Possible?<th>Problems</tr>
+<tr><td>Cash<td>Yes<td>Dangerous for John while he waits to hand the money to Mary.</tr>
+<tr><td>Money Order<td>Yes<td>John 10-60 minutes at USPS, perhaps $7 overhead (two money orders).</tr>
+<tr><td>Bank-to-Bank<td>No<td>Simple.com bank does not provide out-of-bank account-to-account transfers.</tr>
+<tr><td>Check<td>Yes, with SASEs<td>Mary Wong get a check via USPS monthly. She'd have to deposit it. ~2 minutes with deposit envelopes and outgoing USPS mail access.</tr>
+<tr><td>PayPal<td>Yes, if Mary has an account<td>Not aware of automation feature.</tr>
+<tr><td>Some other instrument<td><td>Bitcoin? Debit card of new account?</tr>
+</table>
 
-[PDF copy of application](brooklyn.pdf)
+Mary, 
 
-I don't write clearly so let
-me explain:
+This table shows options I can think of for transferring $1,025/mo.
 
-I am selling my property at [2450 
-Delmar Drive 
-East](https://www.zillow.com/homedetails/2450-Delmar-Dr-E-Seattle-WA-98102/48770433_zpid/?fromHomePage=true), 
-a property I've own for 20 years, 
-and resided in for 2. I've spent 3 
-months nearby at 52nd and 11th, and 
-you can contact the owner of this 
-apartment, named John Lindgren, 
-206-234-9009, or his mom Kathy 
-206-547-2505. 
+My bank won't do direct account transfers to accounts that aren't mine.
 
-Your property near 53rd and 
-Brooklyn is close to transit and 
-the YMCA. I visited The Ave
-and found a coffee shop that looks
-good.
+Your bank won't take cash or a debit card transfer to your account, and won't 
+sell a money order.
 
-I will have no problem paying the 
-move-in costs or monthly rent. 
-I take home about $4,000/mo.
+Money orders can be purchased from the U.S. Postal Service, but the line
+there is typically long. I don't stand in lines like that one if I can 
+avoid it. 
 
-I can gather more references if you 
-need more. Please do send me a text 
-206-384-5335 if your 
-property is available.
+As a mitigation, I'm going to transfer $2,050 in one transaction, to
+cut out one trip to the Post Office.
 
-Regards,
+John
 
-John Dempsey
+
 
 
