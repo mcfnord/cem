@@ -16,7 +16,7 @@ def create_connection(db_file):
 
 
 def main():
-    database = "./ocean-metadata.db"
+    database = "/home/ec2-user/cem/rek/ocean-metadata.db"
 
     client=boto3.client('rekognition')
 
@@ -28,9 +28,18 @@ def main():
         rows = cur.fetchall()
         for row in rows:
             blobname = "ocean-img.v3.tar/" + row[0]
-            response = client.detect_labels(Image={'S3Object':{'Bucket':'p0p','Name':blobname}})
-#            print response['Labels']
-            updater = "UPDATE blobs SET scanned=1, labels='" + urllib.quote(str(response['Labels'])) + "' WHERE name = '" + row[0] + "';"
+            labels = None
+            try:
+                response = client.detect_labels(Image={'S3Object':{'Bucket':'p0p','Name':blobname}})
+                labels = response['Labels']
+                print("got labels");
+            except:
+                print("bad image format? some bad thing happened.")
+
+            if labels is not None:
+                updater = "UPDATE blobs SET scanned=1, labels='" + urllib.quote(str(response['Labels'])) + "' WHERE name = '" + row[0] + "';"
+            else:
+                updater = "UPDATE blobs SET scanned=1 WHERE name = '" + row[0] + "';"
             cur.execute(updater)
 #            print('Detected labels for ' + blobname)
 #            for label in response['Labels']:
