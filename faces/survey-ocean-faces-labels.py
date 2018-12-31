@@ -24,6 +24,7 @@ def main():
 
     db = create_connection(database)
     cur = db.cursor()
+    writecur = db.cursor()
     cur.execute("SELECT name from blobs where NOT(scanned) LIMIT 2 ;")
     rows = cur.fetchall()
     for row in rows:
@@ -49,8 +50,11 @@ def main():
             print(" label query failed."),
 
         fmt = "update blobs set scanned=1, labels='{0}', faces='{1}' where name = '{2}';"
-        cur.execute(fmt.format(urllib.parse.quote(str(labels)), urllib.parse.quote(str(faces)), row[0]))
+        updatestr = fmt.format(urllib.parse.quote(str(labels)), urllib.parse.quote(str(faces)), row[0])
+        print (updatestr)
+        writecur.execute(updatestr)
         print
+    db.commit()
     db.close()
 
 if __name__ == '__main__':
