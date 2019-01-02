@@ -26,8 +26,10 @@ cd tmp
 ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do
-echo '<meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" media="all" href="ds-style.css" /><div id="main">' > $file.html
-md2html $file.md -s solarized-dark.css >> $file.html
+echo '<meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" media="all" href="ds-style-cem.css" /><div id="main">' > $file.html
+# markdown $file.md  >> $file.html
+markdown $file.md | sed -r 's/<br><br>/XYXYXYXY/g' | sed -r 's/<br>/ /g' | sed -r 's/XYXYXYXY/<br>/g'  >> $file.html
+# md2html -p -f $file.md -o $file.html
 # https://www.npmjs.com/package/markdown-to-html
 # this is installed with -g, so md2html works, but the next-page insertions might$
 echo '</div>' >> $file.html
