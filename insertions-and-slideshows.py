@@ -8,8 +8,8 @@ gstrClassname = None
 gInsertSought = False
 
 def S3BinaryHostReplace( str ):
-    str = str.replace("(img/", "(http://b00p.s3-us-west-2.amazonaws.com/img/")
-    str = str.replace("(doc/", "(http://b00p.s3-us-west-2.amazonaws.com/doc/")
+    str = str.replace("(img/", "(http://p0p.s3-us-west-2.amazonaws.com/img/")
+    str = str.replace("(doc/", "(http://p0p.s3-us-west-2.amazonaws.com/doc/")
     return str ;
 
 class MyHTMLParser(HTMLParser):
