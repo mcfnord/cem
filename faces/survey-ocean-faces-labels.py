@@ -18,14 +18,14 @@ def create_connection(db_file):
 
 
 def main():
-    database = "/t/ocean-metadata.db"
+    database = "/home/ec2-user/cem/faces/ocean-metadata.db"
 
     client=boto3.client('rekognition')
 
     db = create_connection(database)
     cur = db.cursor()
     writecur = db.cursor()
-    cur.execute("SELECT name from blobs where NOT(scanned) LIMIT 2 ;")
+    cur.execute("SELECT name from blobs where NOT(scanned) LIMIT 50 ;")
     rows = cur.fetchall()
     for row in rows:
         faces = ""

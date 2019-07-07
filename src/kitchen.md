@@ -235,3 +235,25 @@ right through it. Again.
 Mary came by to examine the stove and note the plug type. I told her the breaker would also need replacement.
 I told her there's no hurry. She didn't mention any other concern about the kitchen.
 
+**June 21, 2019:**
+
+Mary and two others arrived without notice seeking access through the kitchen.
+
+Various words were said. Let's remember: She delined an offer for $1,815. Then 
+she offered to me at $1,700. Kinda screwed up the exact situation she was hoping for.
+And really shows she does not prioritize her existing business relationships.
+And never will.
+
+**June 25th or so, 2019:**
+
+Various people shuffling through my kitchen without 
+notice or knock.
+
+**June 27, 2019:**
+
+Mary's employee needed to pass through my kitchen
+to use a toilet. The toilet where he is working
+has been removed. Later he used the toilet a second
+time after entering with his own key.
+Mary talks about lease violations but
+doesn't appear to know how to spot one.
