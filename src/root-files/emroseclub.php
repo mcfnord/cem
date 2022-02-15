@@ -53,5 +53,5 @@ if( 0 == rand( 0, 3 ))    // flip a coin heads twice to see something I can read
   echo "'>Read...</a></b>" ;
 }
 
-echo '</center></font></body></html>' ;
+echo '</center></font><font size="-1"><a href="help.php">Help</a></font></body></html>' ;
 ?>
